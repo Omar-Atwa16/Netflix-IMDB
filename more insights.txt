@@ -1,0 +1,51 @@
+### 🔍 Content Trends & Performance
+
+1. **🧠 Most Productive Years**
+
+   * *Which year had the most content released?*	2019 => 749
+   * *Is there a growing or declining trend in content production over time?* 2014 => 2019 and a huge drop in 2022
+
+2. **🏆 Top 10 Titles by Rating (regardless of era)**
+
+   * A list of the absolute highest-rated titles on the platform. done
+
+3. **📉 Consistency Over Time**
+
+   * *Did ratings get better, worse, or stay the same over the decades?*
+
+4. **🎬 Genre Breakdown (if available)**
+
+   * What genres are most frequent?
+   * Which genres tend to have the **highest average rating**?
+
+---
+
+### 🧩 Platform Strategy Insights
+
+5. **📺 Series vs. Movies: Quantity & Quality**
+
+   * Beyond just which has higher ratings:
+
+     * *Which is released more frequently?*
+     * *Which has more consistency in quality (less variance)?*  Both have consistent rating  
+
+6. **⚖️ Rating Distribution**
+
+   * A histogram of IMDB scores
+   * *Do most shows sit between 6-7? Or is the data skewed?*  LEFT SEkwed
+
+7. **🔟 Most Common Rating**
+
+   * What rating appears the most frequently across the dataset?
+
+---
+
+### 🎯 User Engagement Proxy (Based on Ratings)
+
+8. **📈 Trending Up / Down**
+
+   * Are there any patterns in *newer* titles getting better/worse ratings compared to older content?
+
+9. **🎞️ Underappreciated Titles**
+
+   * Titles with *low popularity (maybe low vote count if available)* but high rating — potential for promotion.
