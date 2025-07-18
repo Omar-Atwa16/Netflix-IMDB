@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_csv(r"D:\~OMAR\Projects\Netflix IMDB score analytics\imdb.csv")
+df = pd.read_csv(r"D:\~OMAR\Projects\Netflix-IMDB\Data\imdb.csv")
 
 print(df.isnull().sum())
 
@@ -16,4 +16,4 @@ df.loc[2752, 'description'] = "Featuring raw and moving footage, experts, make a
 df.loc[4020, 'description'] = "Siblings Charlie and Jack are trapped in Myanmar's toughest prison and accused of a crime they didn't commit. Forced into televised fights against other inmates, they must work together and fight for their freedom."
 df.loc[4393, 'description'] = "No description"
 
-df.to_csv("imdb_V2.csv", index=False)
+df.to_csv(r"D:\~OMAR\Projects\Netflix-IMDB\Data\imdb_V2.csv", index=False)

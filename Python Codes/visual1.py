@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt  
 import seaborn as sns
 
-df = pd.read_csv(r"D:\~OMAR\Projects\Netflix IMDB score analytics\Data\imdb_V2.csv")
+df = pd.read_csv(r"D:\~OMAR\Projects\Netflix-IMDB\Data\imdb_V2.csv")
 
 def get_decade(year):
     decade = int(year) // 10 * 10

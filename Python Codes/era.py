@@ -1,10 +1,8 @@
 import pandas as pd
 
-df = pd.read_csv(r"D:\~OMAR\Projects\Netflix IMDB score analytics\imdb_V2.csv")
+df = pd.read_csv(r"D:\~OMAR\Projects\Netflix-IMDB\Data\imdb_V2.csv")
 
 df = df[['id', 'title', 'release_year', 'imdb_score', 'imdb_votes']]
-
-# print(df)
 
 era = {
     "50s": (1950, 1959),
@@ -17,7 +15,7 @@ era = {
     "20s": (2020, 2029)
 }
 
-pathh = r"D:\~OMAR\Projects\Netflix IMDB score analytics"
+pathh = r"D:\~OMAR\Projects\Netflix-IMDB\Data/"
 
 for label, (start, end) in era.items():
     eraDF = df[(df['release_year'] >= start) & (df['release_year'] <= end)]
