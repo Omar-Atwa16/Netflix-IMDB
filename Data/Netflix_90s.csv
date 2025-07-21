@@ -1,127 +1,131 @@
-id,title,release_year,imdb_score,imdb_votes
-tm155792,Teenage Mutant Ninja Turtles,1990,6.7,92647.0
-tm145608,Awakenings,1990,7.8,137549.0
-tm152839,Tim Allen: Men Are Pigs,1990,6.0,353.0
-tm147829,Unspeakable Acts,1990,6.0,448.0
-tm159912,Agneepath,1990,7.6,8902.0
-tm157853,In Defense of a Married Man,1990,5.6,200.0
-tm157603,Dil,1990,6.6,5273.0
-tm11556,The Quick and the Dead,1995,6.5,92224.0
-ts22176,Stargate SG-1,1997,8.4,90196.0
-ts21223,PokÃƒÂ©mon,1997,7.6,172.0
-tm122434,Forrest Gump,1994,8.8,1994599.0
-tm106462,Happy Gilmore,1996,7.0,217534.0
-ts20339,One Piece,1999,8.8,112586.0
-tm57554,Saving Private Ryan,1998,8.6,1346020.0
-ts34435,Cowboy Bebop,1998,8.9,112887.0
-ts20927,Star Trek: Deep Space Nine,1993,8.1,61145.0
-ts5145,The Challenge,1998,7.8,3274.0
-tm192405,Gattaca,1997,7.8,298168.0
-tm55553,Blade,1998,7.1,267181.0
-tm56574,You've Got Mail,1998,6.7,209258.0
-tm192037,Starship Troopers,1997,7.3,288960.0
-ts20983,Neon Genesis Evangelion,1995,8.5,64727.0
-ts22193,The Magic School Bus,1994,7.8,9708.0
-tm191989,Donnie Brasco,1997,7.7,300073.0
-ts20960,Power Rangers,1993,6.5,21949.0
-tm65686,U.S. Marshals,1998,6.5,103263.0
-ts11397,Adventures of Sonic the Hedgehog,1993,6.2,3808.0
-tm54903,Wild Things,1998,6.6,118811.0
-tm187187,Last Action Hero,1993,6.4,149290.0
-tm191772,Seven Years in Tibet,1997,7.1,141308.0
-tm191848,The Devil's Advocate,1997,7.5,361422.0
-tm121879,A River Runs Through It,1992,7.2,59086.0
-tm44402,"Girl, Interrupted",1999,7.3,180532.0
-ts22489,Goosebumps,1995,7.6,13361.0
-ts25252,Yu-Gi-Oh!,1998,7.2,20888.0
-tm53419,Any Given Sunday,1999,6.9,118479.0
-tm189764,Menace II Society,1993,7.5,57399.0
-tm9323,Desperado,1995,7.1,183638.0
-tm46173,The Mask of Zorro,1998,6.8,181306.0
-tm189433,Free Willy,1993,6.0,75244.0
-tm1822,3 Ninjas Kick Back,1994,4.5,9208.0
-tm187791,In the Line of Fire,1993,7.2,101939.0
-tm10739,Johnny Mnemonic,1995,5.6,71062.0
-tm113576,Little Women,1994,7.3,57621.0
-tm191387,Anaconda,1997,4.8,103459.0
-tm6859,My Girl,1991,6.9,79800.0
-tm186589,Cliffhanger,1993,6.5,128179.0
-tm191374,I Know What You Did Last Summer,1997,5.7,142696.0
-tm8446,Teenage Mutant Ninja Turtles II: The Secret of the Ooze,1991,6.0,55499.0
-ts8570,Barney & Friends,1992,3.8,9955.0
-tm48430,Godzilla,1998,5.4,191722.0
-tm190835,Neon Genesis Evangelion: The End of Evangelion,1997,8.0,51938.0
-tm192199,Spawn,1997,5.2,67761.0
-tm184205,Dennis the Menace,1993,5.6,60779.0
-tm12499,The Net,1995,5.9,66127.0
-tm192431,The Devil's Own,1997,6.2,64625.0
-tm56033,Croupier,1998,7.0,21382.0
-tm190486,Teenage Mutant Ninja Turtles III,1993,4.7,33128.0
-tm61103,The General's Daughter,1999,6.4,58726.0
-tm117488,The Next Karate Kid,1994,4.5,30138.0
-tm55732,I Still Know What You Did Last Summer,1998,4.7,73269.0
-tm191431,Double Team,1997,4.7,34127.0
-ts20939,Moesha,1996,5.7,3713.0
-ts21693,"Sister, Sister",1994,6.2,12535.0
-ts22286,Cardcaptor Sakura,1998,8.0,4936.0
-tm190811,Geronimo: An American Legend,1993,6.5,11506.0
-tm107659,The Mirror Has Two Faces,1996,6.6,19829.0
-tm7073,Knight Rider 2000,1991,4.5,3178.0
-tm63514,The Last Days,1998,7.9,4247.0
-ts20918,The Parkers,1999,6.8,2346.0
-tm10811,Heavy,1995,6.8,4921.0
-tm188970,Bill Hicks: Revelations,1993,8.5,3085.0
-tm188606,Sankofa,1993,7.0,678.0
-ts18465,Dale's Supermarket Sweep,1993,7.1,39.0
-tm64817,Jerry Seinfeld: I'm Telling You for the Last Time,1998,7.9,5834.0
-tm320211,Children of God,1994,6.4,589.0
-tm189171,Wild Tango,1993,6.7,1564.0
-tm67635,Kuch Kuch Hota Hai,1998,7.6,51640.0
-ts22080,Oggy and the Cockroaches,1999,7.4,4185.0
-ts22039,H,1998,7.4,1703.0
-tm41525,Herod's Law,1999,7.8,5943.0
-tm7951,Tim Allen: Rewires America,1991,5.9,195.0
-ts21684,Heartbreak High,1994,7.8,3106.0
-tm55100,Dil Se..,1998,7.5,28409.0
-tm204173,Aashik Aawara,1993,4.7,320.0
-tm191614,Destiny,1997,7.1,2825.0
-tm8859,Oh Darling! Yeh Hai India!,1995,4.0,1678.0
-tm424630,A Triumph of the Heart: The Ricky Bell Story,1991,7.2,248.0
-tm12876,Bombay,1995,8.1,12512.0
-tm52083,West Beirut,1998,7.6,4175.0
-tm9898,Muthu,1995,7.6,3056.0
-tm326102,Qila,1998,4.8,129.0
-tm12482,Ram Jaane,1995,5.4,3901.0
-tm128925,Chamatkar,1992,6.5,6199.0
-tm52871,Soldier,1998,6.2,3025.0
-tm62385,Hum Saath Saath Hain,1999,6.2,8454.0
-tm184502,Kabhi Haan Kabhi Naa,1994,7.6,18224.0
-tm7810,Nightmare in Columbia County,1991,5.5,341.0
-tm47530,Jeans,1998,6.4,3567.0
-tm105716,Chaahat,1996,5.5,2837.0
-tm117873,Hum Aapke Hain Koun..!,1994,7.5,20986.0
-tm189773,Maya Memsaab,1993,5.4,2177.0
-tm7032,Out of Life,1991,6.9,365.0
-tm58893,Duplicate,1998,5.5,7557.0
-tm340430,Govindha Govindha,1993,6.6,351.0
-tm184326,Damini,1993,7.8,3490.0
-tm110225,English Babu Desi Mem,1996,4.5,2322.0
-tm21911,Sam Kinison: Live in Vegas,1991,6.6,272.0
-tm118438,Anjaam,1994,6.6,6465.0
-tm62176,Mann,1999,6.1,5413.0
-tm57169,Monty Python: Live at Aspen,1998,7.8,1092.0
-tm184224,Sinbad: Afros and Bellbottoms,1993,7.8,166.0
-tm44776,The Other,1999,5.9,987.0
-tm104933,Sinbad: Son of a Preacher Man,1996,6.7,115.0
-tm203186,Children of Shatila,1999,8.19999999999999,74.0
-tm256669,Gumrah,1993,6.1,784.0
-tm117840,The Emigrant,1994,6.5,998.0
-tm334788,Yodha,1991,4.5,198.0
-tm110160,Avvai Shanmugi,1996,7.9,2528.0
-tm192301,Minsara Kanavu,1997,6.7,1212.0
-tm110766,Chronicle of a Disappearance,1996,6.9,718.0
-tm118256,Yaar Gaddar,1994,3.6,142.0
-tm64729,Sinbad: Nothin' but the Funk,1998,6.2,65.0
-tm314602,Dushmani,1995,5.0,248.0
-tm42397,Hello Brother,1999,4.6,4230.0
-tm449775,Shikari,1991,5.9,66.0
+id,title,type,description,release_year,imdb_id,imdb_score,imdb_votes
+tm155792,Teenage Mutant Ninja Turtles,MOVIE,"A quartet of humanoid turtles, trained by their mentor in ninjitsu, must learn to work together to face the menace of Shredder and the Foot Clan.",1990,tt0100758,6.7,92647.0
+tm145608,Awakenings,MOVIE,"Dr. Malcolm Sayer, a shy research physician, uses an experimental drug to ""awaken"" the catatonic victims of a rare disease. Leonard is the first patient to receive the controversial treatment. His awakening, filled with awe and enthusiasm, proves a rebirth for Sayer too, as the exuberant patient reveals life's simple but unutterably sweet pleasures to the introverted doctor.",1990,tt0099077,7.8,137549.0
+tm152839,Tim Allen: Men Are Pigs,MOVIE,"Comedian Tim Allen shares his enthusiasm for power tools, automobiles, grunting, and the myriad obsessions of the American male in this special for the Showtime premium cable network, which was aired a few years before he rose to stardom with the television sitcom Home Improvement.",1990,tt0259057,6.0,353.0
+tm147829,Unspeakable Acts,MOVIE,Two psychologist try to demonstrate that a man is a pedophile and has abused many children.,1990,tt0100848,6.0,448.0
+tm159912,Agneepath,MOVIE,"The movie depicts the life of a young boy, Vijay (Amitabh Bachchan), whose father gets brutally lynched by a mobster Kancha Cheena. It's a journey of his quest for revenge, which leads him to become a gangster as an adult. Watch out for Amitabh Bachchan in one of the most powerful roles of his career. Will Vijay lose his family in the process of satisfying his vengeance?",1990,tt0098999,7.6,8902.0
+tm157853,In Defense of a Married Man,MOVIE,"When a defense lawyer's adulterous husband becomes the prime suspect in the murder of the woman he was cheating with, his wife chooses to defend him. Can she overcome his betrayal while searching for the truth?",1990,tt0099833,5.6,200.0
+tm157603,Dil,MOVIE,"Raja lives a poor lifestyle along with his dad, Hazariprasad and mom. He attends college where he has several run-ins with wealthy fellow-collegian, Madhu Mehra. Matters escalate to such an extent that she accuses him of sexually molesting her. When his dad comes to know, he decides to seize this chance to get rich quickly, masquerades as a wealthy businessman, approaches Mr. Mehra, and arranges for their children to get married. Murphy's law prevails at the time of the engagement - changing everyone's lives forever.",1990,tt0099429,6.6,5273.0
+tm11556,The Quick and the Dead,MOVIE,"A mysterious woman comes to compete in a quick-draw elimination tournament, in a town taken over by a notorious gunman.",1995,tt0114214,6.5,92224.0
+ts22176,Stargate SG-1,SHOW,"The story of Stargate SG-1 begins about a year after the events of the feature film, when the United States government learns that an ancient alien device called the Stargate can access a network of such devices on a multitude of planets. SG-1 is an elite Air Force special operations team, one of more than two dozen teams from Earth who explore the galaxy and defend against alien threats such as the Goa'uld, Replicators, and the Ori.",1997,tt0118480,8.4,90196.0
+ts21223,PokÃƒÂ©mon,SHOW,"Join Ash accompanied by his partner Pikachu, as he travels through many regions, meets new friends and faces new challenges on his quest to become a PokÃƒÂ©mon Master.",1997,tt0168366,7.6,172.0
+tm122434,Forrest Gump,MOVIE,"A man with a low IQ has accomplished great things in his life and been present during significant historic eventsÃ¢â‚¬â€in each case, far exceeding what anyone imagined he could do. But despite all he has achieved, his one true love eludes him.",1994,tt0109830,8.8,1994599.0
+tm106462,Happy Gilmore,MOVIE,"Failed hockey player-turned-golf whiz Happy Gilmore -- whose unconventional approach and antics on the grass courts the ire of rival Shooter McGavin -- is determined to win a PGA tournament so he can save his granny's house with the prize money. Meanwhile, an attractive tour publicist tries to soften Happy's image.",1996,tt0116483,7.0,217534.0
+ts20339,One Piece,SHOW,"Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous ""One Piece"" behind. Whoever claims the ""One Piece"" will be named the new King of the Pirates. Monkey D. Luffy, a boy who consumed a ""Devil Fruit,"" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way. Luffy will do anything to get the One Piece and become King of the Pirates!",1999,tt0388629,8.8,112586.0
+tm57554,Saving Private Ryan,MOVIE,"As U.S. troops storm the beaches of Normandy, three brothers lie dead on the battlefield, with a fourth trapped behind enemy lines. Ranger captain John Miller and seven men are tasked with penetrating German-held territory and bringing the boy home.",1998,tt0120815,8.6,1346020.0
+ts34435,Cowboy Bebop,SHOW,"In 2071, roughly fifty years after an accident with a hyperspace gateway made the Earth almost uninhabitable, humanity has colonized most of the rocky planets and moons of the Solar System. Amid a rising crime rate, the Inter Solar System Police (ISSP) set up a legalized contract system, in which registered bounty hunters (also referred to as ""Cowboys"") chase criminals and bring them in alive in return for a reward.",1998,tt0213338,8.9,112887.0
+ts20927,Star Trek: Deep Space Nine,SHOW,"At Deep Space Nine, a space station located next to a wormhole in the vicinity of the liberated planet of Bajor, Commander Sisko and crew welcome alien visitors, root out evildoers and solve all types of unexpected problems that come their way.",1993,tt0106145,8.1,61145.0
+ts5145,The Challenge,SHOW,"Each Challenge pits numerous cast members from past seasons of reality shows against each other, dividing them into two separate teams according to different criteria, such as gender, which show they first appeared on, whether or not they're veterans or rookies on the show, etc. The two teams compete in numerous missions in order to win prizes and advance in the overall game.",1998,tt0176095,7.8,3274.0
+tm192405,Gattaca,MOVIE,"In a future society in the era of indefinite eugenics, humans are set on a life course depending on their DNA. Young Vincent Freeman is born with a condition that would prevent him from space travel, yet is determined to infiltrate the GATTACA space program.",1997,tt0119177,7.8,298168.0
+tm55553,Blade,MOVIE,"The Daywalker known as ""Blade"" - a half-vampire, half-mortal man - becomes the protector of humanity against an underground army of vampires.",1998,tt0120611,7.1,267181.0
+tm56574,You've Got Mail,MOVIE,"Book superstore magnate, Joe Fox and independent book shop owner, Kathleen Kelly fall in love in the anonymity of the InternetÃ¢â‚¬â€both blissfully unaware that he's trying to put her out of business.",1998,tt0128853,6.7,209258.0
+tm192037,Starship Troopers,MOVIE,"Set in the future, the story follows a young soldier named Johnny Rico and his exploits in the Mobile Infantry. Rico's military career progresses from recruit to non-commissioned officer and finally to officer against the backdrop of an interstellar war between mankind and an arachnoid species known as ""the Bugs"".",1997,tt0120201,7.3,288960.0
+ts20983,Neon Genesis Evangelion,SHOW,"At the turn of the century, the Angels returned to Earth, seeking to wipe out humanity in an apocalyptic fury. Devastated, mankind's last remnants moved underground to wait for the day when the Angels would come back to finish the job. Fifteen years later, that day has come... but this time, humanity is ready to fight back with terrifying bio-mechanical weapons known as the Evangelions. Watch as Shinji, Rei, Asuka and the rest of the mysterious shadow agency Nerv battle to save earth from total annihilation.",1995,tt0112159,8.5,64727.0
+ts22193,The Magic School Bus,SHOW,An eccentric schoolteacher takes her class on wondrous educational field trips with the help of a magical school bus.,1994,tt0108847,7.8,9708.0
+tm191989,Donnie Brasco,MOVIE,An FBI undercover agent infilitrates the mob and finds himself identifying more with the mafia life at the expense of his regular one.,1997,tt0119008,7.7,300073.0
+ts20960,Power Rangers,SHOW,"A team of teenagers with attitude are recruited to save Angel Grove from the evil witch, Rita Repulsa, and later, Lord Zedd, Emperor of all he sees, and their horde of monsters.",1993,tt0106064,6.5,21949.0
+tm65686,U.S. Marshals,MOVIE,"U.S. Marshal Sam Gerard is accompanying a plane load of convicts from Chicago to New York. The plane crashes spectacularly, and Mark Sheridan escapes. But when Diplomatic Security Agent John Royce is assigned to help Gerard recapture Sheridan, it becomes clear that Sheridan is more than just another murderer.",1998,tt0120873,6.5,103263.0
+ts11397,Adventures of Sonic the Hedgehog,SHOW,"Follow the adventures of Sonic the Hedgehog, and his sidekick Tails, as they attempt to stop Dr. Robotnik and his array of robots from taking over the planet Mobius.",1993,tt0222518,6.2,3808.0
+tm54903,Wild Things,MOVIE,"When teen-socialite Kelly Van Ryan and troubled bad girl Suzie Toller accuse guidance counselor Sam Lombardo of rape, he's suspended by the school, rejected by the town, and fighting to get his life back. One cop suspects conspiracy, but nothing is what it seems...",1998,tt0194542,6.6,118811.0
+tm187187,Last Action Hero,MOVIE,"Danny is obsessed with a fictional movie character action hero Jack Slater. When a magical ticket transports him into Jack's latest adventure, Danny finds himself in a world where movie magic and reality collide. Now it's up to Danny to save the life of his hero and new friend.",1993,tt0107362,6.4,149290.0
+tm191772,Seven Years in Tibet,MOVIE,"Austrian mountaineer, Heinrich Harrer journeys to the Himalayas without his family to head an expedition in 1939. But when World War II breaks out, the arrogant Harrer falls into Allied forces' hands as a prisoner of war. He escapes with a fellow detainee and makes his way to Llaso, Tibet, where he meets the 14-year-old Dalai Lama, whose friendship ultimately transforms his outlook on life.",1997,tt0120102,7.1,141308.0
+tm191848,The Devil's Advocate,MOVIE,"Aspiring Florida defense lawyer Kevin Lomax accepts a job at a New York law firm. With the stakes getting higher every case, Kevin quickly learns that his boss has something far more evil planned.",1997,tt0118971,7.5,361422.0
+tm121879,A River Runs Through It,MOVIE,"A River Runs Through is a cinematographically stunning true story of Norman Maclean. The story follows Norman and his brother Paul through the experiences of life and growing up, and how their love of fly fishing keeps them together despite varying life circumstances in the untamed west of Montana in the 1920's.",1992,tt0105265,7.2,59086.0
+tm44402,"Girl, Interrupted",MOVIE,"Set in the changing world of the late 1960s, Susanna Kaysen's prescribed ""short rest"" from a psychiatrist she had met only once becomes a strange, unknown journey into Alice's Wonderland, where she struggles with the thin line between normal and crazy. Susanna soon realizes how hard it is to get out once she has been committed, and she ultimately has to choose between the world of people who belong inside or the difficult world of reality outside.",1999,tt0172493,7.3,180532.0
+ts22489,Goosebumps,SHOW,"Anything can turn spooky in this horror anthology series based on the best-selling books by master of kid horror, R.L. Stine. In every episode, see what happens when regular kids find themselves in scary situations, and how they work to confront and overcome their fears.",1995,tt0111987,7.6,13361.0
+ts25252,Yu-Gi-Oh!,SHOW,"A timid young boy who loves all sorts of games, one day solves an ancient puzzle known as the Millennium Puzzle, causing his body to play host to a mysterious spirit with the personality of a gambler.",1998,tt4834194,7.2,20888.0
+tm53419,Any Given Sunday,MOVIE,A star quarterback gets knocked out of the game and an unknown third stringer is called in to replace him. The unknown gives a stunning performance and forces the ageing coach to reevaluate his game plans and life. A new co-owner/president adds to the pressure of winning. The new owner must prove herself in a male dominated world.,1999,tt0146838,6.9,118479.0
+tm189764,Menace II Society,MOVIE,"Sobering and incisive, this cautionary drama centers on a street tough 18-year-old facing a moral quandary while trying to turn his life around.",1993,tt0107554,7.5,57399.0
+tm9323,Desperado,MOVIE,"Mariachi plunges headfirst into the dark border underworld when he follows a trail of blood to the last of the infamous Mexican drug lords, Bucho, for an action-packed, bullet-riddled showdown. With the help of his best friend and a beautiful bookstore owner, the Mariachi tracks Bucho, takes on his army of desperados, and leaves a trail of blood of his own.",1995,tt0112851,7.1,183638.0
+tm46173,The Mask of Zorro,MOVIE,"It has been twenty years since Don Diego de la Vega fought Spanish oppression in Alta California as the legendary romantic hero, Zorro. Having escaped from prison he transforms troubled bandit Alejandro into his successor, in order to foil the plans of the tyrannical Don Rafael Montero who robbed him of his freedom, his wife and his precious daughter.",1998,tt0120746,6.8,181306.0
+tm189433,Free Willy,MOVIE,"When maladjusted orphan Jesse vandalizes a theme park, he is placed with foster parents and must work at the park to make amends. There he meets Willy, a young Orca whale who has been separated from his family. Sensing kinship, they form a bond and, with the help of kindly whale trainer Rae Lindley, develop a routine of tricks. However, greedy park owner Dial soon catches wind of the duo and makes plans to profit from them.",1993,tt0106965,6.0,75244.0
+tm1822,3 Ninjas Kick Back,MOVIE,"During a championship baseball match, the three brothers hear that their grandfather in Japan is in trouble, and head out to help him, conceding the match. When they arrive in Japan, they must use all their powers to defend him against his ancient enemy, who has returned to exact revenge.",1994,tt15327306,4.5,9208.0
+tm187791,In the Line of Fire,MOVIE,"Veteran Secret Service agent Frank Horrigan is a man haunted by his failure to save President Kennedy while serving protection detail in Dallas. Thirty years later, a man calling himself ""Booth"" threatens the life of the current President, forcing Horrigan to come back to protection detail to confront the ghosts from his past.",1993,tt0107206,7.2,101939.0
+tm10739,Johnny Mnemonic,MOVIE,"In a dystopian 2021, Johnny is a data trafficker who has an implant that allows him to securely store data too sensitive for regular computer networks. On one delivery run, he accepts a package that not only exceeds the implant's safety limitsÃ¢â‚¬â€and will kill him if the data is not removed in timeÃ¢â‚¬â€but also contains information far more important and valuable than he had ever imagined. On a race against time, he must avoid the assassins sent to kill him and remove the data before it, too, ends his life.",1995,tt0113481,5.6,71062.0
+tm113576,Little Women,MOVIE,"With their father away as a chaplain in the Civil War, Jo, Meg, Beth and Amy grow up with their mother in somewhat reduced circumstances. They are a close family who inevitably have their squabbles and tragedies. But the bond holds even when, later, male friends start to become a part of the household.",1994,tt0110367,7.3,57621.0
+tm191387,Anaconda,MOVIE,"A ""National Geographic"" film crew is taken hostage by an insane hunter, who takes them along on his quest to capture the world's largest - and deadliest - snake.",1997,tt0118615,4.8,103459.0
+tm6859,My Girl,MOVIE,"Vada Sultenfuss is obsessed with death. Her mother is dead, and her father runs a funeral parlor. She is also in love with her English teacher, and joins a poetry class over the summer just to impress him. Thomas J., her best friend, is ""allergic to everything"", and sticks with Vada despite her hangups. When Vada's father hires Shelly, and begins to fall for her, things take a turn to the worse...",1991,tt0102492,6.9,79800.0
+tm186589,Cliffhanger,MOVIE,"A year after losing his friend in a tragic 4,000-foot fall, former ranger Gabe Walker and his partner, Hal, are called to return to the same peak to rescue a group of stranded climbers, only to learn the climbers are actually thieving hijackers who are looking for boxes full of money.",1993,tt0106582,6.5,128179.0
+tm191374,I Know What You Did Last Summer,MOVIE,"After four high school friends are involved in a hit-and-run road accident, they dispose of the body and vow to keep the incident a secret. A year later, they each start receiving anonymous letters bearing the warning ""I Know What You Did Last Summer.""",1997,tt0119345,5.7,142696.0
+tm8446,Teenage Mutant Ninja Turtles II: The Secret of the Ooze,MOVIE,"The Turtles and the Shredder battle once again, this time for the last cannister of the ooze that created the Turtles, which Shredder wants to create an army of new mutants.",1991,tt0103060,6.0,55499.0
+ts8570,Barney & Friends,SHOW,"Barney & Friends is an American children's television series aimed at children from ages 2 to 5. The series, which first aired on April 6, 1992, features the title character Barney, a purple anthropomorphic Tyrannosaurus rex who conveys educational messages through songs and small dance routines with a friendly, optimistic attitude.
+
+New episodes have not been produced since 2009; however reruns continue to air on various PBS stations.",1992,tt0144701,3.8,9955.0
+tm48430,Godzilla,MOVIE,"French nuclear tests irradiate an iguana into a giant monster that viciously attacks freighter ships in the Pacific Ocean. A team of experts, including Niko Tatopoulos, conclude that the oversized reptile is the culprit. Before long, the giant lizard is loose in Manhattan as the US military races to destroy the monster before it reproduces and it's spawn takes over the world.",1998,tt0120685,5.4,191722.0
+tm190835,Neon Genesis Evangelion: The End of Evangelion,MOVIE,"The second of two theatrically released follow-ups to the Neon Genesis Evangelion series. Comprising of two alternate episodes which were first intended to take the place of episodes 25 and 26, this finale answers many of the questions surrounding the series, while also opening up some new possibilities.",1997,tt0169858,8.0,51938.0
+tm192199,Spawn,MOVIE,"After being murdered by corrupt colleagues in a covert government agency, Al Simmons makes a pact with the devil to be resurrected to see his beloved wife Wanda. In exchange for his return to Earth, Simmons agrees to lead Hell's Army in the destruction of mankind.",1997,tt0120177,5.2,67761.0
+tm184205,Dennis the Menace,MOVIE,Mr. Wilson's ever-present annoyance comes in the form of one mischievous kid named Dennis. But he'll need Dennis's tricks to uncover a collection of gold coins that go missing when a shady drifter named Switchblade Sam comes to town.,1993,tt0106701,5.6,60779.0
+tm12499,The Net,MOVIE,"Angela Bennett is a freelance software engineer who lives in a world of computer technology. When a cyber friend asks Bennett to debug a new game, she inadvertently becomes involved in a conspiracy that will soon turn her life upside down and make her the target of an assassination.",1995,tt0113957,5.9,66127.0
+tm192431,The Devil's Own,MOVIE,"Frankie McGuire, one of the IRA's deadliest assassins, draws an American family into the crossfire of terrorism. But when he is sent to the U.S. to buy weapons, Frankie is housed with the family of Tom O'Meara, a New York cop who knows nothing about Frankie's real identity. Their surprising friendship, and Tom's growing suspicions, forces Frankie to choose between the promise of peace or a lifetime of murder.",1997,tt0962637,6.2,64625.0
+tm56033,Croupier,MOVIE,"Jack Manfred is an aspiring writer who to make ends meet, takes a job as a croupier. Jack remains an observer, knowing that everything in life is a gamble and that gamblers are born to lose. Inevitably, he gets sucked into the world of the casino which takes its toll on his relationships and the novel he is writing.",1998,tt0159382,7.0,21382.0
+tm190486,Teenage Mutant Ninja Turtles III,MOVIE,"The four turtles travel back in time to the days of the legendary and deadly samurai in ancient Japan, where they train to perfect the art of becoming one. The turtles also assist a small village in an uprising.",1993,tt0108308,4.7,33128.0
+tm61103,The General's Daughter,MOVIE,"When the body of Army Capt. Elizabeth Campbell is found on a Georgia military base, two investigators, Warrant Officers Paul Brenner and Sara Sunhill, are ordered to solve her murder. What they uncover is anything but clear-cut. Unseemly details emerge about Campbell's life, leading to allegations of a possible military coverup of her death and the involvement of her father, Lt. Gen. Joseph Campbell.",1999,tt0144214,6.4,58726.0
+tm117488,The Next Karate Kid,MOVIE,"Mr. Miyagi decides to take Julie, a troubled teenager, under his wing after he learns that she blames herself for her parents' demise and struggles to adjust with her grandmother and fellow pupils.",1994,tt0110657,4.5,30138.0
+tm55732,I Still Know What You Did Last Summer,MOVIE,"Ever since killing the Fisherman one year ago, Julie James is still haunted by images of him after her. When her best friend Karla wins free tickets to the Bahamas, Julie finds this a perfect opportunity to finally relax. But someone is waiting for her. Someone who she thought was dead. Someone who is out again for revenge.",1998,tt0130018,4.7,73269.0
+tm191431,Double Team,MOVIE,He's a one-man arsenal... with enough voltage to rock the free world. They Don't Play by the Rules. You're either on their side...or in their way. America's top counter-terrorist usually works alone...this time he's got company.,1997,tt0119013,4.7,34127.0
+ts20939,Moesha,SHOW,"Moesha was an American sitcom series that aired on the UPN network from January 23, 1996 to May 14, 2001. The series stars R&B singer Brandy Norwood as Moesha Mitchell, a high school student living with her family in the Leimert Park neighborhood of South Central Los Angeles. It was originally ordered as a pilot for the CBS network's 1995-1996 television season, who rejected. It was then picked up by UPN, who aired it as a mid-season replacement. It went on to become the biggest success for the nascent network and one of the greatest hits over the course of the network's entire run.",1996,tt0115275,5.7,3713.0
+ts21693,"Sister, Sister",SHOW,"Twins Tia Landry and Tamera Campbell were separated and adopted at birth. Fourteen years later, they encounter each other by chance at the mall. After the families meet, Tia's widowed father agrees to let Tamera and her single mother move in with them.",1994,tt0108927,6.2,12535.0
+ts22286,Cardcaptor Sakura,SHOW,"Sakura Kinomoto, an elementary school student who discovers that she possesses magical powers after accidentally freeing a set of magical cards from the book they had been sealed in for years. She is then tasked with retrieving those cards in order to avoid an unknown catastrophe from befalling the world.",1998,tt0221735,8.0,4936.0
+tm190811,Geronimo: An American Legend,MOVIE,"The Apache Indians have reluctantly agreed to settle on a US Government approved reservation. Not all the Apaches are able to adapt to the life of corn farmers. One in particular, Geronimo, is restless. Pushed over the edge by broken promises and necessary actions by the government, Geronimo and thirty or so other warriors form an attack team which humiliates the government by evading capture, while reclaiming what is rightfully theirs.",1993,tt0107004,6.5,11506.0
+tm107659,The Mirror Has Two Faces,MOVIE,"Rose Morgan, who still lives with her mother, is a professor of Romantic Literature who desperately longs for passion in her life. Gregory Larkin, a mathematics professor, has been burned by passionate relationships and longs for a sexless union based on friendship and respect.",1996,tt0117057,6.6,19829.0
+tm7073,Knight Rider 2000,MOVIE,"In the future, guns are banned and criminals are frozen for the duration of their sentences. A recent spate of killings involving handguns brings Michael Knight back to fight for justice, but he insists of the help of KITT, his artificially-intelligent car from decades ago. The only problem is that KITT has been deactivated.",1991,tt0102227,4.5,3178.0
+tm63514,The Last Days,MOVIE,"Five Jewish Hungarians, now U.S. citizens, tell their stories: before March, 1944, when Nazis began to exterminate Hungarian Jews, months in concentration camps, and visiting childhood homes more than 50 years later. An historian, a Sonderkommando, a doctor who experimented on Auschwitz prisoners, and US soldiers who were part of the liberation in April, 1945.",1998,tt0174852,7.9,4247.0
+ts20918,The Parkers,SHOW,"The Parkers is an American sitcom that aired on UPN from August 30, 1999, to May 10, 2004. A spin-off of UPN's Moesha, The Parkers features the mother-daughter team of Nikki and Kim Parker. The Parkers' signature ""Heeyyy"" greeting became very popular in the early 2000s.",1999,tt0200353,6.8,2346.0
+tm10811,Heavy,MOVIE,"Victor is a cook who works in a greasy bar/restaurant owned by his mother, Dolly. It's just the two of them, a waitress named Delores, and a heavy drinking regular, Leo. But things change when Callie, a beautiful college drop-out, shows up as a new waitress and steals Victor's heart. But Victor is too shy to do anything about it, and too self-consciously overweight to dream of winning Callie away.",1995,tt0113280,6.8,4921.0
+tm188970,Bill Hicks: Revelations,MOVIE,"Bill Hicks in the height of his genius. Recorded at the Dominion Theatre in London, Hicks opens our eyes and minds to the hypocrisy and ludicrousness of the world around us.",1993,tt0152183,8.5,3085.0
+tm188606,Sankofa,MOVIE,"On a photo shoot in Ghana, an American model slips back in time, becomes enslaved on a plantation and bears witness to the agony of her ancestral past.",1993,tt0108041,7.0,678.0
+ts18465,Dale's Supermarket Sweep,SHOW,Dale's Supermarket Sweep was a UK game show based on the American Supermarket Sweep TV show format.,1993,tt0962853,7.1,39.0
+tm64817,Jerry Seinfeld: I'm Telling You for the Last Time,MOVIE,"Taped for HBO in August 1998, on the final date of Jerry Seinfeld's tour appearances at New York City's Broadhurst Theater, I'm Telling You for the Last Time presents the standup comedian's so-called ""final"" standup, or at least his final tour with the standup material that made him famous.",1998,tt0500140,7.9,5834.0
+tm320211,Children of God,MOVIE,"A former member examines the lingering effects of being raised in the Family, a cult whose disturbing practices include the sexual abuse of children.",1994,tt6051792,6.4,589.0
+tm189171,Wild Tango,MOVIE,"A biopic based on the life of one of the pioneer argentine rock stars 'Tanguito'. The movie tells the story of his rise and fall from grace, encompassed in violent times of a military regime.",1993,tt0108291,6.7,1564.0
+tm67635,Kuch Kuch Hota Hai,MOVIE,"Anjali is left heartbroken when her best friend and secret crush, Rahul, falls in love with Tina. Years later, Tina's young daughter tries to fulfil her mother's last wish of uniting Rahul and Anjali.",1998,tt0172684,7.6,51640.0
+ts22080,Oggy and the Cockroaches,SHOW,"Oggy, an anthropomorphic cat, would prefer to spend his days watching television and eating, but is continuously pestered by three roaches: Joey, Marky and Dee Dee. The cockroaches' slapstick mischief ranges from plundering Oggy's refrigerator to hijacking the train he just boarded. In many situations Oggy is also helped by Jack, who is more violent and short-tempered than him and is also annoyed by the cockroaches. Bob, a short-tempered bulldog, also appears in the show, and is Oggy's neighbor.",1999,tt0213363,7.4,4185.0
+ts22039,H,SHOW,"H is a French sitcom with seventy-one, 22-minute episodes. The series was created by Kader Aoun, Xavier Matthieu and Ãƒâ€°ric Judor, and produced by Phillippe Berthe, Ãƒâ€°douard Molinaro, Jean-Luc Moreau and Charles NÃƒÂ©mÃƒÂ¨s. It ran from 24 October 1998 to 20 April 2002 on Canal+. In Canada, it is shown weekly on TV5.
+
+The title ""H"" comes from the three words that characterize the series: Humour, Histoire et HÃƒÂ´pital.",1998,tt0173554,7.4,1703.0
+tm41525,Herod's Law,MOVIE,"Mexico, 1949. The fable of a janitor turned Mayor on a little town lost in the Mexican desert, who gradually realizes how far his new acquainted power and corruption can get him.",1999,tt0221344,7.8,5943.0
+tm7951,Tim Allen: Rewires America,MOVIE,This is arguably Tim Allen's best stand-up show ever and this show truly solidified Tim Allen's unique slant on masculinity becoming the backbone for his TV show Ã¢â‚¬Å“Home Improvement.Ã¢â‚¬Â,1991,tt0294967,5.9,195.0
+ts21684,Heartbreak High,SHOW,The ins and outs of the classroom lives of a group of students who attend the fictional Hartley High School in Sydney.,1994,tt0108800,7.8,3106.0
+tm55100,Dil Se..,MOVIE,"Journalist Amar falls for a mysterious woman on an assignment, but she does not reciprocate his feelings. However, when Amar is about to get married, the woman shows up at his doorstep asking for help.",1998,tt0164538,7.5,28409.0
+tm204173,Aashik Aawara,MOVIE,"Raised by a kindly thief, orphaned Jimmy goes on the run from goons and falls in love with Jyoti, whose father indirectly caused his parents' deaths.",1993,tt0106206,4.7,320.0
+tm191614,Destiny,MOVIE,"In the 12th century's Andalusia lives Ibn Rushd a prominent islamic philosopher with his wife Zeinab and daughter Sara. The principality is ruled by Khalifa ElMansour who has two sons, ElNasser, an intellectual that likes Ibn Rush and is in love with his daughter Sara. The younger son Abdallah is more into dancing and poetry, spending most of his times with the gypsy family and getting the daughter pregnant. The Khalifa is depending on the extremists to build his army granting them more power which they use to combat artists and philosophers. The extremists succeed in recruiting Abd Allah and train him to kill his father. Events go on where Marawan, the gypsy singer, is killed and Ibn Rushd's books are burnt. Adapted from the real life of Ibn Rushd AlMasir is Chahine's statement against extremism.",1997,tt0119629,7.1,2825.0
+tm8859,Oh Darling! Yeh Hai India!,MOVIE,Miss India and an aspiring actor spend a night together roaming the streets of Mumbai and unwittingly clash paths with a megalomaniacal gangster planning to take over India.,1995,tt0114031,4.0,1678.0
+tm424630,A Triumph of the Heart: The Ricky Bell Story,MOVIE,"Ricky Bell, an all-pro running back with the Tampa Bay Buccaneers, who died of a rare muscle disease in the prime of his career. The plot centers on Bell's relationship with a father-less handicapped boy, and his efforts to be a big brother to him. The boy ends up being an inspiration for Bell when his disease makes the athlete more afflicted than the boy.",1991,tt0103123,7.2,248.0
+tm12876,Bombay,MOVIE,"A Hindu man and a Muslim woman fall in love in a small village and move to Mumbai, where they have two children. However, growing religious tensions and erupting riots threaten to tear the family apart.",1995,tt0112553,8.1,12512.0
+tm52083,West Beirut,MOVIE,"In April, 1975, civil war breaks out; Beirut is partitioned along a Moslem-Christian line. Tarek is in high school, making Super 8 movies with his friend, Omar. At first the war is a lark: school has closed, the violence is fascinating, getting from West to East is a game. His mother wants to leave; his father refuses. Tarek spends time with May, a Christian, orphaned and living in his building. By accident, Tarek goes to an infamous brothel in the war-torn Olive Quarter, meeting its legendary madam, Oum Walid. He then takes Omar and May there using her underwear as a white flag for safe passage. Family tensions rise. As he comes of age, the war moves inexorably from adventure to tragedy.",1998,tt0157183,7.6,4175.0
+tm9898,Muthu,MOVIE,"A lavish Maharaja lived with his sister-in-law and stepbrother Rajasekhar, helping people incessantly. His sister-in-law has a son, to whom the Maharaja bequeaths a major portion of his property. At this juncture, a new baby is born to the Maharaja.His wife dies soon after. Brother Rajasekhar cheats the Maharaja as he fears that his son's property might be taken back and given to the Maharaja's own son. When the cheating comes to light, the Maharaja hands over all his property and his baby to his sister-in-law...",1995,tt0140399,7.6,3056.0
+tm326102,Qila,MOVIE,"When an abusive landowner is murdered, his twin brother sets out to find the killer but quickly discovers that everyone, it seems, wanted him dead.",1998,tt0286907,4.8,129.0
+tm12482,Ram Jaane,MOVIE,"A street hustler, who has spent several years in and out of prison, decides to reform his life, as he teaches street kids to stay away from crime, but has trouble maintaining these ideals in his own life.",1995,tt0114231,5.4,3901.0
+tm128925,Chamatkar,MOVIE,"When Sunder loses everything, he seeks refuge in a graveyard, where he befriends a ghost.",1992,tt0126234,6.5,6199.0
+tm52871,Soldier,MOVIE,The story follows a young man (Bobby Deol) who flees India and arrives in Australia seeking vengence for something that started in India. In Australia he meets and falls in love with the daughter of a rich and powerful man(Suresh Oberoi). The story keeps the covers on Bobby Deols plan until the end when everything is revealed as to why he is a SOLDIER.,1998,tt0211634,6.2,3025.0
+tm62385,Hum Saath Saath Hain,MOVIE,"Ramkishen and his wife Mamta have three sons. Prem and Vinod have sweethearts in Preeti and Vivek marries Sangeeta. Since Vivek is Mamta's step-son, she plots to alienate him, but will she succeed?",1999,tt0216817,6.2,8454.0
+tm184502,Kabhi Haan Kabhi Naa,MOVIE,"A man belongs to a middle-class family and is intent on pursuing his career with a music group, despite his dad's disapproval. He is also in love with the lead singer, but she sees him mainly as a friend.",1994,tt0110222,7.6,18224.0
+tm7810,Nightmare in Columbia County,MOVIE,The recounting of a terrible crime that wracked a family and galvanized police in South Carolina in the 1980's. Southern beauty pageant winner Dawn Smith is targeted by a sadistic stalker whose obsession with her leads him to kidnap her younger sister.,1991,tt0102537,5.5,341.0
+tm47530,Jeans,MOVIE,"Vishu and Ramu are a pair of Indian twins living in America with their father, Rajamani. When Madhumita (Aishwarya Rai) and her brother come to America to get medical treatment for their ailing grandmother, Vishu and Ramu end up meeting them at the airport. Vishu falls in love with Madhumita, and the couple has everyone's blessing, except for Rajamani, who is estranged from his own twin brother. He only wants his sons to marry twin sisters, so Madhumita pretends to have a twin in order to please him. As Madhumita puts on a charade by creating Vaishnavi, all goes well, until Ramu falls in love with Vaishnavi. Now the truth must come out, before Madhumita has to marry both of Rajamani's twin sons.",1998,tt0151121,6.4,3567.0
+tm105716,Chaahat,MOVIE,"Roop and his father come to the city for medical treatment where Reshma falls in love with Roop. However, Roop loves Pooja but when Reshma threatens to kill herself, Roop agrees to marry her.",1996,tt0172234,5.5,2837.0
+tm117873,Hum Aapke Hain Koun..!,MOVIE,"Prem and Nisha meet and fall in love at the wedding of their elder siblings, but their plans to be together are put in jeopardy when Nisha's sister dies, leaving behind a baby.",1994,tt0110076,7.5,20986.0
+tm189773,Maya Memsaab,MOVIE,"A frustrated housewife whose marriage to an average man does not meet her expectations enters into an affair with a younger man. Of course, there are no easy escapes from reality.",1993,tt0137100,5.4,2177.0
+tm7032,Out of Life,MOVIE,"Patrick Perrault, a photo-journalist covering the war in Beirut in the late 1980s, is himself caught up in the hostilities when one day he is picked up and bundled into a car at gun-point. Blind-folded, he is taken to an unknown location where he discovers that he is being taken hostage by Lebanese guerrillas.",1991,tt0102058,6.9,365.0
+tm58893,Duplicate,MOVIE,"Seeking vengeance on those who double-crossed him, an escaped prisoner impersonates an unsuspecting chef.",1998,tt0164550,5.5,7557.0
+tm340430,Govindha Govindha,MOVIE,"A Tantric believes that by donating a virgin woman's head to gods crown, would bring down the universe to his feet. How the hero and heroine gets entangled in the underworld nexus, while rescuing the robbery, forms the crux of the plot.",1993,tt0192087,6.6,351.0
+tm184326,Damini,MOVIE,"The theme revolves around the character Damini who represents truth and innocence. After her marriage in renowned wealthy family, Damini happens to see a cruel act done by her brother-in-law. She wants the victim to get justice, but the family including her husband oppose her, which leads her to leave the house. Soon she is helped by a drunkard, an ex-advocate, who helps her in all respect to reach to her aim and therefore justice",1993,tt0106655,7.8,3490.0
+tm110225,English Babu Desi Mem,MOVIE,"Vikram Mayur is looking after his late brother's eight-year-old son and is torn between choosing to take Nandu back to England to learn his family's business, or risk throwing it all way.",1996,tt0136153,4.5,2322.0
+tm21911,Sam Kinison: Live in Vegas,MOVIE,"Comedy / Music/Musical - In the town that knows no limits, Kinison gives a completely raw and uncensored performance at the very height of his career. Filled with scorching comedy, hot women and sizzling rock 'n roll, this rarely seen live show encapsulates the energy, verve and relentless brand of comedy that was unique to Kinison.",1991,tt0249934,6.6,272.0
+tm118438,Anjaam,MOVIE,"After mistaking a flight attendant's attention for love, a wealthy, spoiled man becomes obsessed with her and soon tears her life apart.",1994,tt0109134,6.6,6465.0
+tm62176,Mann,MOVIE,"A young woman falls in love with a handsome playboy, while aboard a Singapore to India cruise. They make plans to meet again, but fate may have other plans...",1999,tt0206921,6.1,5413.0
+tm57169,Monty Python: Live at Aspen,MOVIE,"In March 1998 in Aspen, Colorado, the surviving members of the Monty Paython team - John Cleese, Terry Gilliam, Eric Idle, Terry Jones and Michael Palin - shared a stage together for the first time in 18 years. Even more remarkably, Graham Chapman was there too....in an urn! The occasion for this renuion was the US Comedy Arts Festival Tribute to Monty Python, hosted by Robert Klien in front of a live audience.",1998,tt0287570,7.8,1092.0
+tm184224,Sinbad: Afros and Bellbottoms,MOVIE,"Sinbad brings the '70s back with a nostalgic stand-up special dedicated to the films, fashion and other flashbacks from that era.",1993,tt0938331,7.8,166.0
+tm44776,The Other,MOVIE,"Adam is the son of a wealthy Egyptian-American family who is studying at UCLA and returns home for a brief vacation. Upon his arrival he meets beautiful reporter Hanane, with whom he begins an intense love affair, and eventually they marry. Trouble arises when Hanane' s journalistic interests lead her to the corrupt business affairs of Adam's parents, who are interested in building an American tourist compound that would allow Americans further control of Egypt's tourist industry, and make them a whole lot richer.",1999,tt0196355,5.9,987.0
+tm104933,Sinbad: Son of a Preacher Man,MOVIE,"Experience veteran comedian Sinbad as he returns to his college town of Denver and performs at the Paramount Theatre for this next installment of his famed HBO Comedy Specials. Sinbad: Son of a Preacher Man is a self-styled monologue that comments on the perils of skiing, para-sailing during a bad vacation, fashion trends in lingerie, and more!",1996,tt0938333,6.7,115.0
+tm203186,Children of Shatila,MOVIE,"Many people first became aware of the Shatila refugee camp in Lebanon after the shocking and horrific Sabra-Shatila massacre that took place there in 1982. Located in Beirut's ""belt of misery,"" the camp is home to 15,000 Palestinians and Lebanese who share a common experience of displacement, unemployment and poverty.  Fifty years after the exile of their grandparents from Palestine, the children of Shatila attempt to come to terms with the reality of being refugees in a camp that has survived massacre, siege and starvation.  Director Mai Masri focuses on two Palestinian children in the camp: Farah, age 11 and Issa, age 12. When these children are given video cameras, the story of the camp evolves from their personal narratives as they articulate the feelings and hopes of their generation.",1999,tt0243174,8.19999999999999,74.0
+tm256669,Gumrah,MOVIE,"Roshni Chadha makes her living, singing in various places and this makes her the breadwinner of her home. She soon gets to meet the handsome and wealthy Rahul Malhotra, who finds out that she can actually sing professionally and he helps her to attain this goal, which soon became a success and Roshni falls in love with Rahul and finds out that he has the same feelings for her. On a foreign trip, Roshni is arrested by the police for having in her possession cocaine, Rahul disappears leaving Roshni in hot-soup and now she must prepare to undergo her prison terms as there is no one to help her.",1993,tt0107060,6.1,784.0
+tm117840,The Emigrant,MOVIE,"The biblical tale of Joseph is told from an Egyptian perspective in this interesting character study. In this film, Joseph is called Ram. Ram, tired of his family's backward superstitious life, and tired of being picked on by his brothers, wants to go to Egypt to study agriculture. His brothers travel with him across Sinai, but then suddenly sell him to Ozir, an Egyptian who works for a Theban military leader, Amihar. Amihar is impressed by Ram's drive and personal charm and so grants Ram some desolate land outside the capital. Ram soon finds himself a pawn in the political and sexual games between Amihar and his wife Simihit, a high priestess of the Cult of Amun.",1994,tt0110545,6.5,998.0
+tm334788,Yodha,MOVIE,"Suraj Singh is addicted to drugs and as a result witnessed his girlfriend being raped in front of his eyes with him being helpless, from here on he vows to put an end to all drug dealers and started to work as a hit man for an underworld don, Daaga also known as Justice Dharmesh Agnihotri. He also meets and make enemy with a lawyer, Karan Srivastav, who is looking for the murderer of his father, journalist Chandrakant. As time proceeds, Suraj and Karan would frequently get into brawls in front of the society to the extent that each of them will now do anything to kill the other. Unknown to both that one person is responsible for there lives being upside down and he is under the veil of respectability - non other than Justice Dharmesh Agnihotri alias Dagga.",1991,tt0267130,4.5,198.0
+tm110160,Avvai Shanmugi,MOVIE,"A divorced husband desperately misses his daughter. In order to be with her, he takes up a job in his father-in-law's house. The only catch is that the job is that of a female governess.",1996,tt0139872,7.9,2528.0
+tm192301,Minsara Kanavu,MOVIE,"Priya decides that she wants to be a nun, much to the horror of her father and Thomas, the boy who is in love with her. Thomas decides to enlist the help of Deva to change her mind.",1997,tt0282003,6.7,1212.0
+tm110766,Chronicle of a Disappearance,MOVIE,"Chronicle of a Disappearance unfolds in a series of seemingly unconnected cinematic tableaux, each of them focused on incidents or characters which seldom reappear later in the film. Among the many unrelated scenes, there is a Palestinian actress struggling to find an apartment in West Jerusalem, the owner of the Holy Land souvenir shop preparing merchandise for incoming Japanese tourists, a group of old women gossiping about their relatives, and an Israeli police van which screeches to a halt so several heavily armed soldiers can get off the car and urinate.",1996,tt0115895,6.9,718.0
+tm118256,Yaar Gaddar,MOVIE,"When his brother becomes involved in a deadly bank robbery, a heartbroken cop vows to track down and retrieve his wayward sibling -- dead or alive.",1994,tt0111780,3.6,142.0
+tm64729,Sinbad: Nothin' but the Funk,MOVIE,"Enjoy Comedic Superstar Sinbad as he gives us one of his most stellar stand up performances, shot on the beautiful island of Aruba at the Guillermo P. Trinidad Theatre. As always, Sinbad shows why heÃ¢â‚¬â„¢s a veteran in comedy since the 80Ã¢â‚¬â„¢s, with an entertaining show that the entire family can enjoy.",1998,tt0938332,6.2,65.0
+tm314602,Dushmani,MOVIE,"In order to settle personal scores; two gang leaders, Jai Singh and Oberoi fight for many years in gang-wars. There enmity multiplies when Jai's younger brother, Suraj falls in love with Oberoi's sister, Sapna which forces Suraj and Sapna to elope. Jai then locates the duo and brings them back to try and convince Oberoi to get them marry albeit successful.",1995,tt0112916,5.0,248.0
+tm42397,Hello Brother,MOVIE,A ghost seeking revenge for his death haunts the man who received his heart in a transplant.,1999,tt0233856,4.6,4230.0
+tm449775,Shikari,MOVIE,"Shankar and Chanchal earn their living by doing road shows. Once, Shankar sees Natasha on a circus poster and dreams of working with her. He gets an offer to work in the circus in Russia.",1991,tt0170416,5.9,66.0

@@ -1,6 +1,6 @@
 SELECT 
-  type,
-  STDEV(rating) AS stddev_rating
-FROM netflix
+	type,
+	STDEV(rate) AS std_rating
+FROM netflixv4
 GROUP BY type
-ORDER BY stddev_rating ASC;
+ORDER BY std_rating

@@ -1,370 +1,428 @@
-id,title,release_year,imdb_score,imdb_votes
-ts20981,Survivor,2000,7.4,24368.0
-ts21567,Gilmore Girls,2000,8.19999999999999,119054.0
-ts21034,InuYasha,2000,7.9,15823.0
-tm19673,The Patriot,2000,7.2,270231.0
-tm24877,Road Trip,2000,6.5,167670.0
-tm19494,The Replacements,2000,6.6,64087.0
-tm21596,Hollow Man,2000,5.8,130099.0
-tm17721,Under Suspicion,2000,6.5,25432.0
-ts21581,Girlfriends,2000,7.2,4482.0
-ts28516,Okupas,2000,9.0,2326.0
-tm27601,Phir Bhi Dil Hai Hindustani,2000,6.1,7556.0
-tm34391,Before the Flying Circus,2000,7.3,161.0
-tm25389,Fiza,2000,6.0,4168.0
-ts4,Breaking Bad,2008,9.5,1727694.0
-ts26091,The Staircase,2004,7.8,21531.0
-ts21469,Grey's Anatomy,2005,7.6,293618.0
-ts6495,Criminal Minds,2005,8.1,189191.0
-ts22337,NCIS,2003,7.8,141049.0
-ts8308,Community,2009,8.5,252564.0
-ts22011,Heartland,2007,8.4,15743.0
-ts21465,Supernatural,2005,8.5,428639.0
-tm33545,Forgetting Sarah Marshall,2008,7.1,280121.0
-tm172683,War of the Worlds,2005,6.5,439027.0
-ts17156,Arrested Development,2003,8.69999999999999,297552.0
-ts20573,The IT Crowd,2006,8.5,147409.0
-ts12724,30 Rock,2006,8.3,121514.0
-ts3371,Avatar: The Last Airbender,2005,9.3,297336.0
-ts20604,Friday Night Lights,2006,8.69999999999999,64449.0
-tm39030,Casino Royale,2006,8.0,644336.0
-tm78592,Michael Clayton,2007,7.2,163878.0
-ts19036,The Fairly OddParents,2001,7.2,38046.0
-tm116324,Jackass: The Movie,2002,6.6,92305.0
-ts32186,Sonic X,2003,6.1,4577.0
-ts11313,DEATH NOTE,2006,9.0,302147.0
-tm34310,Zoolander,2001,6.5,260975.0
-ts21247,The Vampire Diaries,2009,7.7,310776.0
-tm160815,Charlie and the Chocolate Factory,2005,6.6,465995.0
-tm78671,Cleaner,2007,6.1,41052.0
-tm89036,Harold & Kumar Go to White Castle,2004,7.0,193053.0
-tm105329,Road to Perdition,2002,7.7,263212.0
-ts20305,Naruto,2002,8.4,93980.0
-tm35463,Blow,2001,7.5,255099.0
-tm84371,Shooter,2007,7.2,329417.0
-tm139658,Big Fish,2003,8.0,435503.0
-tm79442,The Bourne Ultimatum,2007,8.0,627009.0
-tm131038,Public Enemies,2009,7.0,297525.0
-ts2230,America's Next Top Model,2003,5.6,17843.0
-tm154187,Sherlock Holmes,2009,7.6,620154.0
-tm133767,Love Actually,2003,7.6,474176.0
-tm88738,Closer,2004,7.2,215678.0
-ts17942,Chappelle's Show,2003,8.8,62140.0
-tm148270,Something's Gotta Give,2003,6.7,120400.0
-tm133374,The Blind Side,2009,7.6,323939.0
-tm26897,Quantum of Solace,2008,6.6,441023.0
-tm109304,The Ring,2002,7.1,341888.0
-ts22267,Trailer Park Boys,2001,8.6,41791.0
-tm76066,Into the Wild,2007,8.1,611379.0
-tm29737,Rambo,2008,7.0,228799.0
-tm84906,Stardust,2007,7.6,269043.0
-tm142086,The Last Samurai,2003,7.8,429097.0
-ts22018,iCarly,2007,6.7,38281.0
-tm136808,Identity,2003,7.3,240433.0
-ts21197,Merlin,2008,7.9,80138.0
-tm84613,Hairspray,2007,6.7,128190.0
-tm173551,Corpse Bride,2005,7.3,265023.0
-tm136308,Monster,2003,7.3,149218.0
-tm82985,Without a Paddle,2004,5.8,47049.0
-tm145593,Once Upon a Time in Mexico,2003,6.3,160449.0
-tm150260,Cloudy with a Chance of Meatballs,2009,6.9,226225.0
-tm119111,Blade II,2002,6.7,214461.0
-tm130647,Chloe,2009,6.3,72916.0
-tm32919,Blood Diamond,2006,8.0,536858.0
-tm23935,The Lake House,2006,6.8,148043.0
-tm137143,Terminator 3: Rise of the Machines,2003,6.3,393998.0
-tm28905,Beerfest,2006,6.2,67748.0
-tm44486,Heist,2001,6.5,36361.0
-tm39487,Catch and Release,2006,5.9,26157.0
-tm169949,Just Like Heaven,2005,6.7,106755.0
-ts35155,Gurren Lagann,2007,8.3,17024.0
-tm184913,Four Brothers,2005,6.8,144656.0
-tm118637,John Q,2002,7.0,131999.0
-tm58382,Not Another Teen Movie,2001,5.7,104604.0
-tm40009,21,2008,6.8,247039.0
-ts12787,Code Geass: Lelouch of the Rebellion,2006,8.69999999999999,62367.0
-tm154470,Terminator Salvation,2009,6.5,357557.0
-tm22294,Deck the Halls,2006,5.0,27797.0
-tm78067,The Girl Next Door,2007,6.5,26035.0
-tm148379,The Cat in the Hat,2003,4.0,81971.0
-tm21467,Final Destination 3,2006,5.8,139797.0
-tm46436,Thir13en Ghosts,2001,5.6,86492.0
-tm57190,The One,2001,5.9,91584.0
-tm37546,Happy Feet,2006,6.4,182612.0
-tm30205,Ip Man,2008,8.0,221095.0
-tm159310,Coach Carter,2005,7.3,143670.0
-tm89592,Blade: Trinity,2004,5.8,175210.0
-tm167516,Monster-in-Law,2005,5.5,60693.0
-tm79895,Halloween,2007,6.0,118815.0
-tm111600,The Sweetest Thing,2002,5.1,58516.0
-tm143938,The Final Destination,2009,5.1,104166.0
-tm31187,The Other Boleyn Girl,2008,6.7,111694.0
-tm141390,Friday the 13th,2009,5.5,105938.0
-tm74780,The Bucket List,2007,7.4,242733.0
-tm150214,Freddy vs. Jason,2003,5.7,117986.0
-tm176528,Memoirs of a Geisha,2005,7.3,146847.0
-tm36188,Body of Lies,2008,7.1,224896.0
-tm88382,A Cinderella Story,2004,5.9,86395.0
-ts31263,The Mole,2001,7.6,1104.0
-tm47523,Osmosis Jones,2001,6.3,35711.0
-tm24088,Scary Movie 4,2006,5.1,120188.0
-tm137362,The Texas Chainsaw Massacre,2003,6.2,140741.0
-tm177068,Fun with Dick and Jane,2005,6.1,143998.0
-tm82442,TMNT,2007,6.2,64062.0
-ts687,The 4400,2004,7.3,44971.0
-ts24028,Still Game,2002,8.9,7539.0
-tm142564,3 Idiots,2009,8.4,385782.0
-ts23752,Midnight Diner,2009,8.6,2110.0
-ts21706,H2O: Just Add Water,2006,7.2,14782.0
-ts21740,Black Butler,2008,8.3,1856.0
-tm89684,New York Minute,2004,4.8,23307.0
-ts31514,Strawberry Shortcake,2003,7.0,13.0
-ts22005,Total Drama Island,2007,7.4,10523.0
-tm183963,Dreamer: Inspired By a True Story,2005,6.8,13034.0
-tm27268,Monster House,2006,6.6,114942.0
-tm81270,Starsky & Hutch,2004,6.1,145981.0
-tm137342,Tears of the Sun,2003,6.6,121066.0
-ts21688,Boys Over Flowers,2009,7.9,11579.0
-ts22318,Winx Club,2004,6.2,6700.0
-tm161263,The Cave,2005,5.1,38445.0
-ts12815,Big Time Rush,2009,6.3,12046.0
-tm26638,The Texas Chainsaw Massacre: The Beginning,2006,5.8,72366.0
-tm55303,I Am Sam,2001,7.6,149082.0
-tm31189,The Spiderwick Chronicles,2008,6.5,94628.0
-tm165593,Rumor Has It...,2005,5.5,57894.0
-ts15986,Dead Set,2008,7.6,19684.0
-ts26322,Toradora!,2008,8.0,14307.0
-tm78767,I Now Pronounce You Chuck & Larry,2007,5.9,146625.0
-tm36644,World Trade Center,2006,6.0,83129.0
-tm77649,Premonition,2007,5.9,78119.0
-ts33559,Shaun the Sheep,2007,8.0,25.0
-tm33113,Eagle Eye,2008,6.6,185430.0
-tm43399,Lagaan: Once Upon a Time in India,2001,8.1,111053.0
-tm147211,The Men Who Stare at Goats,2009,6.2,131564.0
-ts56549,Scare Tactics,2003,6.7,2512.0
-tm29555,Friends with Money,2006,5.8,30186.0
-ts20398,Kath & Kim,2002,8.3,4168.0
-tm86189,Good Luck Chuck,2007,5.6,89755.0
-ts21421,Pocoyo,2005,3.9,93.0
-tm135451,Gifted Hands: The Ben Carson Story,2009,7.6,10210.0
-ts20526,The Game,2006,6.6,4417.0
-tm141707,Blood and Bone,2009,6.7,33051.0
-ts23835,Masha and the Bear,2009,7.6,3114.0
-tm83786,Like Stars on Earth,2007,8.3,188234.0
-ts23808,Monty Python: Almost the Truth (The Lawyer's Cut),2009,8.1,1740.0
-ts27459,The Legend of Bruce Lee,2008,7.0,1422.0
-ts20544,Ouran High School Host Club,2006,8.19999999999999,9763.0
-tm27168,Felon,2008,7.4,78039.0
-ts40702,The Ultimatum,2009,5.4,6.0
-tm114476,Stuart Little 2,2002,5.5,53746.0
-ts21967,Johnny Test,2005,5.1,8172.0
-ts12701,Code Lyoko,2003,7.3,5109.0
-tm130574,Did You Hear About the Morgans?,2009,4.9,40289.0
-ts21695,Iris,2009,7.8,1951.0
-ts1893,Ben & Holly's Little Kingdom,2009,7.5,1222.0
-ts20535,The Garfield Show,2009,5.3,2499.0
-tm160800,Chaos,2005,6.4,54633.0
-ts38159,Wakfu,2008,8.1,1469.0
-tm22493,Katt Williams: The Pimp Chronicles Pt. 1,2006,7.6,1780.0
-tm164557,Initial D,2005,6.3,8536.0
-tm112381,Comedian,2002,6.9,6948.0
-tm71119,Delta Farce,2007,3.6,11138.0
-tm134235,One Piece: Strong World,2009,7.5,5382.0
-tm86995,Christmas with the Kranks,2004,5.4,49090.0
-ts17028,Dinosaur King,2007,5.6,720.0
-tm137530,Love Happens,2009,5.6,32837.0
-ts25765,Vampire Knight,2008,7.3,5172.0
-ts3666,Den-noh Coil,2007,7.9,863.0
-tm36475,Kabhi Khushi Kabhie Gham,2001,7.4,48818.0
-tm80059,Naruto Shippuden the Movie,2007,6.7,4016.0
-tm22636,Trailer Park Boys: The Movie,2006,7.1,12831.0
-tm30289,Jeff Dunham: Arguing with Myself,2006,8.0,3984.0
-tm38896,From Within,2008,5.6,7585.0
-tm29269,Jodhaa Akbar,2008,7.5,32188.0
-tm156001,And Then Came Lola,2009,3.9,1683.0
-ts21664,One on One,2001,7.0,2303.0
-tm73058,Om Shanti Om,2007,6.7,42597.0
-tm76835,Jab We Met,2007,7.9,51945.0
-ts1464,The Cartel,2008,8.1,755.0
-tm48083,Te quiero,2001,4.8,73.0
-tm33981,Bon Cop Bad Cop,2006,6.5,61.0
-tm80339,Naruto: Ninja Clash in the Land of Snow,2004,6.6,6759.0
-ts72322,The Mafia Dolls,2009,6.6,284.0
-ts52849,Horrid Henry,2006,6.3,912.0
-tm65142,One Piece: The Desert Princess and the Pirates: Adventure in Alabasta,2007,6.9,1611.0
-ts14102,Bo on the Go!,2007,4.1,118.0
-tm22342,Waist Deep,2006,5.8,9957.0
-tm24576,Naruto: Guardians of the Crescent Moon Kingdom,2006,6.4,3975.0
-tm41508,First Sunday,2008,4.5,10834.0
-ts74928,Einsatzgruppen: The Nazi Death Squads,2009,7.6,603.0
-tm52352,This Is the Life,2008,6.3,263.0
-tm170873,My Suicide,2009,7.0,1936.0
-tm176297,Kyaa Kool Hai Hum,2005,6.1,3507.0
-ts74931,Kung Fu Panda Awesome Secrets,2008,7.2,55.0
-tm110923,Divine Intervention,2002,6.6,3598.0
-tm150521,Accident,2009,6.6,3284.0
-tm177687,Naruto: Legend of the Stone of Gelel,2005,6.4,4297.0
-tm22989,Jim Gaffigan: Beyond the Pale,2006,7.9,3940.0
-ts98252,Dreamworks Happy Holidays from Madagascar,2005,6.5,96.0
-tm156575,Billu,2009,6.3,11747.0
-ts20358,Half & Half,2002,7.0,1827.0
-ts23319,Timmy Time,2009,6.9,1083.0
-tm61056,Dil Chahta Hai,2001,8.1,71167.0
-tm138497,Trailer Park Boys: Countdown to Liquor Day,2009,7.3,7451.0
-tm81461,Whisky,2004,7.1,6249.0
-tm32915,EMI,2008,4.4,604.0
-ts63295,Vientos de agua,2006,8.69999999999999,1034.0
-tm36164,Naruto Shippuden the Movie: Bonds,2008,6.8,4473.0
-tm147494,Naruto Shippuden the Movie: The Will of Fire,2009,7.0,3626.0
-tm31564,Linewatch,2008,5.4,2862.0
-tm54147,Dostana,2008,6.5,14944.0
-tm30170,Don,2006,7.1,36836.0
-tm37945,Rock On!!,2008,7.7,21963.0
-tm25029,Eternal Summer,2006,7.0,2630.0
-tm59880,Mike Birbiglia: What I Should Have Said Was Nothing,2008,7.6,1789.0
-tm34524,"One Piece: Episode of Chopper Plus: Bloom in the Winter, Miracle Cherry Blossom",2008,7.0,1189.0
-tm83175,Welcome,2007,6.9,21799.0
-tm65839,Just Another Love Story,2007,7.2,4849.0
-tm89936,Arahan,2004,6.6,3813.0
-tm22540,Phir Hera Pheri,2006,7.1,22505.0
-tm34846,Bleach the Movie: Fade to Black,2008,7.2,2151.0
-tm32885,Rang De Basanti,2006,8.1,118092.0
-tm82765,Swades,2004,8.1,89085.0
-tm170169,Kaal,2005,4.7,5309.0
-tm44749,Sorry to Disturb,2008,8.0,5824.0
-tm47325,2 Alone in Paris,2008,5.4,2482.0
-tm146887,Delhi-6,2009,6.1,7683.0
-tm144345,Kal Ho Naa Ho,2003,7.9,68028.0
-tm70222,Sivaji: The Boss,2007,7.5,19556.0
-ts37200,Trotro,2004,6.2,120.0
-tm25842,A Lion in the House,2006,8.69999999999999,312.0
-tm43179,Oye Lucky! Lucky Oye!,2008,7.7,17411.0
-tm23441,Kabhi Alvida Naa Kehna,2006,6.0,19797.0
-tm86051,Black Friday,2004,8.4,20611.0
-tm44634,Kevin James: Sweat the Small Stuff,2001,7.4,1083.0
-tm62369,Connected,2008,6.6,2256.0
-tm23077,Vivah,2006,6.6,9793.0
-tm31335,Golmaal Returns,2008,5.1,7884.0
-tm139349,Jim Gaffigan: King Baby,2009,7.7,2548.0
-tm85243,The Trailer Park Boys Xmas Special,2004,8.0,3422.0
-tm165809,Bluffmaster!,2005,6.6,6313.0
-tm89764,Inuyasha the Movie 4: Fire on the Mystic Island,2004,7.2,1826.0
-tm68191,My FÃƒÂ¼hrer,2007,5.5,4430.0
-tm51493,Vizontele,2001,8.0,36291.0
-ts1413,Autumn's Concerto,2009,7.9,475.0
-tm175687,Sir! No Sir!,2005,7.6,778.0
-ts98353,DreamWorks Spooky Stories,2009,6.2,19.0
-tm49405,Inuyasha the Movie: Affections Touching Across Time,2001,7.2,2570.0
-tm72587,Guru,2007,7.7,23541.0
-tm88366,Main Hoon Na,2004,7.0,35142.0
-tm38454,Jeff Dunham's Very Special Christmas Special,2008,7.4,3028.0
-tm164389,Paheli,2005,6.3,13206.0
-tm77863,Honeymoon Travels Pvt. Ltd.,2007,6.1,2609.0
-ts137477,Behind Enemy Lines,2001,7.2,42.0
-tm138902,Inuyasha the Movie 3: Swords of an Honorable Ruler,2003,7.6,2206.0
-ts4866,Fated to Love You,2008,7.4,461.0
-tm149209,Kaminey,2009,7.4,17136.0
-ts34414,Nuevo Rico Nuevo Pobre,2007,7.2,203.0
-tm147686,Kevin Hart: I'm a Grown Little Man,2009,7.5,4333.0
-tm82718,G.O.R.A.,2004,8.0,61797.0
-tm39557,Jaane Tu... Ya Jaane Na,2008,7.4,26738.0
-tm22558,Mukhsin,2006,7.3,382.0
-ts204466,Pecados capitales,2002,8.5,190.0
-tm164591,Apaharan,2005,7.4,4736.0
-ts18653,Chhota Bheem,2008,4.1,822.0
-ts67595,Pedro El Escamoso,2001,7.5,303.0
-tm29731,Chup Chup Ke,2006,6.9,10528.0
-tm80455,Manorama Six Feet Under,2007,7.6,8043.0
-tm144835,Sergio,2009,7.4,880.0
-tm129971,Luck by Chance,2009,7.1,10206.0
-ts29199,Monty Python's Personal Best,2006,7.9,437.0
-tm155761,Ajab Prem Ki Ghazab Kahani,2009,6.3,14380.0
-tm75544,Dhan Dhana Dhan Goal,2007,5.0,2603.0
-tm29028,Salt of This Sea,2008,6.8,1224.0
-tm93004,Yuva,2004,7.3,8878.0
-tm23977,Fuga,2006,6.3,1120.0
-tm78790,Namastey London,2007,7.1,21745.0
-tm44530,Fashion,2008,6.9,12468.0
-tm96595,Lakshya,2004,7.8,23076.0
-tm56428,Trailer Park Boys: Say Goodnight to the Bad Guys,2008,7.8,3555.0
-tm155774,Pomegranates and Myrrh,2009,6.3,249.0
-tm44378,Tony Manero,2008,6.8,4231.0
-tm27484,Kismat Konnection,2008,5.3,5588.0
-tm145243,Wake Up Sid,2009,7.6,30818.0
-tm77348,Life in a Metro,2007,7.4,11934.0
-tm111226,Awara Paagal Deewana,2002,6.2,8309.0
-tm237621,The Figurine (Araromire),2009,4.4,243.0
-tm152724,Kurbaan,2009,5.7,5121.0
-tm69694,CanÃ¢â‚¬â„¢t Complain,2007,7.5,3922.0
-tm105278,Inuyasha the Movie 2: The Castle Beyond the Looking Glass,2002,7.3,2127.0
-tm33729,Taxi No. 9 2 11,2006,7.2,9897.0
-tm129763,Anbe Sivam,2003,8.69999999999999,20595.0
-tm130301,Gangaajal,2003,7.8,17029.0
-tm141117,Chalte Chalte,2003,6.5,15379.0
-tm35652,Mumbai Meri Jaan,2008,7.7,6309.0
-tm49865,Aamir,2008,7.6,11241.0
-tm254745,Frontiers of Dreams and Fears,2001,8.3,54.0
-tm134140,Ishq Vishk,2003,6.1,4203.0
-tm114504,The Legend of Bhagat Singh,2002,8.1,16225.0
-tm76029,Under the Bombs,2007,7.0,1641.0
-tm33067,Race,2008,6.9,63.0
-tm712151,Laugh Out Loud,2003,7.0,13.0
-tm34924,The Beast Stalker,2008,6.8,2191.0
-ts98316,Edge of the Universe,2002,7.2,206.0
-tm216753,Old Thieves: The Legend of Artegio,2007,8.0,314.0
-tm112235,Kannathil Muthamittal,2002,8.4,8376.0
-tm96052,Palermo Hollywood,2004,5.2,200.0
-tm134407,Dev.D,2009,7.9,30389.0
-tm81864,Twins Mission,2007,5.2,686.0
-tm346951,What's Up?,2006,2.9,315.0
-tm144263,Aagey Se Right,2009,5.2,406.0
-tm85689,Krishna Cottage,2004,5.1,1153.0
-tm368679,Madness in the Desert,2004,8.4,373.0
-tm36636,C Kkompany,2008,5.5,1115.0
-tm52176,Welcome to Sajjanpur,2008,6.9,3239.0
-tm42831,Kyo Kii... Main Jhuth Nahin Bolta,2001,5.3,2196.0
-tm135795,The Kite,2003,6.4,739.0
-tm254052,Kucch To Hai,2003,4.3,909.0
-tm166293,The Blue Umbrella,2005,7.3,2077.0
-tm154375,Main Aurr Mrs Khanna,2009,3.5,3148.0
-tm241875,Frank & Cindy,2007,7.0,344.0
-tm85563,Ezra,2007,6.4,274.0
-tm308960,Gina Yashere: Skinny B*tch,2008,6.5,84.0
-tm154802,Agyaat,2009,2.9,674.0
-tm21155,Falafel,2006,6.7,209.0
-tm46867,Kuselan,2008,4.8,1000.0
-tm140653,Look for a Star,2009,5.6,708.0
-tm160596,Zozo,2005,6.5,3210.0
-tm76399,A Love Story,2007,6.4,142.0
-tm226362,Bosta,2005,6.4,603.0
-tm84316,Shootout at Lokhandwala,2007,7.1,10139.0
-ts39604,The Hospital,2006,7.4,40.0
-tm168869,Da Kath & Kim Code,2005,7.3,904.0
-tm352243,Interview with a Serial Killer,2008,5.9,595.0
-tm89012,The Student Cop,2004,6.3,2051.0
-ts160526,Khawatir,2005,9.6,3046.0
-tm130999,Dhoondte Reh Jaaoge,2009,5.6,812.0
-tm87672,Rabun,2003,7.7,83.0
-tm27275,Life's Speed Bump,2006,6.6,2693.0
-ts23797,Black & White,2009,7.6,302.0
-tm85369,Hattrick,2007,4.3,493.0
-tm143510,Harishchandrachi Factory,2009,8.4,2464.0
-tm311516,Koi Aap Sa,2005,5.5,261.0
-tm476570,Menahi,2008,6.7,51.0
-tm148041,What's Your Raashee?,2009,4.8,2718.0
-tm152413,Talentime,2009,7.4,203.0
-tm21956,Anthony Kaun Hai?,2006,5.2,664.0
-ts70843,The Prince Who Turns into a Frog,2005,6.8,128.0
-tm57586,Mission Istaanbul,2008,3.4,1156.0
-tm91125,Fida,2004,5.4,2608.0
-ts13411,Cocaine,2005,7.1,60.0
-tm142153,Kisaan,2009,5.5,302.0
-ts4924,At Dolphin Bay,2003,6.9,39.0
-tm88343,Perazhagan,2004,6.4,1496.0
-ts126804,My MVP Valentine,2002,6.5,27.0
-tm28024,A Very Special Love,2008,6.5,388.0
-ts188031,Pink Zone,2007,6.1,47.0
-tm598375,Chhota Bheem Aur Krishna,2008,6.4,310.0
-ts56595,Cocomong,2008,5.6,11.0
-tm252951,Brother's Shadow,2006,6.1,147.0
-tm628693,"Do Paise Ki Dhoop, Chaar Aane Ki Baarish",2009,6.5,203.0
+id,title,type,description,release_year,imdb_id,imdb_score,imdb_votes
+ts20981,Survivor,SHOW,"A reality show contest where sixteen or more castaways split between two or more Ã¢â‚¬Å“TribesÃ¢â‚¬Â are taken to a remote isolated location and are forced to live off the land with meager supplies for roughly 39 days. Frequent physical challenges are used to pit the tribes against each other for rewards, such as food or luxuries, or for Ã¢â‚¬Å“ImmunityÃ¢â‚¬Â, forcing the other tribe to attend Ã¢â‚¬Å“Tribal CouncilÃ¢â‚¬Â, where they must vote off one of their players.",2000,tt0239195,7.4,24368.0
+ts21567,Gilmore Girls,SHOW,"Set in the charming town of Stars Hollow, Connecticut, the series follows the captivating lives of Lorelai and Rory Gilmore, a mother/daughter pair who have a relationship most people only dream of.",2000,tt0238784,8.19999999999999,119054.0
+ts21034,InuYasha,SHOW,"Kagome Higurashi is a modern day young girl who lives with her family by the old Higure shrine. Unbeknownst to Kagome, she is the reincarnation of priestess Kikyo and posseses the ""Jewel of Four Souls"" (the Shikon jewel). One ill-fated day, Kagome locates an ancient well near her home and is abruptly transported through the well and into a feudal Japan, inhabited by demons. There, she encounters Inuyasha, son of a powerful demon father and a human mother, who is pinned to a tree by an enchanted arrow.",2000,tt0290223,7.9,15823.0
+tm19673,The Patriot,MOVIE,"After proving himself on the field of battle in the French and Indian War, Benjamin Martin wants nothing more to do with such things, preferring the simple life of a farmer. But when his son Gabriel enlists in the army to defend their new nation, America, against the British, Benjamin reluctantly returns to his old life to protect his son.",2000,tt0187393,7.2,270231.0
+tm24877,Road Trip,MOVIE,"From the director of the Hangover trilogy and Joker, Road Trip is a raunchy college comedy classic.  After an Ithaca college student films his one-night stand with a beautiful sorority girl, he discovers one of his friends has accidentally mailed the homemade porn tape to his girlfriend. In a frenzy, he must borrow a car and hit the road in a desperate bid to intercept the tape.  Featuring a talented cast that includes Breckin Meyer, Rachel Blanchard, Seann William Scott, Amy Smart, Fred Ward, Tom Green, Anthony Rapp, Andy Dick, and Ethan Suplee.",2000,tt0215129,6.5,167670.0
+tm19494,The Replacements,MOVIE,"Maverick old-guard coach Jimmy McGinty is hired in the wake of a players' strike to help the Washington Sentinels advance to the playoffs. But that impossible dream hinges on whether his replacements can hunker down and do the job. So, McGinty dusts off his secret dossier of ex-players who never got a chance (or screwed up the one they were given) and knits together a bad-dream team of guys who just may give the Sentinels their title shot.",2000,tt0191397,6.6,64087.0
+tm21596,Hollow Man,MOVIE,"Cocky researcher, Sebastian Caine is working on a project to make living creatures invisible and he's so confident he's found the right formula that he tests it on himself and soon begins to vanish. The only problem is: no-one can determine how to make him visible again. Caine's predicament eventually drives him mad, with terrifying results.",2000,tt0164052,5.8,130099.0
+tm17721,Under Suspicion,MOVIE,"A lawyer is asked to come to the police station to clear up a few loose ends in his witness report of a foul murder. ""This will only take ten minutes"", they say, but it turns out to be one loose end after another, and the ten minutes he is away from his speech become longer and longer.",2000,tt0164212,6.5,25432.0
+ts21581,Girlfriends,SHOW,"Girlfriends is an American comedy-drama sitcom that premiered on September 11, 2000, on UPN and aired on UPN's successor network, The CW, before being cancelled in 2008. The final episode aired on February 11, 2008.
+
+When Girlfriends returned in fall 2007 for its eighth season, it became the longest-running live-action sitcom on network television that was on air that year, as well as one of the highest-rated scripted shows on television among African American adults and women 18-34, including its spin-off The Game.",2000,tt0247102,7.2,4482.0
+ts28516,Okupas,SHOW,"During the year 2000, Ricardo, Pollo, Walter and Chiqui occupied a house in the Buenos Aires neighborhood of Congreso. The four young people forge a strong friendship that leads them to go through different stories of crime, drugs and social marginalization.",2000,tt0289649,9.0,2326.0
+tm27601,Phir Bhi Dil Hai Hindustani,MOVIE,"Rival news-reporters, Ajay Bakshi, and Ria Bannerjee engage in a comic war to be the first to interview notorius M.K. Sharma, in which Ria succeeds. Then the two are thrust in a battle for their lives as they must decide whether to save an innocent terrorist from being hanged, or sacrifice their very lives themselves.",2000,tt0222270,6.1,7556.0
+tm34391,Before the Flying Circus,MOVIE,"Discover how six seemingly ordinary but supremely talented men became Monty Python, sketch comedy's inspired group of lunatics who turned such unlikely sources of inspiration as Spam, dead parrots and the Inquisition into enduring punch lines. This entertaining documentary includes interviews with members of the troupe, as well as home movies, photos and rare recordings from Monty Python's early years.",2000,tt9230920,7.3,161.0
+tm25389,Fiza,MOVIE,In 1993 Fiza's brother disappears during the riots in Mumbai. In 1999 Fiza is tired of waiting and goes looking for him.,2000,tt0248012,6.0,4168.0
+ts4,Breaking Bad,SHOW,"When Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",2008,tt0903747,9.5,1727694.0
+ts26091,The Staircase,SHOW,"Academy Award-winning documentary filmmaker, Jean-Xavier de Lestrade, presents a gripping courtroom thriller, offering a rare and revealing inside look at a high-profile murder trial. In 2001, author Michael Peterson was arraigned for the murder of his wife Kathleen, whose body was discovered lying in a pool of blood on the stairway of their home. Granted unusual access to Peterson's lawyers, home and immediate family, de Lestrade's cameras capture the defense team as it considers its strategic options. The series is an engrossing look at contemporary American justice that features more twists than a legal bestseller.",2004,tt0388644,7.8,21531.0
+ts21469,Grey's Anatomy,SHOW,Follows the personal and professional lives of a group of doctors at SeattleÃ¢â‚¬â„¢s Grey Sloan Memorial Hospital.,2005,tt0413573,7.6,293618.0
+ts6495,Criminal Minds,SHOW,"An elite team of FBI profilers analyze the country's most twisted criminal minds, anticipating their next moves before they strike again. The Behavioral Analysis Unit's most experienced agent is David Rossi, a founding member of the BAU who returns to help the team solve new cases.",2005,tt0452046,8.1,189191.0
+ts22337,NCIS,SHOW,"From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has a shred of evidence connected to Navy and Marine Corps personnel, regardless of rank or position.",2003,tt0364845,7.8,141049.0
+ts8308,Community,SHOW,"Follow the lives of a group of students at what is possibly the worldÃ¢â‚¬â„¢s worst community college in the fictional locale of Greendale, Colorado.",2009,tt1439629,8.5,252564.0
+ts22011,Heartland,SHOW,"Life is hard on the Flemings' ranch in the Alberta foothills where abused or neglected horses find refuge with a kind, hard-working family. Debts abound and the bank is about to foreclose. Can they keep the ranch running?",2007,tt1094229,8.4,15743.0
+ts21465,Supernatural,SHOW,"When they were boys, Sam and Dean Winchester lost their mother to a mysterious and demonic supernatural force. Subsequently, their father raised them to be soldiers. He taught them about the paranormal evil that lives in the dark corners and on the back roads of America ... and he taught them how to kill it. Now, the Winchester brothers crisscross the country in their '67 Chevy Impala, battling every kind of supernatural threat they encounter along the way. ",2005,tt0460681,8.5,428639.0
+tm33545,Forgetting Sarah Marshall,MOVIE,"When Sarah Marshall dumps aspiring musician Peter Bretter for rock star Aldous Snow, Peter's world comes crashing down. His best friend suggests that Peter should get away from everything and to fly off to Hawaii to escape all his problems. After arriving in Hawaii and meeting the beautiful Rachel Jansen, Peter is shocked to see not only Aldous Snow in Hawaii, but also Sarah Marshall.",2008,tt0800039,7.1,280121.0
+tm172683,War of the Worlds,MOVIE,"Ray Ferrier is a divorced dockworker and less-than-perfect father. Soon after his ex-wife and her new husband drop off his teenage son and young daughter for a rare weekend visit, a strange and powerful lightning storm touches down.",2005,tt0407304,6.5,439027.0
+ts17156,Arrested Development,SHOW,"The story of a wealthy family that lost everything, and the one son who had no choice but to keep them all together.",2003,tt0367279,8.69999999999999,297552.0
+ts20573,The IT Crowd,SHOW,"Two I.T. nerds and their clueless female manager, who work in the basement of a very successful company. When they are called on for help, they are never treated with any respect at all.",2006,tt0487831,8.5,147409.0
+ts12724,30 Rock,SHOW,"Liz Lemon, the head writer for a late-night TV variety show in New York, tries to juggle all the egos around her while chasing her own dream.",2006,tt0496424,8.3,121514.0
+ts3371,Avatar: The Last Airbender,SHOW,"In a war-torn world of elemental magic, a young boy reawakens to undertake a dangerous mystic quest to fulfill his destiny as the Avatar, and bring peace to the world.",2005,tt0417299,9.3,297336.0
+ts20604,Friday Night Lights,SHOW,"The trials and triumphs of life in the small town of Dillon, Texas, where high school football is everything.",2006,tt0758745,8.69999999999999,64449.0
+tm39030,Casino Royale,MOVIE,"Le Chiffre, a banker to the world's terrorists, is scheduled to participate in a high-stakes poker game in Montenegro, where he intends to use his winnings to establish his financial grip on the terrorist market. M sends BondÃ¢â‚¬â€on his maiden mission as a 00 AgentÃ¢â‚¬â€to attend this game and prevent Le Chiffre from winning. With the help of Vesper Lynd and Felix Leiter, Bond enters the most important poker game in his already dangerous career.",2006,tt0381061,8.0,644336.0
+tm78592,Michael Clayton,MOVIE,A law firm brings in its 'fixer' to remedy the situation after a lawyer has a breakdown while representing a chemical company that he knows is guilty in a multi-billion dollar class action suit.,2007,tt0465538,7.2,163878.0
+ts19036,The Fairly OddParents,SHOW,"The zany, fast-paced adventures of a 10-year-old boy and his fairy godparents, who inadvertently create havoc as they grant wishes for their pint-sized charge.",2001,tt0235918,7.2,38046.0
+tm116324,Jackass: The Movie,MOVIE,"Johnny Knoxville and his band of maniacs perform a variety of stunts and gross-out gags on the big screen for the first time. They wander around Japan in panda outfits, wreak havoc on a once civilized golf course, they even do stunts involving LIVE alligators, and so on.",2002,tt0322802,6.6,92305.0
+ts32186,Sonic X,SHOW,Sonic and his friends team up with 12 year old Christopher to collect all the Chaos Emeralds and defeat the evil Dr. Eggman.,2003,tt0367413,6.1,4577.0
+ts11313,DEATH NOTE,SHOW,"Light Yagami is an ace student with great prospectsÃ¢â‚¬â€and heÃ¢â‚¬â„¢s bored out of his mind. But all that changes when he finds the Death Note, a notebook dropped by a rogue Shinigami death god. Any human whose name is written in the notebook dies, and Light has vowed to use the power of the Death Note to rid the world of evil. But will Light succeed in his noble goal, or will the Death Note turn him into the very thing he fights against?",2006,tt0877057,9.0,302147.0
+tm34310,Zoolander,MOVIE,"Clear the runway for Derek Zoolander, VH1's three-time male model of the year. His face falls when hippie-chic Hansel scooters in to steal this year's award. The evil fashion guru Mugatu seizes the opportunity to turn Derek into a killing machine. It's a well-designed conspiracy and only with the help of Hansel and a few well-chosen accessories like Matilda can Derek make the world safe for male models everywhere.",2001,tt0196229,6.5,260975.0
+ts21247,The Vampire Diaries,SHOW,"The story of two vampire brothers obsessed with the same girl, who bears a striking resemblance to the beautiful but ruthless vampire they knew and loved in 1864.",2009,tt1405406,7.7,310776.0
+tm160815,Charlie and the Chocolate Factory,MOVIE,"A young boy wins a tour through the most magnificent chocolate factory in the world, led by the world's most unusual candy maker.",2005,tt0367594,6.6,465995.0
+tm78671,Cleaner,MOVIE,"Single father and former cop Tom Cutler has an unusual occupation: he cleans up death scenes. But when he's called in to sterilize a wealthy suburban residence after a brutal shooting, Cutler is shocked to learn he may have unknowingly erased crucial evidence, entangling himself in a dirty criminal cover-up.",2007,tt0896798,6.1,41052.0
+tm89036,Harold & Kumar Go to White Castle,MOVIE,"Nerdy accountant Harold and his irrepressible friend, Kumar, get stoned watching television and find themselves utterly bewitched by a commercial for White Castle. Convinced there must be one nearby, the two set out on a late-night odyssey that takes them deep into New Jersey. Somehow, the boys manage to run afoul of rednecks, cops and even a car-stealing Neil Patrick Harris before getting anywhere near their beloved sliders.",2004,tt0366551,7.0,193053.0
+tm105329,Road to Perdition,MOVIE,"Mike Sullivan works as a hit man for crime boss John Rooney. Sullivan views Rooney as a father figure, however after his son is witness to a killing, Mike Sullivan finds himself on the run in attempt to save the life of his son and at the same time looking for revenge on those who wronged him.",2002,tt0257044,7.7,263212.0
+ts20305,Naruto,SHOW,"In another world, ninja are the ultimate power, and in the Village Hidden in the Leaves live the stealthiest ninja in the land. Twelve years earlier, the fearsome Nine-Tailed Fox terrorized the village and claimed many lives before it was subdued and its spirit sealed within the body of a baby boy. That boy, Naruto Uzumaki, has grown up to become a ninja-in-training who's more interested in pranks than in studying ninjutsu.. but Naruto is determined to become the greatest ninja ever!",2002,tt0409591,8.4,93980.0
+tm35463,Blow,MOVIE,"A boy named George Jung grows up in a struggling family in the 1950's. His mother nags at her husband as he is trying to make a living for the family. It is finally revealed that George's father cannot make a living and the family goes bankrupt. George does not want the same thing to happen to him, and his friend Tuna, in the 1960's, suggests that he deal marijuana. He is a big hit in California in the 1960's, yet he goes to jail, where he finds out about the wonders of cocaine. As a result, when released, he gets rich by bringing cocaine to America. However, he soon pays the price.",2001,tt0221027,7.5,255099.0
+tm84371,Shooter,MOVIE,"A marksman living in exile is coaxed back into action after learning of a plot to kill the president. Ultimately double-crossed and framed for the attempt, he goes on the run to track the real killer and find out who exactly set him up, and why??",2007,tt0822854,7.2,329417.0
+tm139658,Big Fish,MOVIE,"Throughout his life Edward Bloom has always been a man of big appetites, enormous passions and tall tales. In his later years, he remains a huge mystery to his son, William. Now, to get to know the real man, Will begins piecing together a true picture of his father from flashbacks of his amazing adventures.",2003,tt0319061,8.0,435503.0
+tm79442,The Bourne Ultimatum,MOVIE,"Bourne is brought out of hiding once again by reporter Simon Ross who is trying to unveil Operation Blackbriar, an upgrade to Project Treadstone, in a series of newspaper columns. Information from the reporter stirs a new set of memories, and Bourne must finally uncover his dark past while dodging The Company's best efforts to eradicate him.",2007,tt0440963,8.0,627009.0
+tm131038,Public Enemies,MOVIE,"Depression-era bank robber John Dillinger's charm and audacity endear him to much of America's downtrodden public, but he's also a thorn in the side of J. Edgar Hoover and the fledgling FBI. Desperate to capture the elusive outlaw, Hoover makes Dillinger his first Public Enemy Number One and assigns his top agent, Melvin Purvis, the task of bringing him in dead or alive.",2009,tt1152836,7.0,297525.0
+ts2230,America's Next Top Model,SHOW,Aspiring models compete for a chance to break into the business with a panel of judges critiquing their progress throughout the competition.,2003,tt0391576,5.6,17843.0
+tm154187,Sherlock Holmes,MOVIE,Eccentric consulting detective Sherlock Holmes and Doctor John Watson battle to bring down a new nemesis and unravel a deadly plot that could destroy England.,2009,tt0988045,7.6,620154.0
+tm133767,Love Actually,MOVIE,"'Love Actually' follows the lives of eight very different couples dealing with their love lives, in various loosely and interrelated tales, all set during a frantic month before Christmas in London, England.",2003,tt0314331,7.6,474176.0
+tm88738,Closer,MOVIE,Two couples disintegrate when they begin destructive adulterous affairs with each other.,2004,tt0376541,7.2,215678.0
+ts17942,Chappelle's Show,SHOW,Dave Chappelle's singular point of view is unleashed through a combination of laidback stand-up and street-smart sketches.,2003,tt0353049,8.8,62140.0
+tm148270,Something's Gotta Give,MOVIE,"Harry Sanborn is an aged music industry exec with a fondness for younger women like Marin, his latest trophy girlfriend. Things get a little awkward when Harry suffers a heart attack at the home of Marin's mother, Erica. Left in the care of Erica and his doctor, a love triangle starts to take shape.",2003,tt0337741,6.7,120400.0
+tm133374,The Blind Side,MOVIE,"The story of Michael Oher, a homeless and traumatized boy who became an All American football player and first round NFL draft pick with the help of a caring woman and her family.",2009,tt0878804,7.6,323939.0
+tm26897,Quantum of Solace,MOVIE,"Quantum of Solace continues the adventures of James Bond after Casino Royale. Betrayed by Vesper, the woman he loved, 007 fights the urge to make his latest mission personal. Pursuing his determination to uncover the truth, Bond and M interrogate Mr. White, who reveals that the organization that blackmailed Vesper is far more complex and dangerous than anyone had imagined.",2008,tt0830515,6.6,441023.0
+tm109304,The Ring,MOVIE,Rachel Keller is a journalist investigating a videotape that may have killed four teenagers. There is an urban legend about this tape: the viewer will die seven days after watching it. Rachel tracks down the video... and watches it. Now she has just seven days to unravel the mystery of the Ring so she can save herself and her son.,2002,tt0298130,7.1,341888.0
+ts22267,Trailer Park Boys,SHOW,Follow the booze-fueled misadventures of three longtime pals and petty serial criminals who run scams from their Nova Scotia trailer park.,2001,tt0290988,8.6,41791.0
+tm76066,Into the Wild,MOVIE,"After graduating from Emory University in 1992, top student and athlete Christopher McCandless abandons his possessions, gives his entire $24,000 savings account to charity, and hitchhikes to Alaska to live in the wilderness.",2007,tt0758758,8.1,611379.0
+tm29737,Rambo,MOVIE,"When governments fail to act on behalf of captive missionaries, ex-Green Beret John James Rambo sets aside his peaceful existence along the Salween River in a war-torn region of Thailand to take action.  Although he's still haunted by violent memories of his time as a U.S. soldier during the Vietnam War, Rambo can hardly turn his back on the aid workers who so desperately need his help.",2008,tt0462499,7.0,228799.0
+tm84906,Stardust,MOVIE,"In a countryside town bordering on a magical land, a young man makes a promise to his beloved that he'll retrieve a fallen star by venturing into the magical realm. His journey takes him into a world beyond his wildest dreams and reveals his true identity.",2007,tt0486655,7.6,269043.0
+tm142086,The Last Samurai,MOVIE,"Nathan Algren is an American hired to instruct the Japanese army in the ways of modern warfare, which finds him learning to respect the samurai and the honorable principles that rule them. Pressed to destroy the samurai's way of life in the name of modernization and open trade, Algren decides to become an ultimate warrior himself and to fight for their right to exist.",2003,tt0325710,7.8,429097.0
+ts22018,iCarly,SHOW,"Watch Carly, Sam, and Freddie, as they try to balance their everyday 8th grade lives with their newfound fame managing and starring in the most awesome show on the web.",2007,tt0972534,6.7,38281.0
+tm136808,Identity,MOVIE,"Complete strangers stranded at a remote desert motel during a raging storm soon find themselves the target of a deranged murderer. As their numbers thin out, the travelers begin to turn on each other, as each tries to figure out who the killer is.",2003,tt0340770,7.3,240433.0
+ts21197,Merlin,SHOW,"The unlikely friendship between Merlin, a young man gifted with extraordinary magical powers, and Prince Arthur, heir to the crown of Camelot.",2008,tt1199099,7.9,80138.0
+tm84613,Hairspray,MOVIE,"Pleasantly plump teenager Tracy Turnblad auditions to be on Baltimore's most popular dance show - The Corny Collins Show - and lands a prime spot. Through her newfound fame, she becomes determined to help her friends and end the racial segregation that has been a staple of the show.",2007,tt0427327,6.7,128190.0
+tm173551,Corpse Bride,MOVIE,"Set in a 19th-century european village, this stop-motion animation feature follows the story of Victor, a young man whisked away to the underworld and wed to a mysterious corpse bride, while his real bride Victoria waits bereft in the land of the living.",2005,tt0121164,7.3,265023.0
+tm136308,Monster,MOVIE,"An emotionally scarred highway drifter shoots a sadistic trick who rapes her, and ultimately becomes the United States' first female serial killer.",2003,tt0340855,7.3,149218.0
+tm82985,Without a Paddle,MOVIE,"Three friends, whose lives have been drifting apart, reunite for the funeral of a fourth childhood friend. When looking through their childhood belongings, they discover a trunk which contained details on a quest their friend was attempting. It revealed that he was hot on the trail of the $200,000 that went missing with airplane hijacker D.B. Cooper in 1971. They decide to continue his journey, but do not understand the dangers they will soon encounter.",2004,tt0364751,5.8,47049.0
+tm145593,Once Upon a Time in Mexico,MOVIE,"Hitman ""El Mariachi"" becomes involved in international espionage involving a psychotic CIA agent and a corrupt Mexican general.",2003,tt0285823,6.3,160449.0
+tm150260,Cloudy with a Chance of Meatballs,MOVIE,"Inventor Flint Lockwood creates a machine that makes clouds rain food, enabling the down-and-out citizens of Chewandswallow to feed themselves. But when the falling food reaches gargantuan proportions, Flint must scramble to avert disaster. Can he regain control of the machine and put an end to the wild weather before the town is destroyed?",2009,tt0844471,6.9,226225.0
+tm119111,Blade II,MOVIE,"A rare mutation has occurred within the vampire community - The Reaper. A vampire so consumed with an insatiable bloodlust that they prey on vampires as well as humans, transforming victims who are unlucky enough to survive into Reapers themselves. Blade is asked by the Vampire Nation for his help in preventing a nightmare plague that would wipe out both humans and vampires.",2002,tt0187738,6.7,214461.0
+tm130647,Chloe,MOVIE,"A doctor hires an escort to seduce her husband, whom she suspects of cheating, though unforeseen events put the family in danger.",2009,tt1352824,6.3,72916.0
+tm32919,Blood Diamond,MOVIE,"An ex-mercenary turned smuggler. A Mende fisherman. Amid the explosive civil war overtaking 1999 Sierra Leone, these men join for two desperate missions: recovering a rare pink diamond of immense value and rescuing the fisherman's son, conscripted as a child soldier into the brutal rebel forces ripping a swath of torture and bloodshed countrywide.",2006,tt0450259,8.0,536858.0
+tm23935,The Lake House,MOVIE,"A lonely doctor who once occupied an unusual lakeside home begins exchanging love letters with its former resident, a frustrated architect. They must try to unravel the mystery behind their extraordinary romance before it's too late.",2006,tt0410297,6.8,148043.0
+tm137143,Terminator 3: Rise of the Machines,MOVIE,"It's been 10 years since John Connor saved Earth from Judgment Day, and he's now living under the radar, steering clear of using anything Skynet can trace. That is, until he encounters T-X, a robotic assassin ordered to finish what T-1000 started. Good thing Connor's former nemesis, the Terminator, is back to aid the now-adult Connor Ã¢â‚¬Â¦ just like he promised.",2003,tt0181852,6.3,393998.0
+tm28905,Beerfest,MOVIE,"During a trip to Germany to scatter their grandfather's ashes, German-American brothers Todd and Jan discover Beerfest, the secret Olympics of downing stout, and want to enter the contest to defend their family's beer-guzzling honor. Their Old Country cousins sneer at the Yanks' chances, prompting the siblings to return to America to prepare for a showdown the following year.",2006,tt0486551,6.2,67748.0
+tm44486,Heist,MOVIE,"Joe Moore has a job he loves. He's a thief. His job goes sour when he gets caught on security camera tape. His fence, Bergman, reneges on the money he's owed, and his wife may be betraying him with the fence's young lieutenant. Moore and his partner, Bobby Blane, and their utility man, Pinky Pincus, find themselves broke, betrayed, and blackmailed. Moore is forced to commit his crew to do one last big job.",2001,tt0252503,6.5,36361.0
+tm39487,Catch and Release,MOVIE,"Gray Wheeler just lost everything. But it could be the best thing that ever happened to her. After the death of her fiancÃƒÂ©, Gray moves in with her late love's best friends. While Sam and Dennis do their best to cheer Gray up, Fritz doesn't seem to care. Once Gray breaks through Fritz's defenses, however, she finally sees why her fiancÃƒÂ© thought so highly of him. As they spend more time together, Gray learns that her chances for love have not died out with her fiancÃƒÂ©. But when some surprise guests show up on their doorstep, it'll take the love of all of her new friends to help Gray learn that life may be messy, but love is messier.",2006,tt0395495,5.9,26157.0
+tm169949,Just Like Heaven,MOVIE,"Shortly after David Abbott moves into his new San Francisco digs, he has an unwelcome visitor on his hands: winsome Elizabeth Martinson, who asserts that the apartment is hers -- and promptly vanishes. When she starts appearing and disappearing at will, David thinks she's a ghost, while Elizabeth is convinced she's alive.",2005,tt0425123,6.7,106755.0
+ts35155,Gurren Lagann,SHOW,"In the distant future, mankind has lived quietly and restlessly underground for hundreds of years, subject to earthquakes and cave-ins. Living in one such village are 2 young men: one named Simon who is shy and naÃƒÂ¯ve, and the other named Kamina who believes in the existence of a Ã¢â‚¬Å“surfaceÃ¢â‚¬Â world above their heads.",2007,tt0948103,8.3,17024.0
+tm184913,Four Brothers,MOVIE,Four adopted brothers return to their Detroit hometown when their mother is murdered and vow to exact revenge on the killers.,2005,tt0430105,6.8,144656.0
+tm118637,John Q,MOVIE,"John Quincy Archibald is a father and husband whose son is diagnosed with an enlarged heart and then finds out he cannot receive a transplant because HMO insurance will not cover it. Therefore, he decides to take a hospital full of patients hostage until the hospital puts his son's name on the donor's list.",2002,tt0251160,7.0,131999.0
+tm58382,Not Another Teen Movie,MOVIE,"On a bet, a gridiron hero at John Hughes High School sets out to turn a bespectacled plain Jane into a beautiful and popular prom queen in this outrageous send-up of the teen movies of the 1980s and '90s.",2001,tt0277371,5.7,104604.0
+tm40009,21,MOVIE,"Ben Campbell is a young, highly intelligent, student at M.I.T. in Boston who strives to succeed. Wanting a scholarship to transfer to Harvard School of Medicine with the desire to become a doctor, Ben learns that he cannot afford the $300,000 for the four to five years of schooling as he comes from a poor, working-class background. But one evening, Ben is introduced by his unorthodox math professor Micky Rosa into a small but secretive club of five. Students Jill, Choi, Kianna, and Fisher, who are being trained by Professor Rosa of the skill of card counting at blackjack.",2008,tt0478087,6.8,247039.0
+ts12787,Code Geass: Lelouch of the Rebellion,SHOW,"Japan has been invaded and conquered by the Britannian Empire. Japan is now known as Area 11 and its citizens known as Elevens. The Britannian Empire takes away Japan's autonomous power and imposes its rule through the use of Knightmares. The Empire's rule has never faltered, but cracks have begun to show...",2006,tt0994314,8.69999999999999,62367.0
+tm154470,Terminator Salvation,MOVIE,"All grown up in post-apocalyptic 2018, John Connor must lead the resistance of humans against the increasingly dominating militaristic robots. But when Marcus Wright appears, his existence confuses the mission as Connor tries to determine whether Wright has come from the future or the past -- and whether he's friend or foe.",2009,tt0438488,6.5,357557.0
+tm22294,Deck the Halls,MOVIE,"Determined to unseat Steve Finch's reign as the town's holiday season king, Buddy Hall plasters his house with so many decorative lights that it'll be visible from space! When their wives bond, and their kids follow suit, the two men only escalate their rivalry - and their decorating.",2006,tt0790604,5.0,27797.0
+tm78067,The Girl Next Door,MOVIE,"In a quiet suburban town in the summer of 1958, two recently orphaned sisters are placed in the care of their mentally unstable Aunt Ruth. But Ruth's depraved sense of discipline will soon lead to unspeakable acts of abuse and torture that involve her young sons, the neighborhood children, and one 12-year-old boy whose life will be changed forever.",2007,tt0830558,6.5,26035.0
+tm148379,The Cat in the Hat,MOVIE,"Conrad and Sally Walden are home alone with their pet fish. It is raining outside, and there is nothing to do. Until The Cat in the Hat walks in the front door. He introduces them to their imagination, and at first it's all fun and games, until things get out of hand, and The Cat must go, go, go, before their parents get back.",2003,tt0312528,4.0,81971.0
+tm21467,Final Destination 3,MOVIE,"A student's premonition of a deadly rollercoaster ride saves her life and a lucky few, but not from death itself Ã¢â‚¬â€œ which seeks out those who escaped their fate.",2006,tt0414982,5.8,139797.0
+tm46436,Thir13en Ghosts,MOVIE,"Arthur and his two children, Kathy and Bobby, inherit his Uncle Cyrus's estate: a glass house that serves as a prison to 12 ghosts. When the family, accompanied by Bobby's Nanny and an attorney, enter the house they find themselves trapped inside an evil machine ""designed by the devil and powered by the dead"" to open the Eye of Hell. Aided by Dennis, a ghost hunter, and his rival Kalina, a ghost rights activist out to set the ghosts free, the group must do what they can to get out of the house alive.",2001,tt0245674,5.6,86492.0
+tm57190,The One,MOVIE,A sheriff's deputy fights an alternate universe version of himself who grows stronger with each alternate self he kills.,2001,tt0267804,5.9,91584.0
+tm37546,Happy Feet,MOVIE,"Into the world of the Emperor Penguins, who find their soul mates through song, a penguin is born who cannot sing. But he can tap dance something fierce!",2006,tt0366548,6.4,182612.0
+tm30205,Ip Man,MOVIE,"A semi-biographical account of Yip Man, the first martial arts master to teach the Chinese martial art of Wing Chun. The film focuses on events surrounding Ip that took place in the city of Foshan between the 1930s to 1940s during the Second Sino-Japanese War. Directed by Wilson Yip, the film stars Donnie Yen in the lead role, and features fight choreography by Sammo Hung.",2008,tt1220719,8.0,221095.0
+tm159310,Coach Carter,MOVIE,"Based on a true story, in which Richmond High School head basketball coach Ken Carter made headlines in 1999 for benching his undefeated team due to poor academic results.",2005,tt0393162,7.3,143670.0
+tm89592,Blade: Trinity,MOVIE,"For years, Blade has fought against the vampires in the cover of the night. But now, after falling into the crosshairs of the FBI, he is forced out into the daylight, where he is driven to join forces with a clan of human vampire hunters he never knew existedÃ¢â‚¬â€The Nightstalkers. Together with Abigail and Hannibal, two deftly trained Nightstalkers, Blade follows a trail of blood to the ancient creature that is also hunting himÃ¢â‚¬â€the original vampire, Dracula.",2004,tt0359013,5.8,175210.0
+tm167516,Monster-in-Law,MOVIE,"Office temp Charlotte Cantilini thinks she's found Mr. Right when she starts dating gorgeous surgeon Dr. Kevin Fields. But there's a problem standing in the way of everlasting bliss: Kevin's overbearing and controlling mother, Viola. Fearing she'll lose her son's affections forever, Viola decides to break up the happy couple by becoming the world's worst mother-in-law.",2005,tt0369735,5.5,60693.0
+tm79895,Halloween,MOVIE,"After being committed for 17 years, Michael Myers, now a grown man and still very dangerous, escapes from the mental institution (where he was committed as a 10 year old) and he immediately returns to Haddonfield, where he wants to find his baby sister, Laurie. Anyone who crosses his path is in mortal danger",2007,tt0373883,6.0,118815.0
+tm111600,The Sweetest Thing,MOVIE,"Christina's love life is stuck in neutral. After years of avoiding the hazards of a meaningful relationship, one night while club-hopping with her girlfriends, she meets Peter, her perfect match. Fed up with playing games, she finally gets the courage to let her guard down and follow her heart, only to discover that Peter has suddenly left town. Accompanied by Courtney, she sets out to capture the one that got away.",2002,tt0253867,5.1,58516.0
+tm143938,The Final Destination,MOVIE,"After a young man's premonition of a deadly race-car crash helps saves the lives of his peers, Death sets out to collect those who evaded their end.",2009,tt1144884,5.1,104166.0
+tm31187,The Other Boleyn Girl,MOVIE,"A sumptuous and sensual tale of intrigue, romance and betrayal set against the backdrop of a defining moment in European history: two beautiful sisters, Anne and Mary Boleyn, driven by their family's blind ambition, compete for the love of the handsome and passionate King Henry VIII.",2008,tt0467200,6.7,111694.0
+tm141390,Friday the 13th,MOVIE,A group of young adults visit a boarded up campsite named Crystal Lake where they soon encounter the mysterious Jason Voorhees and his deadly intentions.,2009,tt0758746,5.5,105938.0
+tm74780,The Bucket List,MOVIE,"Corporate billionaire Edward Cole and working class mechanic Carter Chambers are worlds apart. At a crossroads in their lives, they share a hospital room and discover they have two things in common: a desire to spend the time they have left doing everything they ever wanted to do and an unrealized need to come to terms with who they are. Together they embark on the road trip of a lifetime, becoming friends along the way and learning to live life to the fullest, with insight and humor.",2007,tt0825232,7.4,242733.0
+tm150214,Freddy vs. Jason,MOVIE,"In an attempt to free himself from a state of forgotten limbo, evil dream-demon Freddy Krueger devises a plan to manipulate un-dead mass murderer Jason Voorhees  into slicing-and-dicing his way through the teenage population of Springwood.  But when the master of dreams loses control of his monster, a brutal fight to the death is the only way out.",2003,tt0329101,5.7,117986.0
+tm176528,Memoirs of a Geisha,MOVIE,"A sweeping romantic epic set in Japan in the years before World War II, a penniless Japanese child is torn from her family to work as a maid in a geisha house.",2005,tt0397535,7.3,146847.0
+tm36188,Body of Lies,MOVIE,"The CIAÃ¢â‚¬â„¢s hunt is on for the mastermind of a wave of terrorist attacks. Roger Ferris is the agencyÃ¢â‚¬â„¢s man on the ground, moving from place to place, scrambling to stay ahead of ever-shifting events. An eye in the sky Ã¢â‚¬â€œ a satellite link Ã¢â‚¬â€œ watches Ferris.  At the other end of that real-time link is the CIAÃ¢â‚¬â„¢s Ed Hoffman, strategizing events from thousands of miles away. And as Ferris nears the target, he discovers trust can be just as dangerous as it is necessary for survival.",2008,tt0758774,7.1,224896.0
+tm88382,A Cinderella Story,MOVIE,"Routinely exploited by her wicked stepmother, the downtrodden Samantha Montgomery is excited about the prospect of meeting her Internet beau at the school's Halloween dance.",2004,tt0356470,5.9,86395.0
+ts31263,The Mole,SHOW,"Players working as a team complete a series of difficult physical and psychological tests, each worth a set amount of money. One of the players, however, is a ""Mole"" or saboteur, whose goal is to foil the efforts of the other players without revealing his or her identity. At the end of each episode, the group is given a quiz on The Mole's identity. The player who knows the least information about The Mole is then immediately sent home. In the final episode, The Mole is revealed and the one remaining player wins the jackpot, up to $1,000,000.",2001,tt0294149,7.6,1104.0
+tm47523,Osmosis Jones,MOVIE,"A white blood cell policeman, with the help of a cold pill, must stop a deadly virus from destroying the human they live in, Frank.",2001,tt0181739,6.3,35711.0
+tm24088,Scary Movie 4,MOVIE,"Cindy finds out the house she lives in is haunted by a little boy and goes on a quest to find out who killed him and why. Also, Alien ""Tr-iPods"" are invading the world and she has to uncover the secret in order to stop them.",2006,tt0362120,5.1,120188.0
+tm137362,The Texas Chainsaw Massacre,MOVIE,"After picking up a traumatized young hitchhiker, five friends find themselves stalked and hunted by a chainsaw-wielding killer and his family of equally psychopathic killers.",2003,tt0324216,6.2,140741.0
+tm177068,Fun with Dick and Jane,MOVIE,"After Dick Harper loses his job at Globodyne in an Enron-esque collapse, he and his wife, Jane, turn to crime in order to handle the massive debt they now face. Two intelligent people, Dick and Jane actually get pretty good at robbing people and even enjoy it -- but they have second thoughts when they're reminded that crime can hurt innocent people. When the couple hears that Globodyne boss Jack McCallister actually swindled the company, they plot revenge.",2005,tt0369441,6.1,143998.0
+tm82442,TMNT,MOVIE,"After the defeat of their old arch nemesis, The Shredder, the Turtles have grown apart as a family. Struggling to keep them together, their rat sensei, Splinter, becomes worried when strange things begin to brew in New York City.",2007,tt0453556,6.2,64062.0
+ts687,The 4400,SHOW,"4400 centers on the return of 4400 people who, previously presumed dead or reported missing, reappear on Earth. Though they have not aged physically, some of them seem to have deeper alterations ranging from superhuman strength to an unexplained healing touch. A government agency is formed to track the 4400 people after one of them commits a murder.",2004,tt0389564,7.3,44971.0
+ts24028,Still Game,SHOW,Cult Scottish comedy about the lives of two OAP's (Old Age Pensioners) Jack and Victor and their views on how it used to be in the old days and how bad it is now in the fictional town of Craiglang.,2002,tt0281491,8.9,7539.0
+tm142564,3 Idiots,MOVIE,"In the tradition of Ã¢â‚¬Å“Ferris BuellerÃ¢â‚¬â„¢s Day OffÃ¢â‚¬Â comes this refreshing comedy about a rebellious prankster with a crafty mind and a heart of gold. Rascal. Joker. Dreamer. Genius... You've never met a college student quite like ""Rancho."" From the moment he arrives at India's most prestigious university, Rancho's outlandish schemes turn the campus upside downÃ¢â‚¬â€along with the lives of his two newfound best friends. Together, they make life miserable for ""Virus,"" the schoolÃ¢â‚¬â„¢s uptight and heartless dean. But when Rancho catches the eye of the dean's sexy daughter, Virus sets his sights on flunking out the ""3 idiots"" once and for all.",2009,tt1187043,8.4,385782.0
+ts23752,Midnight Diner,SHOW,"Set in a small restaurant in the corner of a shopping district. The unusual eatery is only open after midnight, and its standard menu consists of just a single choice. However, the customers still come for the amusing chatter and the proprietor's willingness to cook any dish that they request. This drama depicts the lives of the restaurant's patrons, including a yakuza, an unsuccessful actor, a group of office ladies, a newspaper delivery boy, and a stripper.",2009,tt1882928,8.6,2110.0
+ts21706,H2O: Just Add Water,SHOW,H2O: Just Add Water revolves around three teenage girls facing everyday teen problems with an added twist: they cope with the burden of growing a giant fin and transforming into mermaids whenever they come in contact with water.,2006,tt0491603,7.2,14782.0
+ts21740,Black Butler,SHOW,"In Victorian-era London, on the night of Ciel Phantomhive's tenth birthday a fire destroyed his manor and killed both of his parents. In a moment of death Ceil strikes a deal with a demon, his soul in exchange for revenge. This demon becomes his butler and calls himself by name of Sebastian Michaelis, to protect and serve Ciel until the deal has been completed. One month after the fire Ciel returns from being missing, with his new butler Sebastian. Ceil is now the head of the Phantomhive corporation, handling all business affairs as well as the work as the Queen of EnglandÃ¢â‚¬â„¢s guard dog and looking for his parents murders.",2008,tt1316554,8.3,1856.0
+tm89684,New York Minute,MOVIE,"Top student Jane Ryan heads to Manhattan for a college-scholarship competition. Her rebellious twin Roxy Ryan goes along to crash a video shoot. But anything can happen - and does - in a romp involving a pursuing truant officer, a smuggler, hunkalicious guys and the girls' realization that when the chips are down, a sister can be the best friend of all.",2004,tt0363282,4.8,23307.0
+ts31514,Strawberry Shortcake,SHOW,"Strawberry and her friends, including her sister, Apple Dumplin', and her pony, Honey Pie, embark on sweet-smelling adventures in Strawberryland.",2003,tt7996132,7.0,13.0
+ts22005,Total Drama Island,SHOW,"Reality TV meets animation in this parody in which twenty-two teens are sent to the most run-down and bug-infested summer camp known to reality TV producers. Split into teams, The Screaming Gophers take on The Killer Bass as they face challenges that get more insane each week.",2007,tt1173427,7.4,10523.0
+tm183963,Dreamer: Inspired By a True Story,MOVIE,Ben Crane believes that a severely injured racehorse deserves another chance. He and his daughter Cale adopt the mare and save it from being sacrificed by the owner.,2005,tt0487897,6.8,13034.0
+tm27268,Monster House,MOVIE,"Monsters under the bed are scary enough, but what happens when an entire house is out to get you? Three teens aim to find out when they go up against a decrepit neighboring home and unlock its frightening secrets.",2006,tt0385880,6.6,114942.0
+tm81270,Starsky & Hutch,MOVIE,"Join uptight David Starsky and laid-back Ken ""Hutch"" Hutchinson as they're paired for the first time as undercover cops. The new partners must overcome their differences to solve an important case with help from street informant Huggy Bear and persuasive criminal Reese Feldman.",2004,tt0335438,6.1,145981.0
+tm137342,Tears of the Sun,MOVIE,"Navy SEAL Lieutenant A.K. Waters and his elite squadron of tactical specialists are forced to choose between their duty and their humanity, between following orders by ignoring the conflict that surrounds them, or finding the courage to follow their conscience and protect a group of innocent refugees. When the democratic government of Nigeria collapses and the country is taken over by a ruthless military dictator, Waters, a fiercely loyal and hardened veteran is dispatched on a routine mission to retrieve a Doctors Without Borders physician.",2003,tt0314353,6.6,121066.0
+ts21688,Boys Over Flowers,SHOW,A working class girl winds up at an exclusive prep school. Unassuming high school girl Jan Di stands up to -- and eventually falls for -- a spoiled rich kid who belongs to the school's most powerful clique.,2009,tt1370334,7.9,11579.0
+ts22318,Winx Club,SHOW,"In a magical universe, witches, warriors begin fighting in the name of good .vs. evil! At a magic school, five teenage girls are selected to defend the universe with their magic.",2004,tt3233214,6.2,6700.0
+tm161263,The Cave,MOVIE,"After a group of biologists discovers a huge network of unexplored caves in Romania and, believing it to be an undisturbed eco-system that has produced a new species, they hire the best American team of underwater cave explorers in the world. While exploring deeper into the underwater caves, a rockslide blocks their exit, and they soon discover a larger carnivorous creature has added them to its food chain.",2005,tt0403424,5.1,38445.0
+ts12815,Big Time Rush,SHOW,"Four teenage friends move from Minneapolis to Los Angeles to form a potential chart-topping boy band after Kendall is inadvertently discovered by an eccentric record executive, Gustavo Rocque. As they seize this opportunity of a lifetime, these friends embark on an exciting comedy and music-filled journey to prove to themselves and their record label that they are serious about their new career choice.",2009,tt1131746,6.3,12046.0
+tm26638,The Texas Chainsaw Massacre: The Beginning,MOVIE,"Chrissie and her friends set out on a road trip for a final fling before one is shipped off to Vietnam. Along the way, bikers harass the foursome and cause an accident that throws Chrissie from the vehicle. The lawman who arrives on the scene kills one of the bikers and brings Chrissie's friends to the Hewitt homestead, where young Leatherface is learning the tools of terror.",2006,tt0420294,5.8,72366.0
+tm55303,I Am Sam,MOVIE,"Sam, a neurodivergent man, has a daughter with a homeless woman who abandons them when they leave the hospital, leaving Sam to raise Lucy on his own. But as Lucy grows up, Sam's limitations as a parent start to become a problem and the authorities take her away. Sam convinces high-priced lawyer Rita to take his case pro bono and in turn teaches her the value of love and family.",2001,tt0277027,7.6,149082.0
+tm31189,The Spiderwick Chronicles,MOVIE,"Upon moving into the run-down Spiderwick Estate with their mother, twin brothers Jared and Simon Grace, along with their sister Mallory, find themselves pulled into an alternate world full of faeries and other creatures.",2008,tt0416236,6.5,94628.0
+tm165593,Rumor Has It...,MOVIE,"Sarah Huttinger's return home with her fiance convinces her that the sedate, proper, country-club lifestyle of her family isn't for her Ã¢â‚¬â€œ and that maybe the Huttinger family isn't even hers Ã¢â‚¬â€œ as she uncovers secrets that suggest the Huttingers are neither sedate nor proper.",2005,tt0398375,5.5,57894.0
+ts15986,Dead Set,SHOW,"Zombies are rampaging throughout Britain. Blissfully unaware of gory events outside, the Big Brother housemates are in for the ultimate eviction night...",2008,tt1285482,7.6,19684.0
+ts26322,Toradora!,SHOW,"RyÃ…Â«ji Takasu is a gentle high school student with a love for housework; but in contrast to his kind nature, he has an intimidating face that often gets him labeled as a delinquent. On the other hand is Taiga Aisaka, a small, doll-like student who is anything but a cute and fragile girl. Equipped with a wooden katana and feisty personality, Taiga is known throughout the school as the ""Palmtop Tiger."" One day, an embarrassing mistake causes the two students to cross paths. RyÃ…Â«ji discovers that Taiga actually has a sweet side: she has a crush on the popular vice president, YÃ…Â«saku Kitamura, who happens to be his best friend. But things only get crazier when RyÃ…Â«ji reveals that he has a crush on Minori KushiedaÃ¢â‚¬â€Taiga's best friend! Toradora! is a romantic comedy that follows this odd duo as they embark on a quest to help each other with their respective crushes, forming an unlikely alliance in the process.",2008,tt1279024,8.0,14307.0
+tm78767,I Now Pronounce You Chuck & Larry,MOVIE,"Firefighters Chuck Ford and Larry Valentine are guy's guys, loyal to the coreÃ¢â‚¬â€which is why when widower Larry asks Chuck to pose as his gay lover so that he can get domestic partner benefits for his kids, his buddy agrees. However, things get dicey when a bureaucrat comes calling, and the boys are forced to present a picture of domestic bliss.",2007,tt0762107,5.9,146625.0
+tm36644,World Trade Center,MOVIE,"Two police officers struggle to survive when they become trapped beneath the rubble of the World Trade Center on September 11, 2001.",2006,tt0469641,6.0,83129.0
+tm77649,Premonition,MOVIE,"A depressed housewife who learns her husband was killed in a car accident the day previously, awakens the next morning to find him alive and well at home, and then awakens the day after to a world in which he is still dead.",2007,tt0477071,5.9,78119.0
+ts33559,Shaun the Sheep,SHOW,"Shaun the Sheep thinks and acts like a person in a barnyard, which usually gets him into trouble. The farmer's sheepdog, Bitzer, tries to keep Shaun and his friends out of trouble. The farmer is oblivious to the humanlike features of his flock, who are like one big, happy family.",2007,tt0983983,8.0,25.0
+tm33113,Eagle Eye,MOVIE,"Jerry Shaw and Rachel Holloman are two strangers whose lives are suddenly thrown into turmoil by a mysterious woman they have never met. Threatening their lives and family, the unseen caller uses everyday technology to control their actions and push them into increasing danger. As events escalate, Jerry and Rachel become the country's most-wanted fugitives and must figure out what is happening to them.",2008,tt1059786,6.6,185430.0
+tm43399,Lagaan: Once Upon a Time in India,MOVIE,"In 1890s India, an arrogant British commander challenges the harshly taxed residents of Champaner to a high-stakes cricket match.",2001,tt0169102,8.1,111053.0
+tm147211,The Men Who Stare at Goats,MOVIE,"A reporter in Iraq might just have the story of a lifetime when he meets Lyn Cassady, a guy who claims to be a former member of the U.S. Army's New Earth Army, a unit that employs paranormal powers in their missions.",2009,tt1234548,6.2,131564.0
+ts56549,Scare Tactics,SHOW,"Scare Tactics is a hidden camera/comedy television show, produced by Kevin Healey and Scott Hallock. Its first two seasons aired from April 2003 to December 2004. After a hiatus, the show returned for a third season, beginning July 9, 2008. The first season of the show was hosted by Shannen Doherty. Stephen Baldwin took her place in the middle of the second season. Since the beginning of the third season, the show has been hosted by Tracy Morgan. The fourth season began on October 6, 2009.
+
+In Europe the first season of the program aired on MTV Central from 2003 to 2004. The show is also broadcast in Australia on FOX8, in Canada on MTV, in India on AXN, in Russia on MTV Russia, in Turkey on Dream TV, in Poland on TV Puls, in Finland on Jim, in South Korea on Q TV, in Sweden initially on TV6 and currently on TV11.",2003,tt0339968,6.7,2512.0
+tm29555,Friends with Money,MOVIE,"After she quits her lucrative job, Olivia finds herself unsure about her future and her relationships with her successful and wealthy friends.",2006,tt0436331,5.8,30186.0
+ts20398,Kath & Kim,SHOW,"Kath & Kim is a character-driven Australian television situation comedy series. The series was created by, and is written by Jane Turner and Gina Riley who play the title characters: a suburban mother and daughter with a dysfunctional relationship. The series main characters consist of Kath Day-Knight, a cheerful 50-year-old woman, her self-indulgent daughter Kim Craig, Kath's boyfriend and second husband, the metrosexual Kel Knight, as well as Kim's estranged husband Brett Craig and her lonely, overweight ""second best friend"" Sharon Strzelecki. The series is set in the fictional suburb of Fountain Lakes in Melbourne. It is primarily filmed in Patterson Lakes.
+
+The series was conceived by Turner and Riley in the early 1990s as a weekly segment of the Australian comedy series Fast Forward. The skit was then developed into a full-series. The first series of Kath & Kim premiered on ABC TV on 16 May 2002, with three further series following, while a television movie, entitled Da Kath and Kim Code, was broadcast nationally on 25 November 2005. Kath & Kim has garnered much critical acclaim since its debut, winning two Logie Awards, for ""Outstanding Comedy Programme"" and the ""Best Television Drama Series"" award at the Australian Film Institute Awards. In Australia, it has become a pop culture phenomenon, and is a success with audiences nationwide. Internationally, the series has spawned a cult fanbase, and in 2006 it was announced an American version of the series would be produced, to air on NBC. Riley and Turner served as executive producers on the US version. The American version was also picked up by Seven, which debuted the program on 12 October 2008, just three days after its debut in the United States.",2002,tt0272397,8.3,4168.0
+tm86189,Good Luck Chuck,MOVIE,"Cursed since childhood, dentist Charlie Logan cannot find the right woman. Even worse, he learns that each of his ex-girlfriends finds true love with the man she meets after her relationship with him ends. Hearing of Charlie's reputation as a good-luck charm, women from all over line up for a quick tryst. But when Charlie meets the woman of his dreams, he must find a way to break the curse or risk losing her to the next man she meets.",2007,tt0452625,5.6,89755.0
+ts21421,Pocoyo,SHOW,"Pocoyo is a Spanish pre-school animated television series created by Guillermo GarcÃƒÂ­a CarsÃƒÂ­, Luis Gallego and David Cantolla, and is a co-production between Spanish producer Zinkia Entertainment, Cosgrove-Hall Films and Granada International. Two series have been produced, each consisting of 52 seven-minute episodes. English actor and comedian Stephen Fry narrates the English-language version and JosÃƒÂ© MarÃƒÂ­a del RÃƒÂ­o narrates the Castilian Spanish version.
+
+Set in a 3D space, with a plain white background and usually no backdrops, it is about Pocoyo, a 3-year-old boy, interacting with his friends Pato, Elly and Loula. Viewers are encouraged to recognise situations that Pocoyo is in, and things that are going on with or around him. The narrator usually speaks explicitly to the viewers and to the characters as well. Each character has its own distinctive dance and also a specific sound, and most episodes end with the characters dancing. Many episodes also involve parties.
+
+In the United Kingdom, it was originally broadcast on CITV, a children's strand on the ITV network. In September 2007, Channel 5 acquired terrestrial rights in the United Kingdom to the first and second series, making it part of the Milkshake! strand. The show, however, will continue to air on the CITV Channel. Other broadcasters in the English speaking countries include RTÃƒâ€° in the Republic of Ireland, Nick Jr. in the U.S. nationwide and local station KCET-TV as well as KLCS-TV channel 58-2 in Los Angeles and on Univision in LATAM Spanish, Treehouse TV in Canada, ABC in Australia and TVNZ in New Zealand.",2005,tt0487849,3.9,93.0
+tm135451,Gifted Hands: The Ben Carson Story,MOVIE,Gifted Hands: The Ben Carson Story is a movie based on the life story of world-renowned neurosurgeon Ben Carson from 1961 to 1987.,2009,tt1295085,7.6,10210.0
+ts20526,The Game,SHOW,"When her boyfriend Derwin Davis is chosen as the new third-string wide receiver for the San Diego Sabers, Melanie Barnett decides to attend a local college so she can be with him. While Derwin worries about the plays on the field, Melanie adjusts to her new lifestyle. She gets a play-by-play account of the lives and relationships among NFL wives, girlfriends and mom/managers who use their best game to help their men stay on the field and on their arm.",2006,tt10020984,6.6,4417.0
+tm141707,Blood and Bone,MOVIE,"In Los Angeles, an ex-con takes the underground fighting world by storm in his quest to fulfill a promise to a dead friend.",2009,tt0346631,6.7,33051.0
+ts23835,Masha and the Bear,SHOW,"Masha is an energetic three-year-old who canÃ¢â‚¬â„¢t seem to keep herself out of trouble. Bear is a warm, fatherly figure that does his best to guide his friend and keep her from harm, often ending up the unintended victim of her misadventures.",2009,tt1884856,7.6,3114.0
+tm83786,Like Stars on Earth,MOVIE,"Ishaan Awasthi is an eight-year-old whose world is filled with wonders that no one else seems to appreciate. Colours, fish, dogs, and kites don't seem important to the adults, who are much more interested in things like homework, marks, and neatness. Ishaan cannot seem to get anything right in class; he is then sent to boarding school, where his life changes forever.",2007,tt0986264,8.3,188234.0
+ts23808,Monty Python: Almost the Truth (The Lawyer's Cut),SHOW,"The story of Monty Python through brand new interviews with the Pythons: John Cleese, Terry Gilliam, Eric Idle, Terry Jones & Michael Palin and archive material from the late Graham Chapman.",2009,tt1422182,8.1,1740.0
+ts27459,The Legend of Bruce Lee,SHOW,"The story of the legendary martial arts icon Bruce Lee following him from Hong Kong to America and back again, leading up to his tragic death at the age of 32.",2008,tt1059455,7.0,1422.0
+ts20544,Ouran High School Host Club,SHOW,"Ouran High is a school for the extremely wealthy or, in Haruhi's case, the extremely talented. But no amount of talent will help when Haruhi accidentally drops an eight million yen vase in a music room. The vase was the property of Ouran High School Host Club, a group of attractive young men who, for a fee, provide their time and affections for their lovesick clientele: the female students. Fascinated by this strange new specimen, a poor and clumsy commoner, they force Haruhi to work for them until the debt is repaid; but they get a lot more than they bargained for...",2006,tt0816397,8.19999999999999,9763.0
+tm27168,Felon,MOVIE,A family man convicted of killing an intruder must cope with life afterward in the violent penal system.,2008,tt1117385,7.4,78039.0
+ts40702,The Ultimatum,SHOW,"The Ultimatum is a Singaporean Chinese drama which was telecasted on Singapore's free-to-air channel, MediaCorp Channel 8. It made its debut on 27 May 2009 and ended on the date 7 July 2009. This drama serial consists of 30 episodes, and was screened on every weekday night at 9:00 pm.
+
+Being the mid-year Channel 8 blockbuster of 2009, it was the first Channel 8 drama to be fully filmed in HD.
+
+Despite being touted as the 2009 blockbuster of the year and featuring many established actors and actresses like Zoe Tay, Li Nanxing and Fann Wong, the show's reception was lukewarm at best. Many viewers faulted the serial for improbable casting and for a lack of originality in certain parts of the scripting. The series also came under harsh criticism for being overly melodramatic. However, the performance of newcomers such as Jerry Yeo, who played an antagonist for the first time, were widely praised.",2009,tt1682704,5.4,6.0
+tm114476,Stuart Little 2,MOVIE,"Stuart, an adorable white mouse, still lives happily with his adoptive family, the Littles, on the east side of Manhattan's Central Park. More crazy mouse adventures are in store as Stuart, his human brother, George, and their mischievous cat, Snowbell, set out to rescue a friend.",2002,tt0243585,5.5,53746.0
+ts21967,Johnny Test,SHOW,"Young Johnny is gung-ho and full of courage. Johnny's brainiac twin sisters, Susan and Mary, use Johnny as their guinea pig for their outrageous scientific experiments. If they can dream it up, Johnny will do it; as long as his genetically engineered super dog, Dukey, can come along.",2005,tt15061770,5.1,8172.0
+ts12701,Code Lyoko,SHOW,"Code Lyoko centers on four children who travel to the virtual world of Lyoko to battle against a sentient artificial intelligence named XANA, with a virtual human called Aelita.",2003,tt0417311,7.3,5109.0
+tm130574,Did You Hear About the Morgans?,MOVIE,"In New York City, an estranged couple who witness a murder are relocated to small-town Wyoming as part of a witness-protection program.",2009,tt1314228,4.9,40289.0
+ts21695,Iris,SHOW,"Two friends, members of the South Korean military, are recruited by a secret black ops agency.",2009,tt1399791,7.8,1951.0
+ts1893,Ben & Holly's Little Kingdom,SHOW,The friendship between fairy princess Holly and Ben Elf in an enchanted magical kingdom of elves and fairies.,2009,tt1436544,7.5,1222.0
+ts20535,The Garfield Show,SHOW,"Your favorite lazy, fat cat is at it again. Garfield, Odie, Jon and the rest of the gang are back for more funny misadventures. Whether he's scarfing down lasagna or tricking Nermal the kitten, Garfield is guaranteed to crack you up. But remember: He hates Mondays!",2009,tt1470837,5.3,2499.0
+tm160800,Chaos,MOVIE,"In Seattle, detective Quentin Conners is unfairly suspended and his partner Jason York leaves the police force after a tragic shooting on Pearl Street Bridge, when the hostage and the criminal die. During a bank heist with a hostage situation, Conners is assigned in charge of the operation with the rookie Shane Dekker as his partner. The thieves, lead by Lorenz, apparently do not steal a penny from the bank. While chasing the gangsters, the police team disclose that they planted a virus in the system, stealing one billion dollars from the different accounts, using the principle of the Chaos Theory. Further, they find that Lorenz is killing his accomplices.",2005,tt0402910,6.4,54633.0
+ts38159,Wakfu,SHOW,"Follow Yogu and his friends Amalia, Evangelyne, Tristepin, Ruel and Az as they try to rescue the world of Wakfu from destruction.",2008,tt1807824,8.1,1469.0
+tm22493,Katt Williams: The Pimp Chronicles Pt. 1,MOVIE,"Comedian Katt Williams (aka Money Mike) showcases his laugh out loud comedic talents in his first ever HBO stand-up comedy DVD taped in front of a live audience. A native of Cincinnati, Ohio, Williams worked his way up the comedy club ladder before landing key television and film roles that displayed his flashy, sassy, streetwise style.",2006,tt0865482,7.6,1780.0
+tm164557,Initial D,MOVIE,"After winning his first competition, Takumi focuses his attention on drift racing, a sport he has unknowingly perfected while delivering tofu in his father's Toyota AE86.",2005,tt0439630,6.3,8536.0
+tm112381,Comedian,MOVIE,"A look at the work of two stand-up comics, Jerry Seinfeld and a lesser-known newcomer, detailing the effort and frustration behind putting together a successful act and career while living a life on the road.",2002,tt0328962,6.9,6948.0
+tm71119,Delta Farce,MOVIE,"Three bumbling Army reservists are hustled onto a plane headed for combat in Iraq -- but the fact that the plane drops them in Mexico doesn't stop them from ""liberating"" what they believe to be the Middle East.",2007,tt0800003,3.6,11138.0
+tm134235,One Piece: Strong World,MOVIE,"20 years after his escape from Impel Down, the legendary pirate Shiki, the Golden Lion, reappears causing massive upheaval to the Marines. During his long seclusion, he was able to come up with a scheme to bring the World Government to his knees. On his way to execute the plan, Shiki crosses paths with the Straw Hat Pirates and becomes so impressed with Nami's knowledge of meteorology that he abducts her to forcedly enlist her into his crew. Luffy and the gang end up on a strange land populated with monstrous beasts as they desperately search for Shiki and Nami.",2009,tt1485763,7.5,5382.0
+tm86995,Christmas with the Kranks,MOVIE,"When their only daughter Blair leaves the family nest, Luther and Nora Krank decide to book an island cruise to beat the yuletide blues and just skip the holidays. But their decision to boycott tradition has the whole neighborhood in an uproar, and when Blair call son Christmas Eve to announce a surprise visit with her new fiancÃƒÂ©e, the Kranks have just twelve hours to perform a miracle and pull themselves and their neighbors together to throw the best celebration ever!",2004,tt0388419,5.4,49090.0
+ts17028,Dinosaur King,SHOW,"Dinosaur King is a card-based arcade game from Sega that uses the same gameplay mechanics from Mushiking but uses super-powered dinosaurs instead of beetles. The game was revealed in JAMMA 2005 and is available in Japanese and English versions. A Nintendo DS version has also been released in North America.
+
+In the fall of 2008, Upper Deck Company released a Dinosaur King Trading Card Game. This card game is not to be confused with the cards used for the arcade machines.
+
+The series has been adapted into an anime TV series, Ancient Ruler Dinosaur King DKidz Adventure, which is made by Sunrise and premiered on TV Asahi on February 4, 2007. As of 2008, an English adaptation aired on the 4Kids TV block on the Fox Network, but moved to The CW's The CW4Kids block on September 6, 2008.
+
+A sequel was announced called ""Ancient Ruler Dinosaur King DKidz Adventure: Pterosaur Legend,"" which debuted February 3, 2008 in Japan.
+
+The show ended its run in Japan in late 2008.",2007,tt1524993,5.6,720.0
+tm137530,Love Happens,MOVIE,"Dr. Burke Ryan is a successful self-help author and motivational speaker with a secret. While he helps thousands of people cope with tragedy and personal loss, he secretly is unable to overcome the death of his late wife. It's not until Burke meets a fiercely independent florist named Eloise that he is forced to face his past and overcome his demons.",2009,tt4809870,5.6,32837.0
+ts25765,Vampire Knight,SHOW,"Yuki Cross, along with her best friend Zero, attempts to keep the peace between humans and vampires at Cross Academy, but personal issues soon threaten the situation.",2008,tt1209393,7.3,5172.0
+ts3666,Den-noh Coil,SHOW,"DennÃ…Â Coil, Coil Ã¢â‚¬â€ A Circle of Children, is a Japanese science fiction anime television series depicting a near future where semi-immersive augmented reality technology has just begun to enter the mainstream. The series takes place in the fictional city of Daikoku, a hotbed of AR development with an emerging city-wide virtual infrastructure. It follows a group of children as they use AR glasses to unravel the mysteries of the half real, half Internet city, using a variety of illegal software tools, techniques, and virtual pets to manipulate the digital landscape.
+
+DennÃ…Â Coil, in development for over a decade, is the series director debut of Japanese animator Mitsuo Iso. It premiered on NHK Educational TV on May 12, 2007. Due to the animators involved in its production and its unusually high-profile television broadcast time slot, DennÃ…Â Coil was highly anticipated.",2007,tt1033796,7.9,863.0
+tm36475,Kabhi Khushi Kabhie Gham,MOVIE,"Rahul, the adoptive son of business magnate Yash Raichand, feels eternal gratitude to his father for rescuing him from a life of poverty. Yet, when Yash forbids his love of poor Anjali, Rahul marries her and moves to London with new wife and sister-in-law, breaking the heart of his mother. Ten years later, Rahul's younger brother comes to London intent on brokering peace between father and son.",2001,tt0248126,7.4,48818.0
+tm80059,Naruto Shippuden the Movie,MOVIE,"Demons that once almost destroyed the world, are revived by someone. To prevent the world from being destroyed, the demon has to be sealed and the only one who can do it is the shrine maiden Shion from the country of demons, who has two powers; one is sealing demons and the other is predicting the deaths of humans. This time Naruto's mission is to guard Shion, but she predicts Naruto's death. The only way to escape it, is to get away from Shion, which would leave her unguarded, then the demon, whose only goal is to kill Shion will do so, thus meaning the end of the world. Naruto decides to challenge this ""prediction of death.""",2007,tt0988982,6.7,4016.0
+tm22636,Trailer Park Boys: The Movie,MOVIE,"Set in a separate storyline not related to the ""Trailer Park Boys"" Television show, but with the same lovable characters. The boys get arrested for robbing an ATM machine and spend 18 months in jail. When the get out, they decide to pull off ""The Big Dirty"" which is to steal a large amount of coins because they are untraceable and quit their life of crime forever",2006,tt0425601,7.1,12831.0
+tm30289,Jeff Dunham: Arguing with Myself,MOVIE,"A recorded live performance of ventriloquist Jeff Dunham portrays a comedian whose revival of an old-fashioned art has made ventriloquism more relevant to modern societal concerns. Starring his six main characters, from Bubba Jay, a Nascar-obsessed hick, to Peanut, a flamboyant gay monkey, DunhamÃ¢â‚¬â„¢s puppets have dirty but inoffensive senses of humor that mock the American Dream.",2006,tt0806102,8.0,3984.0
+tm38896,From Within,MOVIE,"When the citizens of a small evangelical town systematically begin committing suicide, a young girl struggling to reconcile her Christian upbringing with her desire to experience the outside world finds her faith put to the ultimate test.",2008,tt1063056,5.6,7585.0
+tm29269,Jodhaa Akbar,MOVIE,"Jodhaa Akbar is a sixteenth century love story about a marriage of alliance that gave birth to true love between a great Mughal Emperor, Akbar and a Rajput princess, Jodhaa.",2008,tt0449994,7.5,32188.0
+tm156001,And Then Came Lola,MOVIE,"A talented, but distracted photographer, Lola, on the verge of success in both love and work, could lose it all if she doesn't make it to a crucial meeting on time. But, as usual, Lola is late. With her job and girlfriend on the line, she has three chances to make it right. In a desperate race through the streets and back rooms of San Francisco, time grows short-will Lola make it? Will she come at all? With a pop sensibility that mixes live action, animation and still photography, And Then Came Lola explores love's age old question in a fresh new way, ""If you try, try again, will you finally get it right?"" (Written by M. Siler and E. Seidler)",2009,tt1123894,3.9,1683.0
+ts21664,One on One,SHOW,"A sportscaster becomes a full-time dad when his ex-wife decides to accept a job out of the country and his teenage daughter, Breanna, moves in with him.",2001,tt0284770,7.0,2303.0
+tm73058,Om Shanti Om,MOVIE,"Om, a junior film artist, is smitten by Shantipriya, a renowned actress, but is killed while trying to save her from a fire accident. Thirty years later, he is reborn and sets out to avenge her death.",2007,tt1024943,6.7,42597.0
+tm76835,Jab We Met,MOVIE,A depressed wealthy businessman and a spunky and care-free young woman embark on an unexpected journey that changes their lives.,2007,tt1093370,7.9,51945.0
+ts1464,The Cartel,SHOW,"The Cartel follows ten friends, all of them members of a dangerous drug cartel, whose ambition for power and money will cause them to eventually kill each other. For it is an undeniable truth that, in this business, you always lose.",2008,tt1260520,8.1,755.0
+tm48083,Te quiero,MOVIE,Jean and Sylvia left France with a stolen diamond to start a new life in South America. They land in Lima to live their passion. But the diamond is not easy to sell. They meet a French couple and hope to sell them the stolen diamond.,2001,tt0217085,4.8,73.0
+tm33981,Bon Cop Bad Cop,MOVIE,"When the body of the executive of hockey Benoit Brisset is found on the billboard of the border of Quebec and Ontario, the jurisdiction of the crime is shared between the two police forces and detectives David Bouchard from Montreal and Martin Ward from Toronto are assigned to work together. With totally different styles, attitudes and languages.",2006,tt0479647,6.5,61.0
+tm80339,Naruto: Ninja Clash in the Land of Snow,MOVIE,"Naruto is thrilled when he is sent on a mission to protect his favorite actress, Yukie Fujikaze, on the set of her new movie, The Adventures of Princess Gale. But when the crew ventures out to film in the icy, foreboding Land of Snow, Yukie mysteriously flees! Naruto and his squad set off to find her... unaware that three Snow Ninja lie in wait, with a sinister purpose that will force Yukie to face her hidden past!",2004,tt0476680,6.6,6759.0
+ts72322,The Mafia Dolls,SHOW,"Las MuÃƒÂ±ecas De La Mafia is a 2009 Colombian telenovela produced by BE-TV and broadcast by Caracol TV. It's based on Juan Camilo Ferrand and Andres Lopez's book ""Las FantÃƒÂ¡sticas"". They also wrote the scripts for the television series. The telenovela will debut soon on the Telefutura Network. Series debuted on May 3, 2010 after the Vecinos finale. The show ended July 2010 in the U.S.
+
+It talks about the story of Brenda, Olivia, Violeta, Renata and Pamela. They get into trouble throughout the series because they get involved with some mafia guys from ""El Carmen"" in Colombia.They all have sad endings. Pamela immigrates, at the end of the story, to the United States of America to try to get away from trouble and be close to her father, who was a pilot and end up in jail because he was captured by DEA taking cocaine to U.S in a plain, and ends up as a maid but tells Brenda she is happy and having a great life. Olivia ends up in jail for having a fake wedding with a Braulio Bermudez and getting some of his properties. Violeta dies when the two mafia opposite sides were going to end a war that was going on in between them.Renata also dies because she was force by erick, to pay money she owe him, to carry drugs in her stomach to the United States and no one of her loved ones knew because she had no identification on her. Brenda ends up being pregnant by Braulio, she never saw him again, because he was taken to an US jail. This is a very exiting story to see and it shows how easy life is never a good choice, might be nice and easy at the beginning but some day all ends.",2009,tt1585368,6.6,284.0
+ts52849,Horrid Henry,SHOW,"Horrid Henry is a British animated television series based on the book series by Francesca Simon produced by One Explosion Studios and Nelvana Limited, broadcast from late 2006 on Children's ITV in the UK and it will air on Cartoon Network Pakistan and Cartoon Network India on 2013 from 6am until 6:30am. The animation style differs from the Tony Ross illustrations in the books. Series Producer of the series is Lucinda Whiteley, Animation Director is Dave Unwin. The series has been sold to more than a dozen countries including France, Germany, South Africa, South Korea, and the Philippines.
+
+So far, the two series have 104 episodes. The second series of 52 episodes started airing on 16 February 2009 and episodes from this series are currently being shown alongside episodes from the first series. There is a music album Horrid Henry's Most Horrid Album. The incidental music is composed by Lester Barnes and additional songs are composed by Lockdown Media.",2006,tt0985991,6.3,912.0
+tm65142,One Piece: The Desert Princess and the Pirates: Adventure in Alabasta,MOVIE,"A re-telling of the Alabaster Arc from One Piece (TV). Luffy and his crew come to rescue a land in the midst of a civil war, due to a powerful devil fruit user.",2007,tt1037116,6.9,1611.0
+ts14102,Bo on the Go!,SHOW,"Bo on the Go! is a Canadian TV series, created by Jeff Rosen and produced by Decode Entertainment, a DHX Media Company, in association with Decode Entertainment and Halifaxfilm. The TV series emphasizes the importance of movement for children through a plot element called ""Animoves"", which are animations demonstrating specific body movements that viewers must learn in order to solve problems highlighted in each episode.
+
+It is broadcast in Canada on CBC Television in the Kids' CBC programming block. It is broadcast in the United Kingdom on Playhouse Disney and it is also broadcast in the United States on Playhouse Disney and is also broadcast on Disney Junior every weekday at 5:00 a.m. EST and 12:00 a.m. EST. It is currently broadcast on seventeen broadcasters around the world, in over twelve languages, including Spanish, French, Italian, Greek, Arabic, Thai, Finnish, Hebrew, Portuguese, Turkish, and Gaelic.",2007,tt1516172,4.1,118.0
+tm22342,Waist Deep,MOVIE,An ex-convict (Tyrese) gets tangled up with a gang after his car is hijacked with his son inside.,2006,tt0456020,5.8,9957.0
+tm24576,Naruto: Guardians of the Crescent Moon Kingdom,MOVIE,"Naruto Uzumaki, Kakashi Hatake, Sakura Haruno, and Rock Lee are assigned to protect the prince of the Land of the Moon, Michiru, during his world trip; other escorts had been hired, but quit due to being treated poorly. The Land of the Moon is a very wealthy nation, so Michiru tends to buy whatever he wants, and has a very materialistic worldview. His Hikaru, also acts in much the same manner.",2006,tt1071815,6.4,3975.0
+tm41508,First Sunday,MOVIE,"Durell and LeeJohn are best friends and bumbling petty criminals. When told they have one week to pay a $17,000 debt or Durell will lose his son, they come up with a desperate scheme to rob their neighborhood church. Instead, they end up spending the night in the presence of the Lord and are forced to deal with much more than they bargained for.",2008,tt0486578,4.5,10834.0
+ts74928,Einsatzgruppen: The Nazi Death Squads,SHOW,"This documentary series examines the Einsatzgruppen, Nazis responsible for the mass murder of Jews, Romani and Soviet prisoners in Eastern Europe.",2009,tt6953928,7.6,603.0
+tm52352,This Is the Life,MOVIE,"In 1989, a collective of young hip hop artists gathered at a health food cafÃƒÂ© in South Central Los Angeles. Their mandate? To reject gang culture and expand the musical boundaries of hip hop. DuVernay's documentary chronicles the historic legacy of the Good Life Cafe Ã¢â‚¬â€ the open mic nights that became an L.A. institution, the eclectic array of talented young MCs that emerged there, the alternative hip hop movement they developed, and their worldwide influence on the artform.",2008,tt1178658,6.3,263.0
+tm170873,My Suicide,MOVIE,"After declaring that he's going to film himself committing suicide for a school project, Archie videotapes his surprising interactions with worried family members, interested classmates, unreliable medical experts and the hottest girl in school.",2009,tt0492896,7.0,1936.0
+tm176297,Kyaa Kool Hai Hum,MOVIE,"When flatmates Karan and Rahul are unable to pay the rent, they are dramatically evicted. However, they sneak their way back in within hours as the building is being renovated.",2005,tt0456500,6.1,3507.0
+ts74931,Kung Fu Panda Awesome Secrets,SHOW,"In this pair of adventures, Po tells the story of how masters Thundering Rhino, Storming Ox and Croc met and takes on Shifu's biggest challenge yet.",2008,tt6963796,7.2,55.0
+tm110923,Divine Intervention,MOVIE,"Santa Claus tries to outrun a gang of knife-wielding youth. It's one of several vignettes of Palestinian life in Israel - in a neighborhood in Nazareth and at Al-Ram checkpoint in East Jerusalem. Most of the stories are droll, some absurd, one is mythic and fanciful; few words are spoken. A man who goes through his mail methodically each morning has a heart attack. His son visits him in hospital. The son regularly meets a woman at Al-Ram; they sit in a car, hands caressing. Once, she defies Israeli guards at the checkpoint; later, Ninja-like, she takes on soldiers at a target range. A red balloon floats free overhead. Neighbors toss garbage over walls. Life goes on until it doesn't.",2002,tt0274428,6.6,3598.0
+tm150521,Accident,MOVIE,"A self-styled accident choreographer, the Brain is a professional hitman who kills his victims by trapping them in well crafted accidents that look like unfortunate mishaps. When the team's next assignment goes disastrously wrong, Brain begins to suspect that someone else has planned an Ã¢â‚¬ËœaccidentÃ¢â‚¬â„¢ on them.",2009,tt1202514,6.6,3284.0
+tm177687,Naruto: Legend of the Stone of Gelel,MOVIE,"Naruto, Shikamaru, and Sakura are executing their mission of delivering a lost pet to a certain village. However, right in the midst of things, troops led by the mysterious knight, Temujin, attack them. In the violent battle, the three become separated. Temujin challenges Naruto to a fight and at the end of the fierce battle, both fall together from a high cliff...",2005,tt0791188,6.4,4297.0
+tm22989,Jim Gaffigan: Beyond the Pale,MOVIE,"The affable, towheaded comic demonstrates his hysterical brand of self-effacing comedy and deadpan delivery at two sold-out shows at Chicago's Vic Theater. It's OK to laugh at this pale white guy...'cause nobody's laughing at Jim Gaffigan harder than Jim Gaffigan!",2006,tt0815456,7.9,3940.0
+ts98252,Dreamworks Happy Holidays from Madagascar,SHOW,Madagascar goes wild with holiday spirit in this set of Valentine's Day and Christmas-themed tales featuring everyone's favorite animal characters.,2005,tt6929194,6.5,96.0
+tm156575,Billu,MOVIE,"When a famous Bollywood actor visits a small village for a film's shoot, a lowly hairdressers claim that they were once childhood friends soon makes him the centre of attention.",2009,tt1230448,6.3,11747.0
+ts20358,Half & Half,SHOW,"Half & Half is an American sitcom that aired on UPN from September 23, 2002, to May 15, 2006. The show focuses on the lives of two paternal half-sisters in their twenties who were estranged throughout their childhood, and are finally developing a close relationship. The series is set in San Francisco.
+
+It was the second-most-watched show on UPN's Monday night line-up and fourth overall on the network. The show was on The CW's first draft line-up in March 2006, but due to several circumstancesÃ¢â‚¬â€including The CW's contractual obligation to pick up Reba, the uncancelling of All of Us, and the pick-up of the Girlfriends spin-off The GameÃ¢â‚¬â€Half & Half was left off the final Fall 2006 schedule and ended production. The series has aired in reruns on Global TV in Canada, Trouble in the UK and in local syndication in the United States. It also airs in the United States on TV One.",2002,tt0320024,7.0,1827.0
+ts23319,Timmy Time,SHOW,"Timmy Time is a British animated pre-school children's comedy series created by the BBC and Aardman Animations. It started broadcasting in the UK on CBeebies on 6 April 2009. The show is a spin off from the Shaun the Sheep animation which itself is a spin off from the Aardman series Wallace & Gromit, which introduced the character of Shaun. The first two series ran for 26 episodes. In the United Kingdom, the show's most recent run began in September 2011 on CBeebies. In Australia, season one commenced in May 2009 on ABC1 and season three started in May 2011 on ABC 4 Kids.",2009,tt1125758,6.9,1083.0
+tm61056,Dil Chahta Hai,MOVIE,"Three inseparable childhood friends are just out of college. Nothing comes between them - until they each fall in love, and their wildly different approaches to relationships creates tension.",2001,tt0292490,8.1,71167.0
+tm138497,Trailer Park Boys: Countdown to Liquor Day,MOVIE,"Ricky, Julian and Bubbles are about to get out of jail, and this time, Julian vows to go straight, even open a legit business. Soon the Boys will all be rich. At least that's what they've told the parole board. But when they arrive back at the park, they find it's not the same old Sunnyvale - and it's not the same old Jim Lahey, Trailer Park Supervisor.",2009,tt1337032,7.3,7451.0
+tm81461,Whisky,MOVIE,"When his long-lost brother resurfaces, Jacobo, desperate to prove his life has added up to something, looks to scrounge up a wife. He turns to Marta, an employee at his sock factory, with whom he has a prickly relationship.",2004,tt0331370,7.1,6249.0
+tm32915,EMI,MOVIE,"(Extension: Easy Monthly Installment - Liya Hai Toh Chukana Padega!) is a 2008 Bollywood social film directed by Saurabh Kabra and starring Malaika Arora, Sanjay Dutt, Urmila Matondkar and lots more. The film released on November 7, 2008.",2008,tt1221133,4.4,604.0
+ts63295,Vientos de agua,SHOW,"Vientos de agua is a 2006 cult Argentine- Spanish mini TV series created by Juan JosÃƒÂ© Campanella. The drama traces a Spaniard's emigration to Argentina in the 1930s, and, years later, his son's return to modern-day Spain.
+
+It aired in Spain in January 2006, on Telecinco for only one series of 13 episodes.
+
+While a hit in Argentina, because of lower ratings in Spain it was taken out of the prime-time slot to 1.00 in morning, and was eventually cancelled due to downloading of series from the internet.
+
+Despite a campaign of support to continue into a second series it only produced 13 episodes. Despite this the series was a hit in DVD sellings.",2006,tt0459724,8.69999999999999,1034.0
+tm36164,Naruto Shippuden the Movie: Bonds,MOVIE,"A mysterious group of ninjas makes a surprise attack on the Konohagakure, which takes great damage. The nightmare of another Shinobi World War could become a reality. Sasuke, who was still a missing nin from Konoha trying to kill his brother, Itachi, appears for the second time in front of Naruto at an unknown location to prevent it from happening.",2008,tt1160524,6.8,4473.0
+tm147494,Naruto Shippuden the Movie: The Will of Fire,MOVIE,"Ninjas with bloodline limits begin disappearing in all the countries and blame points toward the fire nation. By Tsunade's order, Kakashi is sacrificed to prevent an all out war. After inheriting charms left by Kakashi, Naruto fights through friends and foes to prevent his death while changing the minds of those who've inherited the will of fire.",2009,tt1481363,7.0,3626.0
+tm31564,Linewatch,MOVIE,"Academy Award Winner Cuba Gooding, Jr. is a Border Patrol Officer in the New Mexico desert with a secret past that is about to catch up with him. When his old gang leader tracks him down and forces him to smuggle drugs across the border, he must choose between the life he swore to leave behind and saving his family at any cost.",2008,tt1047832,5.4,2862.0
+tm54147,Dostana,MOVIE,Two straight guys who pretend to be a gay couple to secure a posh Miami apartment fall for their gorgeous roommate. Hilarity ensures as Kunal and Sameer strive to convince everyone they are gay while secretly trying to win Neha's heart.,2008,tt1185420,6.5,14944.0
+tm30170,Don,MOVIE,"DCP DeSilva sees a way to bring to justice the feared head of a criminal empire by recruiting a man named Vijay, who looks exactly like the crime boss. The ruse works too well, and soon Vijay finds his life in danger when DeSilva, the only one who knows his true identity, dies.",2006,tt0461936,7.1,36836.0
+tm37945,Rock On!!,MOVIE,"Aditya, Joe, Kedar and Rob form a rock band, but break up after they fail to make a success of it. They establish regular lives until they decide to reunite and take another shot at fulfilling their dreams.",2008,tt1230165,7.7,21963.0
+tm25029,Eternal Summer,MOVIE,Three high school students experience the perks and pitfalls of love in director Leste ChenÃ¢â‚¬â„¢s sensitive tale of friendship and yearning.,2006,tt0885520,7.0,2630.0
+tm59880,Mike Birbiglia: What I Should Have Said Was Nothing,MOVIE,"Mike says, ""A few years ago my therapist suggested I keep a journal of all the crazy things that were going on in my life, so that I could keep things in perspective. Around the same time audiences were demanding more material, and I realized that other people might enjoy these stories-so I started sending them out to my mailing list. Now, my Secret Public Journal has become a Comedy Central special and DVD for all the world to see. Not sure this is what my therapist had in mind.""",2008,tt1188112,7.6,1789.0
+tm34524,"One Piece: Episode of Chopper Plus: Bloom in the Winter, Miracle Cherry Blossom",MOVIE,"A retelling of the Drum Island storyline from the manga. It features Franky, Nico Robin, and the Thousand Sunny, who weren't present in the original version.",2008,tt1206326,7.0,1189.0
+tm83175,Welcome,MOVIE,"Dubai-based criminal don Uday takes it upon himself to try and get his sister Sanjana married - in vain, as no one wants to be associated with a crime family. Uday's associate Sagar Pandey finds a young man, Rajiv, who lives with his maternal uncle and aunt - Dr. and Mrs. Ghunghroo. Through extortion he compels Ghunghroo to accept this matrimonial alliance. But Rajiv has already fallen in love with young woman in South Africa. When the time comes to get Rajiv formally engaged to this woman, he finds out that Sanjana and she are the very same. With no escape from this predicament, the wedding is planned, with hilarious consequences.",2007,tt0488798,6.9,21799.0
+tm65839,Just Another Love Story,MOVIE,"Jonas is a Copenhagen homicide scene photographer, happily married, with two kids. One day, his car stalls, another car slams into him, runs head on into a third car and flips into the ditch. The other driver, Julia, is critically injured. He visits her in the hospital and is greeted by her family, who assumes he must be the Sebastian she told them about, the new fiance she met in Vietnam.",2007,tt1024942,7.2,4849.0
+tm89936,Arahan,MOVIE,"Sang-hwan became a cop in order to help the downtrodden, but he doesn't get much respect. All that changes when he meets the Seven Masters.",2004,tt0404777,6.6,3813.0
+tm22540,Phir Hera Pheri,MOVIE,"Babu Rao, Raju and Shyam, are living happily after having risen from rags to riches. Still, money brings the joy of riches and with it the greed to make more money - and so, with a don as an unknowing investor, Raju initiates a new game.",2006,tt0419058,7.1,22505.0
+tm34846,Bleach the Movie: Fade to Black,MOVIE,"A mysterious reiatsu (spiritual particle) explosion occurs in the center of Seireitei in Soul Society, causing it to be destroyed. At the exact same time, a major change overwhelms Kuchiki Rukia, which leaves her losing something important inside. Urahara Kisuke sends Kurosaki Ichigo to Soul Society to investigate the disturbance. Upon reaching Seireitei, Ichigo is attacked by his ally shinigamis.",2008,tt1339302,7.2,2151.0
+tm32885,Rang De Basanti,MOVIE,"After a group of friends graduate from Delhi University, they listlessly haunt their old campus, until a British filmmaker casts them in a film she's making about freedom fighters under British rule. Although the group is largely apolitical, the tragic death of a friend owing to local government corruption awakens their patriotism. Inspired by the freedom fighters they represent in the film, the friends collectively decide to avenge the killing.",2006,tt0460895,8.1,118092.0
+tm82765,Swades,MOVIE,"NASA employee Mohan Bhargav comes to India to take his grandmother along with him at his home abroad. During his stay at his native place, he comes across various social issues faced by the villagers and decides to take a stand for them, to improve their quality of life.",2004,tt0367110,8.1,89085.0
+tm170169,Kaal,MOVIE,"After a series of deaths in Orbit Park, India, are attributed to a man-eating tiger, wildlife expert Krish and his photographer decide to investigate the incidents for a magazine article.",2005,tt0415908,4.7,5309.0
+tm44749,Sorry to Disturb,MOVIE,"Hassan, a brilliant aviation engineer struggles with loneliness and depression while trying to design his exceptional project.",2008,tt1282371,8.0,5824.0
+tm47325,2 Alone in Paris,MOVIE,"A bumbling Paris policeman is doggedly determined to capture the master thief that repeatedly eludes him, even when they're the last two men on Earth.",2008,tt1077097,5.4,2482.0
+tm146887,Delhi-6,MOVIE,"Roshan, an NRI, arrives in Old Delhi with his ailing grandmother and starts to rediscover himself before getting caught in a religious dispute that shakes the once peaceful neighborhood.",2009,tt1043451,6.1,7683.0
+tm144345,Kal Ho Naa Ho,MOVIE,"Naina, an introverted, perpetually depressed girl's life changes when she meets Aman. But Aman has a secret of his own which changes their lives forever. Embroiled in all this is Rohit, Naina's best friend who conceals his love for her.",2003,tt0347304,7.9,68028.0
+tm70222,Sivaji: The Boss,MOVIE,Corrupt police and politicians target a computer engineer for trying to better the lives of less privileged citizens.,2007,tt0479751,7.5,19556.0
+ts37200,Trotro,SHOW,"Trotro is a little donkey with a head full of ideas. He knows exactly what he likes and doesn't like. He's a positive and engaging hero, with whom young children will easily identify.",2004,tt1074443,6.2,120.0
+tm25842,A Lion in the House,MOVIE,Five families struggle with the ups and downs of cancer treatment over the course of six years.,2006,tt0492472,8.69999999999999,312.0
+tm43179,Oye Lucky! Lucky Oye!,MOVIE,"Lovinder Singh, a thief now in custody and facing trial, reflects on his life of crime while the press reflect on how he managed to get away with so much before being arrested.",2008,tt1292703,7.7,17411.0
+tm23441,Kabhi Alvida Naa Kehna,MOVIE,"Dev and Maya are both married to different people. Settled into a life of domestic ritual, and convinced that they are happy in their respective relationships, they still yearn for something deeper and more meaningful, which is precisely what they find in each other.",2006,tt0449999,6.0,19797.0
+tm86051,Black Friday,MOVIE,"Bombs tear through Bombay, wreaking havoc and polarising the citizens. With perpetrators at large, the state launches a massive drive to unmask the truth behind these events.",2004,tt0400234,8.4,20611.0
+tm44634,Kevin James: Sweat the Small Stuff,MOVIE,"Television's ""King of Queens"" reigns again in this Comedy Central special -- the network's first-ever hour-long show devoted entirely to one comic, taped live in July 2001 at New York City's Hudson Theatre. James riffs on life's many ""royal"" pains, including waiting in line with strangers, negotiating with the airport ticket counter clerk, underwear wedgies, boringly slow answering machine messages and more.",2001,tt0305727,7.4,1083.0
+tm62369,Connected,MOVIE,"A debt collector receives a call from a woman who is kidnapped by an unknown gang. He thinks it is a joke but soon, he realises that it is not a prank.",2008,tt1156506,6.6,2256.0
+tm23077,Vivah,MOVIE,"Poonam, a traditionally brought-up young woman, is to marry Prem, a groom chosen by her uncle. Poonam and Prem's faith and love are to be tested however, when an accident occurs and Poonam might be scarred for life.",2006,tt0494290,6.6,9793.0
+tm31335,Golmaal Returns,MOVIE,"Golmaal Returns, the much-awaited follow-up to the uproariously comical smash-hit Golmaal, arrives with a renewed star power, chartbusting music and more laughter than ever before!",2008,tt1092005,5.1,7884.0
+tm139349,Jim Gaffigan: King Baby,MOVIE,"The greatly anticipated follow up to the platinum selling Beyond the Pale. In this Austin performance that capped off the 2008 sold-out stand up tour, Gaffigan does not let the audience catch their breath. This all-new show proves no other comedian working today can romanticize laziness and over-indulgence like Jim Gaffigan.",2009,tt1390471,7.7,2548.0
+tm85243,The Trailer Park Boys Xmas Special,MOVIE,"In this holiday prequel, itÃ¢â‚¬â„¢s 1997 and Sunnyvale Trailer Park is getting ready for the holiday season. JulianÃ¢â‚¬â„¢s got a great idea to make money this Christmas, Ricky gets confused between God and Santa, and Bubbles tries to get the Boys together for an annual Christmas bonfire.  Meanwhile, Mr. Lahey is thrilled because Christmas is the only day of the year that his wife Barb allows him to have a few drinks. Directed by series creator Mike Clattenburg, this hour-long special takes place before Jamie was J-Roc, before Randy and Lahey were a couple, and before the Shitmobile was missing a door.",2004,tt0439856,8.0,3422.0
+tm165809,Bluffmaster!,MOVIE,"Roy is a professional conman, who has raised his work to the level of an art. The only true thing he has is his love for Simmi someone who is so rooted, honest and sincere, that he can't bring himself to tell her the reality of who he is. But when his past catches up with him, she cannot forgive him for the deceit their relationship is built on. He loses her forever. That's when Aditya Srivastav enters the picture. He is the counterpoint to everything that Roy is as frantic as Roy is calm, as dumb as Roy is smart, as messy and untidy as Roy is smooth. They have only one thing in common. Aditya is a conman too. At least he thinks of himself as one. In Roy's book, he's an embarrassment. But one that won't go away!",2005,tt0476527,6.6,6313.0
+tm89764,Inuyasha the Movie 4: Fire on the Mystic Island,MOVIE,"The mysterious island of Houraijima has reappeared after 50 years, and with its reappearance has brought the attack of four gods, the Shitoushin, who have their eyes set on the powers that protect and sustain the island. Now it's up to Inuyasha and his friends, along with Sesshoumaru, to find a way to defeat the powerful Shitoushin.",2004,tt0473658,7.2,1826.0
+tm68191,My FÃƒÂ¼hrer,MOVIE,"Hitler no longer believes in himself, and can barely see himself as an equal to even his sheep dog. But to seize the helm of the war he would have to create one of his famous fiery speeches to mobilize the masses. Goebbels therefore brings a Jewish acting teacher GrÃƒÂ¼nbaum and his family from the camps in order to train the leader in rhetoric. GrÃƒÂ¼nbaum is torn, but starts Hitler in his therapy ...",2007,tt0780568,5.5,4430.0
+tm51493,Vizontele,MOVIE,The story takes place in a small town (called Hakkari) in Turkey at the beginning of the 70's. The time has come to bring technology into that small town. The first Television (or called Visiontele by the citizens) arrives and the chaos begins.,2001,tt0270053,8.0,36291.0
+ts1413,Autumn's Concerto,SHOW,"Autumn's Concerto is a 2009 Taiwanese drama starring Ady An, Vanness Wu of F4, and Tiffany Hsu. It was produced by Sanlih E-Television and directed by Chen Hui Ling. The drama started filming in June 2009 and was completed in December 2009.
+
+It was first broadcast in Taiwan on free-to-air Taiwan Television from 4 October 2009 to 28 February 2010, on Sundays at 22:00 to 23:30. It was also shown on cable TV Sanlih E-Television on 10 October 2009 to 6 March 2010 on Saturdays at 21:00 to 22:30.
+
+Autumn's Concerto was nominated in 2010 for Best Marketing Programme at the 45th Golden Bell Awards, Taiwan.
+
+Known as the drama serial which shot the child actor Xiao Xiao Bin to stardom, Autumn's Concerto has broken records with its high ratings. Scoring 8.23 as its peak point for episode 18, which aired January 31, 2010, Autumn's Concerto has broken the records of The Prince Who Turns into a Frog to become the second highest rating Taiwanese idol drama, the highest rating being held by Fated to Love You. Autumn's Concerto now airs on Hawaii's KIKU television, weekly on Saturday's at 7:00.",2009,tt3530668,7.9,475.0
+tm175687,Sir! No Sir!,MOVIE,"Sir! No Sir! is a documentary film about the anti-war movement within the ranks of the United States Military during the Vietnam War. It consists in part of interviews with Vietnam veterans explaining the reasons they protested the war or even defected. The film tells the story of how, from the very start of the war, there was resentment within the ranks over the difference between the conflict in Vietnam and the ""good wars"" that their fathers had fought. Over time, it became apparent that so many were opposed to the war that they could speak of a movement.",2005,tt0469589,7.6,778.0
+ts98353,DreamWorks Spooky Stories,SHOW,A collection of animated tales includes shrek's thrilling tales and scared shrekless.,2009,tt6958564,6.2,19.0
+tm49405,Inuyasha the Movie: Affections Touching Across Time,MOVIE,"InuYasha is a half-demon who was trapped in the Legendary Tree and was set free by Kagome, a girl who traveled 500 years through time. This time, both of them will have to face Menomaru, a Chinese demon whose father, known as Hyoga, came 300 years ago to invade Japan, but was stopped by InuYasha's Father. InuYasha and Kagome, along with Sango, Miroku, Shippou, Kaede and Myoga, will try to stop Menomaru in his becoming the most powerful demon ever.",2001,tt0322645,7.2,2570.0
+tm72587,Guru,MOVIE,"Gurukant Desai hails from Idhar, a small village in Gujarat, but dreams of setting up his own business in Mumbai. After he returns from Turkey, he marries Sujatha for getting the dowry and arrives in Mumbai to start his business. This film chronicles the obstacles he meets, his subsequent rise and the huge backlash he receives when it is revealed that he used unethical means to rise in the business circuit.",2007,tt0499375,7.7,23541.0
+tm88366,Main Hoon Na,MOVIE,"An army major goes undercover as a college student. His mission is both professional and personal: to protect his general's daughter from a radical militant, and to find his estranged half-brother.",2004,tt0347473,7.0,35142.0
+tm38454,Jeff Dunham's Very Special Christmas Special,MOVIE,The multi-platinum selling comedian performs his first holiday-themed stand-up special with his friends.,2008,tt1295909,7.4,3028.0
+tm164389,Paheli,MOVIE,"Kishanlal marries the beautiful Lachchi, but the day after the wedding, he leaves on business for five years. When Kishanlal reappears only a few days later, Lachchi is delighted, but this new Kishanlal is in fact a spirit who has taken the form of Lachchi's husband, after having seen her by chance and fallen in love with her. Four years later, the real Kishanlal returns and the townsfolk must determine who is who.",2005,tt0451850,6.3,13206.0
+tm77863,Honeymoon Travels Pvt. Ltd.,MOVIE,"Six newly-married, diverse, honeymooning couples face marital bliss and discord, finding out more about themselves, their significant others and life in this happy-go-lucky, quirky drama.",2007,tt0808306,6.1,2609.0
+ts137477,Behind Enemy Lines,SHOW,Documentary about the creation of the Commando's and their exploits in all areas of conflict,2001,tt5170230,7.2,42.0
+tm138902,Inuyasha the Movie 3: Swords of an Honorable Ruler,MOVIE,"Inuyasha and his brother, Sesshomaru, each inherited a sword from their father after his death. However, their father had a third sword, named Sounga, that he sealed away. Seven hundreds years after his death, Sounga awakens and threatens mankind's very existence. How will the children of the Great Dog Demon stop this unimaginable power?",2003,tt0396659,7.6,2206.0
+ts4866,Fated to Love You,SHOW,"Fated to Love You, also known as You're My Destiny, Sticky Note Girl or Destiny Love, is a 2008 Taiwanese drama starring Joe Chen, Ethan Juan, Baron Chen and Bianca Bai. It was produced by Sanlih E-Television and directed by Chen Ming Zhang with location filming in Taiwan, Hong Kong and Shanghai. It holds the record for the highest average single-episode rating at 10.91 with a peak at 13.64 for episode 20 broadcast on 27 July 2008, and broke the previous record held by The Prince Who Turns Into a Frog.
+
+The series was first broadcast in Taiwan on free-to-air Taiwan Television from 16 March 2008 to 24 August 2008, every Sunday at 22:00 and cable TV Sanlih E-Television from 22 March 2008 to 30 August 2008, every Saturday at 21:00.
+
+Fated to Love You was nominated in 2008 for six awards at the 43rd Golden Bell Awards, Taiwan. It was awarded the 2008 Best Television Series and Best Marketing Programme.
+
+Fated to Love You is now aired on Saturday's on Hawaii's KIKU Television at 8:00.",2008,tt1483930,7.4,461.0
+tm149209,Kaminey,MOVIE,"Two brothers, as different as chalk and cheese, find their lives intertwined when one puts himself in danger via a `get rich quick' scheme and the other finds there is a price on his head.",2009,tt1274295,7.4,17136.0
+ts34414,Nuevo Rico Nuevo Pobre,SHOW,"Nuevo Rico Nuevo Pobre is a Colombian telenovela produced and broadcast by Caracol TV starring MartÃƒÂ­n Karpan, John Alex Toro, Maria Cecilia Botero, Carolina Acevedo, Hugo GÃƒÂ³mez, former Miss Colombia Andrea Noceti and AndrÃƒÂ©s Toro.
+
+The show started on July 16, 2007 on Caracol TV and it is also broadcast on Ecuador's Teleamazonas in primetime. Caracol TV has sold the rights of the show to Telemundo and Fox. It is, as of May 2008, one of the highest rated TV shows in Colombia.",2007,tt1233451,7.2,203.0
+tm147686,Kevin Hart: I'm a Grown Little Man,MOVIE,"Fresh off the heels of appearing in movies like Superhero Movie and The 40 Year-Old Virgin, fast-talking comedian Kevin Hart stars in this live stand-up performance where he makes fun of everything and everybody - especially himself.",2009,tt1420554,7.5,4333.0
+tm82718,G.O.R.A.,MOVIE,"Carpet dealer and UFO photo forger Arif is abducted by aliens and must outwit the evil commander-in-chief of G.O.R.A., the planet where he is being held.",2004,tt0384116,8.0,61797.0
+tm39557,Jaane Tu... Ya Jaane Na,MOVIE,Two best friends being convinced that they are not in love search for each other's love.,2008,tt0473367,7.4,26738.0
+tm22558,Mukhsin,MOVIE,"A twelve-year-old Malaysian boy's friendship with a sharp-tongued, assertive little girl moves awkwardly and wistfully into first love in this gently comic prequel to Yasmin Ahmad's ""Sepet"" and ""Gubra.""",2006,tt0863091,7.3,382.0
+ts204466,Pecados capitales,SHOW,Evaristo Salinas is a successful businessman in his old age but knows he will die and decides to build a game between his family to see who is worthy of his inheritance. Each member of the Salinas family will be a cardinal sin.,2002,tt0355119,8.5,190.0
+tm164591,Apaharan,MOVIE,"Story of a tumultuous and complex relationship between a father (Mohan Agashe) and son (Ajay Devgan), set against the backdrop of a thriving kidnapping industry in the Hindi heartland of Bihar.",2005,tt0451631,7.4,4736.0
+ts18653,Chhota Bheem,SHOW,Chhota Bheem is an Indian animated series adventures about a boy named Bheem and his friends in fictional village of Dholakpur.Bheem and his friends are usually involved in protecting the village from various evil forces.,2008,tt4570986,4.1,822.0
+ts67595,Pedro El Escamoso,SHOW,"Pedro el escamoso is a popular telenovela filmed in Colombia and produced by the Colombian network, Caracol TV.
+
+This novela is about a cheesy but charming macho man who lives in a small town in Colombia. He moves to the city to find his fortune and encounters a series of events and people that change his life dramatically. Pedro is the epitome of a man who can get all the women he wants, but can't get the one he loves.",2001,tt0283770,7.5,303.0
+tm29731,Chup Chup Ke,MOVIE,"A debt-ridden young man attempts suicide, but is rescued only to find that his luck is finally turning.",2006,tt0464160,6.9,10528.0
+tm80455,Manorama Six Feet Under,MOVIE,"Satyaveer is an engineer suspended for allegedly accepting a bribe. However, Satyaveer, proud author of a tawdry and thoroughly unsuccessful crime novel, is approached by a woman named Manorama to investigate her husband, whom she suspects of having an affair.",2007,tt0920464,7.6,8043.0
+tm144835,Sergio,MOVIE,"Charismatic, charming and complex, SÃƒÂ©rgio Vieira de Mello was the world's go-to guy, a man who could descend into the most dangerous places, charm the worst war criminals, and somehow protect the lives of the ordinary people to whom he'd devoted his life. The documentary tells the story of his most treacherous mission ever... a mission in which his own life hangs in the balance.",2009,tt1333656,7.4,880.0
+tm129971,Luck by Chance,MOVIE,"Not wanting the same fate as befell her sisters, Sona Mishra re-locates to Mumbai to try to make a living making movies, but she soon finds that the path she has chosen is not an easy one.",2009,tt0886539,7.1,10206.0
+ts29199,Monty Python's Personal Best,SHOW,A series of six outrageous one-hour specials showcasing the groundbreaking comedians.,2006,tt0795156,7.9,437.0
+tm155761,Ajab Prem Ki Ghazab Kahani,MOVIE,"When his love interest doesn't show up for a meeting, a man and his friends go to Goa in order to find her, where they discover she loves someone else.",2009,tt1252596,6.3,14380.0
+tm75544,Dhan Dhana Dhan Goal,MOVIE,A bankrupt soccer team must win the championship or break apart.,2007,tt1120897,5.0,2603.0
+tm29028,Salt of This Sea,MOVIE,"Born in Brooklyn to Palestinian refugee parents, Soraya (Suheir Hammad) decides to journey to the country of her ancestry when she discovers that her grandfather's savings have been frozen in a Jaffa bank account since his 1948 exile. However, she soon finds that her simple plan is a complicated undertaking Ã¢â‚¬â€ one that takes her further from her comfort zone than she'd imagined.",2008,tt1090680,6.8,1224.0
+tm93004,Yuva,MOVIE,"Michael, Arjun and Lallan, three men from three different strata of society, cross paths one morning in Calcutta and change one another's lives forever.",2004,tt0382383,7.3,8878.0
+tm23977,Fuga,MOVIE,"Could a brilliant composer's music actually be killing his loved ones? Eliseo can't help but believe it when his younger sister dies tragically and then his pianist Georgina suddenly dies on the piano. Completely traumatized, Eliseo is taken to a mental hospital where he can find escape only through music.",2006,tt0442236,6.3,1120.0
+tm78790,Namastey London,MOVIE,"Indian-born Manmohan Malhotra decided to re-locate to London, England, established himself, returned to India, got married to Bebo, and after a period of 4 years got a visa for her so that she could live with him. Shortly thereafter she gave birth to Jasmeet. Manmohan was always embarrassed of Bebo, as she was overly healthy and not quite sophisticated, as a result he always left her at home, while he socialized. Bebo did not want Jasmeet to end up like her, so got her admitted in an English Medium school, encouraged to mingle with Caucasian friends, and as a result Jasmeet was transformed in to Jazz - a stunningly beautiful young woman, British in looks, talk, habits, and heart. Manmohan's plans to get her married to an Indian boy are all in vain. His friend, Parvez Khan, is in a similar situation with his son, Imran, openly romancing a Caucasian blonde, Susan. Manmohan decides to take his family for a tour in India...",2007,tt0795434,7.1,21745.0
+tm44530,Fashion,MOVIE,A small-town girl finally realizes her dream of becoming a famous supermodel but soon finds out that there's a price for her glamorous new life.,2008,tt0964516,6.9,12468.0
+tm96595,Lakshya,MOVIE,"An aimless, jobless, irresponsible grown man joins the army and matures into a battlefield hero.",2004,tt0323013,7.8,23076.0
+tm56428,Trailer Park Boys: Say Goodnight to the Bad Guys,MOVIE,"""Say goodnight to the bad guys"" picks up where ""A Sh*t river runs through it"" left off. it's a year after the events of A.S.R.R.T.I and Ricky, Julian, and bubbles are rich with cash, but Julian sits on the money for a year claiming ""movies like casino prove that waving money around right away is a bad idea."" and then hides it in his newly purchased Delorean (AKA car from back to the future)",2008,tt1324027,7.8,3555.0
+tm155774,Pomegranates and Myrrh,MOVIE,"A free spirited woman dancer, Kamar, finds herself the lonely wife of a prisoner, Zaid, and away from everything she loves until she returns to the dance, defying societys taboos. At the dance Kamar is confronted with Kais, a Palestinian returnee. Sparks fly between Kamar and Kais, creating more than a passionate, emotional dance for the both of them. Matters become even more complicated when Zaid's sentence is extended. Kamar's life is thrown into turmoil as she becomes increasingly attached to Kais, and caught in the midst of her desire to dance and breaking the family and society taboos of the prisoner's wife's role while life under occupation rages on.",2009,tt1320282,6.3,249.0
+tm44378,Tony Manero,MOVIE,"A man is obsessed with John Travolta's disco dancing character from ""Saturday Night Fever"".",2008,tt1223975,6.8,4231.0
+tm27484,Kismat Konnection,MOVIE,Raj Malhotra is a luckless architect who seeks success but in vain. He bumps into a social activist named Priya. Raj finds out that Priya is a lucky charm for him but unfortunately she is protecting the community center for which he aims to win the contract of demolishing for a brand new shopping mall.,2008,tt1105733,5.3,5588.0
+tm145243,Wake Up Sid,MOVIE,"Wake Up Sid! is the story of a lazy Mumbai college student who does absolutely nothing, with a turn of events will Sid realize his potential in this world and become a success in the fast-paced life of Mumbai.",2009,tt1324059,7.6,30818.0
+tm77348,Life in a Metro,MOVIE,"Six different stories, about nine people, each with different issues and problems, all occurring within one place: the METRO.",2007,tt0800956,7.4,11934.0
+tm111226,Awara Paagal Deewana,MOVIE,"Awara Paagal Deewana ((Hindi: Ã Â¤â€ Ã Â¤ÂµÃ Â¤Â¾Ã Â¤Â°Ã Â¤Â¾ Ã Â¤ÂªÃ Â¤Â¾Ã Â¤â€”Ã Â¤Â² Ã Â¤Â¦Ã Â¥â‚¬Ã Â¤ÂµÃ Â¤Â¾Ã Â¤Â¨Ã Â¤Â¾), English: Wayward, Crazy, Insane) is a 2002 Bollywood action comedy directed by Vikram Bhatt. The film's music was composed by Anu Malik, and the lyrics by Sameer. Reduced to a henpecked husband, his dream of making it big and being independent in the USA, Dr. Anmol Acharya is, in short, disillusioned and sad. He is not alone, he has his father-in-law, Manilal in the same leaky boat with him. Then this family has a new neighbor, namely Gulu Gulab Khatri. They find out that he a crime lord from India, and has a price-tag of two crore rupees on his head. Anmol and Manilal's wife want their respective husbands to go to India and arrange to hand-over Khatri, so they can collect the dough. Anmol and Manilal do go to India, but things don't go well as planned, and the hapless duo end up as hostages by Chota Chatri and Yeda Anna, who have orders to kill Khatri, and anyone else who gets in their way.",2002,tt0319020,6.2,8309.0
+tm237621,The Figurine (Araromire),MOVIE,"Two buddies and a girl, down on their luck, have their lives changed when one of them discovers a mysterious figurine in an abandoned shrine which, according to legend, bestows seven years of good luck. But no one told them about the next seven years...",2009,tt1542960,4.4,243.0
+tm152724,Kurbaan,MOVIE,"When a handsome young Indian couple (Saif Ali Khan and Kareena Kapoor) moves into the suburbs to claim their stake in the American dream, they are shocked to discover that they've become enmeshed in a secretive terrorist plot. But as tensions escalate, the bride begins to wonder if her husband has told her everything he knows.",2009,tt1185442,5.7,5121.0
+tm69694,CanÃ¢â‚¬â„¢t Complain,MOVIE,A comedy about a triplet brothers but with only one birth certificate.,2007,tt2244947,7.5,3922.0
+tm105278,Inuyasha the Movie 2: The Castle Beyond the Looking Glass,MOVIE,"With their most formidable foe vanquished, Inuyasha and his comrades begin returning to their everyday lives. But their peace is fleeting as another adversary emerges: Kaguya, the self-proclaimed princess from the Moon of Legend, hatches a plot to plunge the world into an eternal night of the full moon. Inuyasha, Kagome, Miroku, Sango and Shippou must reunite to confront the new menace.",2002,tt0366621,7.3,2127.0
+tm33729,Taxi No. 9 2 11,MOVIE,A cabbie and businessman both in need of big money partake in a two-hour adventure together.,2006,tt0476884,7.2,9897.0
+tm129763,Anbe Sivam,MOVIE,Nalla Sivam and Anbarasu meet under different circumstances and their lives are changed as they take the journey of their life.,2003,tt0367495,8.69999999999999,20595.0
+tm130301,Gangaajal,MOVIE,"Posted to a small, crime-ridden town, a cop soon learns that cleaning up the system also means confronting the corruption among police and politicians.",2003,tt0373856,7.8,17029.0
+tm141117,Chalte Chalte,MOVIE,A man pursues a woman who is already engaged and eventually gets married to her. Differences between the two lead to a bitter separation that threatens to destroy their relationship forever.,2003,tt0346723,6.5,15379.0
+tm35652,Mumbai Meri Jaan,MOVIE,"Shortly after 1800 hours, 11 July 2006, Mumbai was shattered by seven bomb blasts on Western Railway stations: Matunga, Mahim, Khar, Bandra, Jogeshwari, Borivali, and Bhayandar. It took the Police and ambulance over an hour to attend at various sites. This incident changes lives of Thomas, originally from Chennai, who sells tea from his bike; Rupali Joshi, a TV News reporter, who has to deal with the death of her to-be spouse, Ajay Kumar Pradhan; Suresh, in debt, starts to suspect all Muslims, especially Yusuf; Inspector Tukaram Patil, about to retire, goes about collecting bribes as usual, much to the chagrin of his embittered, honest and soon to-be suspended subordinate, Sunil Kadam; while Nikhil Agarwal, a Nationalist and environmentalist, debates whether he should re-locate to the United States, along with his pregnant wife, Sejal.",2008,tt1266583,7.7,6309.0
+tm49865,Aamir,MOVIE,A doctor of Indian origin returning to Mumbai from London is forced to participate in a terrorist plot.,2008,tt1241195,7.6,11241.0
+tm254745,Frontiers of Dreams and Fears,MOVIE,"This heartfelt documentary from award-winning filmmaker Mai Masri explores the enduring friendship that evolves between two Palestinian girlsÃ¢â‚¬â€Mona, who was born and raised in the economically marginalized Shatila refugee camp in Beirut, and Manar, who lives in the Dheisha refugee camp under Israeli control.  The two girls begin their friendship as penpals, sharing the similarities and differences of life in the two refugee camps. Mona and Manar are finally able to meet face-to-face at the Lebanese-Israeli border during Israel's withdrawal from South Lebanon. But when the second intifada suddenly erupts around them shortly thereafter, both girls must face heart-breaking changes in their lives.",2001,tt0477653,8.3,54.0
+tm134140,Ishq Vishk,MOVIE,"Rajiv Mathur decides to go conditionally steady with fellow collegian, Payal, so that be can be permitted to go on an outing. Payal accepts, and accompanies him. During the outing, he gets intoxicated, and attempts to molest her, and she decides to dump him. Thereafter, slighted but not beaten - Rajiv turns on his charms on another beauty - the gorgeous Alisha Sahay. But will she be as permissible as Payal?",2003,tt0362771,6.1,4203.0
+tm114504,The Legend of Bhagat Singh,MOVIE,"Born in British India, Bhagat Singh witnesses numerous atrocities during his childhood and grows up to become one of the most fearless freedom fighters in the country.",2002,tt0319736,8.1,16225.0
+tm76029,Under the Bombs,MOVIE,"In the wake of Israel's 2006 bombardment of Lebanon, a determined woman finds her way into the country convincing a taxi driver to take a risky journey around the scarred region in search of her sister and her son.",2007,tt1094275,7.0,1641.0
+tm33067,Race,MOVIE,"Ranvir and Rajiv are half brothers who own a huge stud farm in South Africa. Ranvir is a very shrewd and aggressive man while Rajiv is laid back, and a chronic alcoholic. Sophia, Ranvir's personal secretary adores and loves him. Ranvir is unaware of her feelings. Shaina, an Indian ramp model in Durban loves Ranvir but through a twist of fate gets married to his younger brother Rajiv. When she discovers that Rajiv is a chronic alcoholic, her world is shattered. Ranvir too is disturbed as he has sacrificed his love for his younger brother because Rajiv had promised to leave alcohol for good if he marries Shaina. In a weak moment Ranvir and Shaina come very close to each other. When Rajiv starts suspecting, all hell breaks loose. A murder is committed, a contract killing is issued. A sharp tongued detective R.D., getting wise on the proceedings, starts an intriguing investigation with his brainless bimbo assistant Mini",2008,tt1017456,6.9,63.0
+tm712151,Laugh Out Loud,MOVIE,The biggest stand-up comedy event ever in South Africa.,2003,tt0401575,7.0,13.0
+tm34924,The Beast Stalker,MOVIE,"Sergeant Tong is wracked with guilt after he unwittingly kills a young girl whilst capuring a criminal named Cheung. When the girl's sister is later kidnapped in a ploy to get Cheung released, Sergeant Tong vows to find and rescue her before she comes to harm.",2008,tt1330525,6.8,2191.0
+ts98316,Edge of the Universe,SHOW,"Leading astronomers reveal the latest discoveries about death-trap planets, asteroids, comets and other wonders of the cosmos.",2002,tt6951568,7.2,206.0
+tm216753,Old Thieves: The Legend of Artegio,MOVIE,"Is the story of a generation of thieves who achieved their greatest victories in the sixties; their distinctive code of ethics, the various categories of delinquents inhabiting the cityÃ‚â€™s streets, their alliances with high ranking police officials that allowed them to operate, the betrayals that followed, and the price they ended up paying.",2007,tt1020042,8.0,314.0
+tm112235,Kannathil Muthamittal,MOVIE,"A little girl is told by her parents that she is adopted. Determined to find her birth mother, her family eventually agrees to take her to Sri Lanka, where they are abducted by the terrorist group known as the Tamil Tigers.",2002,tt0312859,8.4,8376.0
+tm96052,Palermo Hollywood,MOVIE,"In a country that has been broken down and corupted by poverty, Pablo and Mario are best friends and local thieves. Although they come from very different backgrounds, they help each other out by commiting petty crimes that help Pablo support his family and Mario become independent from his own. In a twist of fate, they become involved in a kidnapping that goes sour. This tragedy triggers and unmasks a series of events that changes their lives forever. Now the two friends will be tested and their lives taken to the limit.",2004,tt0422907,5.2,200.0
+tm134407,Dev.D,MOVIE,"Because they come from different castes, the son of a tax collector and his true love are not allowed to marry, sending them down divergent paths.",2009,tt1327035,7.9,30389.0
+tm81864,Twins Mission,MOVIE,"When a precious Tibetan bead is stolen by rogue members of the mysterious Gemini Clan, the protectors of the bead enlist the help of some righteous former Gemini Clan members to retrieve the bead and bring the evil disciples to justice.",2007,tt0934949,5.2,686.0
+tm346951,What's Up?,MOVIE,The film is a comedy-drama that recounts the story of a family torn between modernity and tradition in Saudi Arabia.,2006,tt0791180,2.9,315.0
+tm144263,Aagey Se Right,MOVIE,"Aage Se Right is the story of chance, co-incidence and real life humor based in the present day Mumbai. The film spans over five days of panic, chaos and mayhem!!!",2009,tt1479667,5.2,406.0
+tm85689,Krishna Cottage,MOVIE,A group of collegians are forced to take shelter in a mysterious Krishna Cottage for the night. Little do they know that the cottage is haunted by a spirit.,2004,tt0408976,5.1,1153.0
+tm368679,Madness in the Desert,MOVIE,"The story of making ""Lagaan,"" one of the millennium's seminal Indian films, is told from the point of view of production team member Satyajit Bhatkal.",2004,tt0417528,8.4,373.0
+tm36636,C Kkompany,MOVIE,"Akshay Kumar is a crime reporter, Mr. Joshi is a retired accountant trying to deal with his ungrateful son and Lambodar are friends. These three share their respective plight with one another and find solace in each others company. On one occasion, they play a harmless prank to tackle their problems. One thing leads to another, and before they realize, the incident becomes news. But things donÃ¢â‚¬â„¢t stop there. They put their new founded fame to good use, and this in turn triggers off a series of incidents, which propel them to such heights that the three become the talk of the nation. Things get beyond their control, and the three are left with no choice but to be mute spectators to their newly acquired fame, especially since no one knows their identity.",2008,tt1170399,5.5,1115.0
+tm52176,Welcome to Sajjanpur,MOVIE,"Mahadev (Shreyas Talpade) is an unemployed graduate with a Bachelor of Arts from Satna college, who is forced to make a living writing letters for the uneducated people of his village. His real ambition is to become a novel writer. Through his humble occupation, Mahadev has the potential to impact numerous lives. The movie is a satirical, but warm-hearted portrait of life in rural India.",2008,tt1221139,6.9,3239.0
+tm42831,Kyo Kii... Main Jhuth Nahin Bolta,MOVIE,"Inpired from the movie ""Liar Liar"", this movie is about a lawyer (Govinda) who lies his way through marriage and career. His wife (Sushmita Sen) falls in love with him because of his honesty and when she finds out of his dishonesty she threatens to divorce him. Their son, to avoid the divorce, wishes on a shooting star that his father should lose the ability to lie. What happens after that is an enjoyable journey.",2001,tt0297241,5.3,2196.0
+tm135795,The Kite,MOVIE,"A young 15 year old girl, Lamia, lives in a southern Lebanese village on the border with Israel. She is given in marriage to her cousin on the other side of the border. As Lamia crosses the barbed wire she also passes from childhood into adulthood, as brutal as our countries and the events that are to follow.",2003,tt0377610,6.4,739.0
+tm254052,Kucch To Hai,MOVIE,"Indian film-makers have now come up with their very own ""I Know What You Did Last Summer', a story centering around a College Professor, who kills his wife, and hides her body in the College campus. When some students, who have been caught cheating in their exams, decide to change their marks, they break into the Professor's room, and this is where they find his wife's lifeless body. Afraid, they may get blamed for breaking and entering as well as this murder, they decide to run away, leave the city and try to forget this ever happened. Years the college friends meets at a mutual friends' wedding - and this is where they will find out that the killer of the woman is still at large, knows about them, and this time they are going to be his next victims",2003,tt0348662,4.3,909.0
+tm166293,The Blue Umbrella,MOVIE,"Young Biniya lives a poor lifestyle in a small village in the mountainous and snowy region of Himachal Pradesh in India along with her widowed mom and wrestler brother. She entertains various tourists, and while doing so with some tourists from Japan, trades in her bear-tooth amulet with a blue umbrella...",2005,tt0457802,7.3,2077.0
+tm154375,Main Aurr Mrs Khanna,MOVIE,"Three people, each having different aspirations from life, are caught in a tangle of emotions and donÃ¢â‚¬â„¢t know the way out. ThereÃ¢â‚¬â„¢s a husband and wife with love eroding from their life. And thereÃ¢â‚¬â„¢s a single, happy-go-lucky dude who falls in love with the wife.",2009,tt1174041,3.5,3148.0
+tm241875,Frank & Cindy,MOVIE,"Frank & Cindy is a deeply personal documentary about Frank Garcia, an '80s one-hit wonder musician, and his blonde bombshell wife Cindy, who makes him live in the basement.",2007,tt0986354,7.0,344.0
+tm85563,Ezra,MOVIE,"Ezra, jeune ex-soldat Sierra-LÃƒÂ©onais, essaie tant bien que mal de retrouver des repÃƒÂ¨res pour revenir ÃƒÂ  une vie normale aprÃƒÂ¨s la guerre civile qui a ravagÃƒÂ© son pays. Son quotidien est partagÃƒÂ© entre un centre de rÃƒÂ©habilitation psychologique et un tribunal de rÃƒÂ©conciliation nationale organisÃƒÂ© sous l'ÃƒÂ©gide de l'ONU. Durant le procÃƒÂ¨s en rÃƒÂ©habilitation auquel Ezra participe, il doit affronter sa soeur qui l'accuse du meurtre de leurs parents. Ezra, qui a traversÃƒÂ© cette violente guerre civile complÃƒÂ¨tement droguÃƒÂ© et alcoolisÃƒÂ©, ne se souvient de rien. Ezra reconnaÃƒÂ®tra-t-il l'horreur et par ce fait, permettra-t-il ÃƒÂ  sa soeur et ÃƒÂ  sa communautÃƒÂ© villageoise d'accÃƒÂ©der au pardon ?",2007,tt0923688,6.4,274.0
+tm308960,Gina Yashere: Skinny B*tch,MOVIE,"Gina Yashere's performance on American TV's Last Comic Standing has led to commitments in the USA. Back in the UK for just a month, here she is on a tour doing all her best bits, new and old.",2008,tt1722436,6.5,84.0
+tm154802,Agyaat,MOVIE,"A film unit goes for a shoot deep into a forest, they settle at a place with bare minimal facilities run by a strange and quirky man called Setu.",2009,tt1415252,2.9,674.0
+tm21155,Falafel,MOVIE,Everything bad that can happen on the way to a party happens to young Tou on this nighttime trip though Beirut.,2006,tt0922424,6.7,209.0
+tm46867,Kuselan,MOVIE,"Balakrishnan and Ashok are two childhood friends who lose touch with each other. One of them goes on to become a national figure and the other, a village barber.",2008,tt1273218,4.8,1000.0
+tm140653,Look for a Star,MOVIE,"Wealthy construction mogul Sam Ching (Andy Lau) and cabaret dancer Milan Sit (Qi Shu) fall madly in love with one another despite the class differences that would keep many couples apart. However, what Sit doesn't know is that Ching is the man responsible for razing a building representing cherished memories from her childhood. Can they live happily ever after if this secret gets out?",2009,tt1312156,5.6,708.0
+tm160596,Zozo,MOVIE,A Lebanese boy gets separated from his family during the civil war and ends up in Sweden.,2005,tt0448267,6.5,3210.0
+tm76399,A Love Story,MOVIE,"Ian Montes is a picture of success. Despite being a son of a shipping tycoon, Ian refused to just ride in his father's empire. He built his own real estate company and earned his first million at a very young age. He never looked back since then. Driven by his ambition to become better, if not as good as his father, Ian managed to make it on his own. But behind all the glory is a man yearning for love and recognition.",2007,tt0990433,6.4,142.0
+tm226362,Bosta,MOVIE,"After 15 years in France, Kamal returns to his native Beirut and reassembles his dance crew, striving to modernize traditional Dabke routines.",2005,tt0497335,6.4,603.0
+tm84316,Shootout at Lokhandwala,MOVIE,"On a calm summer day in 1991, in the bustling Lokhandwala Complex, five criminals including Maya and Dilip were counting 70 lakhs in flat no. 32 B, when 286 policemen, headed by ACP Khan, took strategic positions around their building. A gunfire ensued and the entire nation witnessed the most talked about daylight encounter lasting 6 hours that transformed suburban Mumbai into a war zone.",2007,tt0811066,7.1,10139.0
+ts39604,The Hospital,SHOW,"When the President's only daughter, Liu Xinping, checks into a hospital for her chemotherapy treatment, the head of internal medicine and the head of surgery become core members of the President's medical team. Both men plan to use this opportunity to prove themselves as the best candidate for the position of hospital director. As a result, the two men appoint rival surgeons to attend to Xiuping's surgery.",2006,tt2823414,7.4,40.0
+tm168869,Da Kath & Kim Code,MOVIE,"The squabbling mother and daughter, Kath and Kim, embark on an excursion into the unexplored crannies of life at Lagoon Court, Fountain Lakes.",2005,tt0484275,7.3,904.0
+tm352243,Interview with a Serial Killer,MOVIE,"In this jailhouse interview, Arthur Shawcross, the Genesee River Killer, shares candid details of his crimes and his surprising family bonds.",2008,tt6978288,5.9,595.0
+tm89012,The Student Cop,MOVIE,The film revolves in the context of romantic comedy and action through the character of a police officer under covered as student in a university and befriends key students to uncover a drug distribution network within the university.,2004,tt0419482,6.3,2051.0
+ts160526,Khawatir,SHOW,"A TV show devoted to help young people to be mature in their faith, work & knowledge",2005,tt3062514,9.6,3046.0
+tm130999,Dhoondte Reh Jaaoge,MOVIE,"Anand Pawar (Kunal Khemu) and Raj Chopra (Paresh Rawal) are perhaps the two most extreme individuals that have walked the city of Mumbai. While Anand is an idealist chartered accountant, Raj is an idle film producer.",2009,tt1391544,5.6,812.0
+tm87672,Rabun,MOVIE,"It tells a story about a free-spirited older couple, Pak Atan and Mak Inom who decide to spend more time in the country after getting tired of city life. But they find that life in the old village isn't a good thing when they get cheated by a distant relative, Yem, out of some money. They cut him off and Yem plots revenge. Meanwhile, in the city, the couple's daughter Orked is being wooed by a young gentleman,",2003,tt0368190,7.7,83.0
+tm27275,Life's Speed Bump,MOVIE,"Seeking job opportunities, a young man arrives in Cairo and becomes increasingly involved with the family of a wealthy businessman.",2006,tt1010422,6.6,2693.0
+ts23797,Black & White,SHOW,"Pi Zi and Ying Xiong are two cops who are as different as day and night. One lives a luxurious lifestyle and does nothing but drink coffee and wait for information from dubious sources to crack his cases. Another believes law and justice are the pillars of society and is constantly on the street catching criminals. When a case brings these two top crime solvers together, sparks fly and light begins to creep into the dark corners of Taipei.",2009,tt1508870,7.6,302.0
+tm85369,Hattrick,MOVIE,"Despite cricket fever running wild, there are two people in India who dislike its influence over their lives. The first is Dr. Satyajit Chavan, who will not permit anyone in his home nor the hospital to view nor hear anything related to it; and the second is Kashmira, who is recently married to Sarabjeet Singh, and hates cricket as her husband is obsessed with it and has even neglected to be attentive leave alone take her for a honeymoon. Then there is Hemandra Patel, located in England for over 10 years, works as an airport Janitor, but has told everyone he is a Customs Officer, is awaiting word on his becoming a Citizen, but his fate rests with Immigration Officer, Cook, who hates all Patels, including Sardar Vallabhai Patel. Watch how the world cup influences them, and the shock that awaits Hemandra when he finds that his daughter is secretly seeing an English-African male by the name of Silver.",2007,tt0979891,4.3,493.0
+tm143510,Harishchandrachi Factory,MOVIE,The movie depicts efforts and struggle by Dadasaheb Falke for creating first motion picture in India - Raja Harishchandra.,2009,tt1524539,8.4,2464.0
+tm311516,Koi Aap Sa,MOVIE,"An emotional Mumbai-based football player, Rohan (Shivdasani), seeks the assistance of childhood friend, Simran (Reddy), to successfully woo fellow-collegian, Preeti (Sharma). Simran herself is about to be engaged to U.S-based Vicky (Malik). After the engagement ceremony, Vicky returns back to the U.S - not realising that back in India nothing is the same anymore...",2005,tt0488840,5.5,261.0
+tm476570,Menahi,MOVIE,"Menahi is a Saudi Bedouin young man, single and living with his old mother. He is a simple, spontaneous and kind-heart man, instinctive and adhering to the ethics of the environment from which he emerged, such as honesty, honor and virility. He dreams of owning a small farm to raise sheep. But he went out into the city and didn't adapt to civic life.",2008,tt9600178,6.7,51.0
+tm148041,What's Your Raashee?,MOVIE,"What's Your Raashee? Yogesh Patel, a young man in a hurry. Yogesh must find his dream girl within 10 days to save his family from utter ruin. Finding the dream girl is tough enough. Finding her in a hurry is even tougher.",2009,tt1242530,4.8,2718.0
+tm152413,Talentime,MOVIE,"A talent search competition has matched two hearts - that of Melur, a Malay-mixed girl and an Indian male student, Mahesh. Melur, with her melodious voice, singing whilst playing the piano is one of the seven finalists of the Talentime competition of her school organised by Cikgu Adibah. Likewise Hafiz, enthralling with his vocalist talent while playing the guitar, divides his time between school and mother, who is hospitalised for brain tumor.",2009,tt1351669,7.4,203.0
+tm21956,Anthony Kaun Hai?,MOVIE,"Small-time crook, Champa Chaudhary alias 'Champ' forges passports, photographs, and deeds in Thailand. He is arrested by the Police, tried and sentenced to six months in jail, and this is where he meets a supposedly dumb and deaf inmate, Raghuvir Sharma, serving a life sentence of stealing diamonds. Champ finds out that Raghuvir is not deaf nor dumb, and offers him a share if he springs him out of prison, to which Champ agrees. As soon as Champ's term is over, he gets discharged and prepares forged release documents for Raghuvir and in this manner gets him legally out of jail. The two then hideout in a house deep in the country, where Raghuvir is re-united with his daughter, Jia.",2006,tt0800981,5.2,664.0
+ts70843,The Prince Who Turns into a Frog,SHOW,"The Prince Who Turns Into a Frog is a 2005 Taiwanese drama starring Ming Dow and Sam Wang of boyband 183 Club; and Joe Chen and Joyce Zhao of girl group 7 Flowers, as well as all the members of the former and two members of the latter, who are signed by Jungiery Entertainment. It was produced by Sanlih E-Television and directed by Chen Ming Zhang and Liu Jun Jie.
+
+The series was first broadcast in Taiwan on free-to-air Taiwan Television from 5 June 2005 to 16 October 2005, every Sunday at 21:30 and cable TV Sanlih E-Television from 11 June 2005 to 22 October 2005, every Saturday at 21:00.
+
+Episode seven was broadcast on 17 July 2005, it achieved an average rating of 7.05 and peaked at 8.05, which broke the previous average record of 6.43 held by Meteor Garden and was the highest peak for a single episode for a Taiwanese drama until it was broken by episode 13 of Fated To Love You which peaked at 8.13 in 2008.",2005,tt1454440,6.8,128.0
+tm57586,Mission Istaanbul,MOVIE,A news reporter must uncover the secret on the 13th floor of a News Station.,2008,tt1179781,3.4,1156.0
+tm91125,Fida,MOVIE,Fida tells the story of Jai who one day happen to meet a young and beautiful woman called Neha and he falls in love with her at first sight.,2004,tt0422236,5.4,2608.0
+ts13411,Cocaine,SHOW,"A three-part documentary series investigating the cocaine trafficking, distribution, usage and state control.",2005,tt0907286,7.1,60.0
+tm142153,Kisaan,MOVIE,A bitter family battle ensues between a father and his sons when a businessman makes a deal that entices farmers to sell off their properties.,2009,tt1372266,5.5,302.0
+ts4924,At Dolphin Bay,SHOW,"At Dolphin Bay is a Taiwanese drama that stars Angela Zhang, Ambrose Hsu, Wallace Huo, and Jill Hsu. The drama aired on 2003 in SETTV.",2003,tt8612066,6.9,39.0
+tm88343,Perazhagan,MOVIE,A hunchbacked phone booth operator loves a blind street dancer and wants to help her regain her sight. His lookalike is a constable in love with the commissioner's daughter.,2004,tt0422934,6.4,1496.0
+ts126804,My MVP Valentine,SHOW,"A young man whose life revolves around basketball must give up what he loves the most to repent for a horrible tragedy. Tuan Chen-Feng (Hsing-shu Yen), a talented high school basketball player, is on the way to the most important competition of his life when he is involved in a car accident that paralyzes Angel (Michelle Lee-Wen Lin), who happens to be the younger sister of his biggest rival, Iceman (Yi-Fei Chen).",2002,tt6286390,6.5,27.0
+tm28024,A Very Special Love,MOVIE,"Laida Magtalas is a modern-day Belle who works hard to provide for her family while hoping that someday she will meet her prince charming and that they will live happily ever after together. That would-be prince charming is none other than ""Miggy"", the youngest member of the Montenegro clan Ã¢â‚¬â€ a well established family in the business world. Moony Laida's desire to finally meet Miggy leads her to apply as an Editorial Assistant at his newly launched menÃ¢â‚¬â„¢s magazine, ""Bachelor"". In spite of the fact that a relationship with Miggy may prove to be a long shot, Laida revels working in such close proximity with the man of her dreams.",2008,tt1243381,6.5,388.0
+ts188031,Pink Zone,SHOW,"Is the story of four friends: Natalia, AngÃƒÂ©lica, Vicky and Sara. The four of them live together and try to live together despite having their differences. They all support Natalia's dream. Natalia is a 25-year-old young woman, recently graduated from her cooking studies, who dreams of setting up her own restaurant, and wants her friends to be her partners and that her best friend AndrÃƒÂ©s also be the administrator. However, despite her dreams, Natalia has had very bad luck in her relationships. Her last boyfriend Federico was cheating on her and leaves her to marry another woman. However, she does not suspect that her best friend AndrÃƒÂ©s is secretly in love with her and tries to win her over and change her perception of men.",2007,tt11194518,6.1,47.0
+tm598375,Chhota Bheem Aur Krishna,MOVIE,"About 500 years ago, the five kingdoms around IIT Dholakpur joined together to end Kirmada`s rule. Now a mysterious force has brought him back from the dead. miss Bheem beat Kirmada & save the kingdom of IIT Dholakpur once again!",2008,tt2827516,6.4,310.0
+ts56595,Cocomong,SHOW,"A little sausage becomes a monkey, an egg becomes a rabbit, a radish becomes a hippo, a cucumber becomes a crocodile and a carrot becomes a donkey. These unique characters express the fun of being a kid. Acceptance and friendship are told through every story.",2008,tt9892608,5.6,11.0
+tm252951,Brother's Shadow,MOVIE,"Jake Groden is the black sheep of his family. Ankle deep in fish guts, he serves out his parole in Alaska. Then, after a decade of self-imposed exile, he is forced to return to his Brooklyn family. He soon discovers that his perfect brother, Michael is dead, and he begins trying to take what Michael had- a beautiful wife, adoring son, control of the family furniture business and the love of their gruff father. For Jake, the price of a new life is his identity.",2006,tt0468458,6.1,147.0
+tm628693,"Do Paise Ki Dhoop, Chaar Aane Ki Baarish",MOVIE,"When a sex worker hires a gay songwriter to care for her disabled son, the ensuing bonds that form offer a complex portrayal of love and family.",2009,tt1935782,6.5,203.0

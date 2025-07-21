@@ -1,7 +1,7 @@
-id,title,release_year,imdb_score,imdb_votes
-tm16479,White Christmas,1954,7.5,42373.0
-tm135083,Cairo Station,1958,7.5,4385.0
-tm204541,Dark Waters,1956,6.7,590.0
-tm102287,Raya and Sakina,1953,6.8,231.0
-tm19608,The Blazing Sun,1954,7.4,1219.0
-tm358653,Ujala,1959,6.7,78.0
+id,title,type,description,release_year,imdb_id,imdb_score,imdb_votes
+tm16479,White Christmas,MOVIE,Two talented song-and-dance men team up after the war to become one of the hottest acts in show business. In time they befriend and become romantically involved with the beautiful Haynes sisters who comprise a sister act.,1954,tt0047673,7.5,42373.0
+tm135083,Cairo Station,MOVIE,"Qinawi, a physically challenged peddler who makes his living selling newspapers in the central Cairo train station, is obsessed by Hanuma, an attractive young woman who sells drinks. While she jokes with him about a possible relationship, she is actually in love with Abu Siri, a strong and respected porter at the station who is struggling to unionize his fellow workers to combat their boss' exploitative and abusive treatment.",1958,tt0051390,7.5,4385.0
+tm204541,Dark Waters,MOVIE,"Ragab, a poor sailor, returns home to Alexandria after three years of absence, during which he tried to save money to marry his one true love, Hamedah. But there's trouble on the harbor, and with an old friend.",1956,tt0049761,6.7,590.0
+tm102287,Raya and Sakina,MOVIE,"Dramatic rendition of a real life crime wave that terrorized the city of Alexandria, Egypt, between the years 1920 and 1922. Women are disappearing without a trace in what looked like the work of a serial killer. Being Egypt's first ever case of serial killings, the police is relentless and assigns the case to their best inspector. He traces the leads to sisters Raya and Sekina, but it becomes a race against time before they kill again.",1953,tt0316472,6.8,231.0
+tm19608,The Blazing Sun,MOVIE,"A rich landlord floods and destroys a village on purpose to prevent the people living there from making a profit off their crops. What he doesn't know is that his own daughter is in love with Ahmed, a young man from the village.",1954,tt0044429,7.4,1219.0
+tm358653,Ujala,MOVIE,"An honest man dreams of a better life for his family, but a childhood friend leads him into a world of crime that keeps happiness just out of reach.",1959,tt0157132,6.7,78.0
