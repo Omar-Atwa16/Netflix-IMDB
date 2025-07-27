@@ -13,10 +13,10 @@ Analyzed Netflix content types and release years using data from IMDb.
 - Visualized the results
 
 ## What You Can Find Here
-- Python scripts
-- SQL queries
+- Python outputs
+- SQL results
 - Power BI Dashboard
-- Raw and cleaned datasets
+- Raw dataset
 
 ## About Me
 Hey there! I'm Omar, a data science student who loves digging into data to find patterns and useful insights.  
